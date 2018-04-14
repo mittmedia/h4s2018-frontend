@@ -3,7 +3,7 @@
     <%= topic.topic.upcase %><%= " | #{topic.published_at}" if topic.published_at %>
   </div>
   <div class="topic_card__title">
-    <%= topic.title %>
+    <%= link_to topic.title, topic_path(topic.doc_id) %>
   </div>
   <div class="topic_card__actions">
     <div class="topic_card__stage">
