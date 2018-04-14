@@ -2,7 +2,8 @@ class TopicsController < ApplicationController
   before_action :verify_topic, only: :show
 
   def index
-    @topics = get_all_topics
+    topics = get_all_topics
+    @topics = insert_trending(topics)
     # TODO: Do something with the trending topics design thing
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
   end
@@ -30,7 +31,6 @@ class TopicsController < ApplicationController
       topic['doc_id'].upcase!
       OpenStruct.new(topic)
     end.uniq(&:doc_id)
-    insert_trending(topics)
   end
 
   private
@@ -68,7 +68,7 @@ class TopicsController < ApplicationController
   end
 
   def verify_topic
-    @topic_id = params[:id]
+    @topic_id = params[:id].upcase
     bad_request('Missing `topic_id` parameter') if @topic_id.blank?
   end
 end
