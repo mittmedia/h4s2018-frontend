@@ -1,0 +1,1980 @@
+OBJECTID,AR,LANSKOD,AREA_HA,BEF,KOMMUNKOD,KOMMUNNAMN,TATORTSKOD,TATORT,LAN_NAMN
+9613,2015,12,130,1297,1287,Trelleborg,T3688,Smygehamn,Skåne
+9614,2015,12,40,560,1287,Trelleborg,T3538,Kurland,Skåne
+9615,2015,12,385,1308,1287,Trelleborg,T3338,Beddingestrand,Skåne
+9616,2015,12,1550,29316,1287,Trelleborg,T3752,Trelleborg,Skåne
+9617,2015,12,107,548,1287,Trelleborg,T3528,Klagstorp,Skåne
+9618,2015,12,143,757,1264,Skurup,T3300,Abbekås,Skåne
+9619,2015,12,33,286,1287,Trelleborg,T3806,Västra Tommarp,Skåne
+9620,2015,12,79,1156,1287,Trelleborg,T3676,Skegrie,Skåne
+9621,2015,12,579,7077,1233,Vellinge,T3672,Skanör med Falsterbo,Skåne
+9622,2015,12,166,1258,1264,Skurup,T3680,Skivarp,Skåne
+9623,2015,12,88,921,1286,Ystad,T3720,Svarte,Skåne
+9624,2015,12,129,1061,1286,Ystad,T3632,Nybrostrand,Skåne
+9625,2015,12,88,614,1286,Ystad,T3596,Löderup,Skåne
+9626,2015,12,1301,14889,1233,Vellinge,T3496,Höllviken och Ljunghusen,Skåne
+9627,2015,12,138,1963,1287,Trelleborg,T3312,Anderslöv,Skåne
+9628,2015,12,20,273,1286,Ystad,T3448,Hedeskoga,Skåne
+9629,2015,12,55,386,1286,Ystad,T3424,Glemmingebro,Skåne
+9630,2015,12,103,975,1291,Simrishamn,T2820,Borrby,Skåne
+9631,2015,12,54,369,1287,Trelleborg,T3308,Alstad,Skåne
+9632,2015,12,124,1254,1286,Ystad,T3556,Köpingebro,Skåne
+9633,2015,12,114,210,1286,Ystad,T3138,Rynge och Vallösa,Skåne
+9634,2015,12,67,331,1286,Ystad,T3708,Stora Herrestad,Skåne
+9635,2015,12,230,975,1291,Simrishamn,T3072,Skillinge,Skåne
+9636,2015,12,153,1383,1264,Skurup,T3656,Rydsgård,Skåne
+9637,2015,12,327,6496,1233,Vellinge,T3780,Vellinge,Skåne
+9638,2015,12,102,758,1233,Vellinge,T3832,Östra Grevie,Skåne
+9639,2015,12,52,373,1286,Ystad,T3740,Sövestad,Skåne
+9640,2015,12,128,879,1291,Simrishamn,T2908,Hammenhög,Skåne
+9641,2015,12,85,1164,1233,Vellinge,T3492,Hököpinge,Skåne
+9642,2015,12,93,824,1233,Vellinge,T3800,Västra Ingelstad,Skåne
+9643,2015,12,54,539,1233,Vellinge,T3438,Gessie Villastad,Skåne
+9644,2015,12,578,8040,1264,Skurup,T3684,Skurup,Skåne
+9645,2015,12,87,380,1291,Simrishamn,T2824,Brantevik,Skåne
+9646,2015,12,37,212,1233,Vellinge,T3324,Arrie,Skåne
+9647,2015,12,753,11796,1263,Svedala,T3724,Svedala,Skåne
+9648,2015,12,66,291,1291,Simrishamn,T3232,Östra Tommarp,Skåne
+9649,2015,12,182,3420,1280,Malmö,T3756,Tygelsjö,Skåne
+9650,2015,12,55,340,1270,Tomelilla,T2996,Lunnarp,Skåne
+9651,2015,12,23,225,1280,Malmö,T3682,Skumparp,Skåne
+9652,2015,12,110,1094,1291,Simrishamn,T2900,Gärsnäs,Skåne
+9653,2015,12,87,361,1270,Tomelilla,T3084,Smedstorp,Skåne
+9654,2015,12,478,6779,1291,Simrishamn,T3060,Simrishamn,Skåne
+9655,2015,12,553,12665,1280,Malmö,T3640,Oxie,Skåne
+9656,2015,12,24,226,1263,Svedala,T3466,Holmeja,Skåne
+9657,2015,12,46,777,1280,Malmö,T3788,Vintrie,Skåne
+9658,2015,12,637,6826,1270,Tomelilla,T3112,Tomelilla,Skåne
+9659,2015,12,476,13048,1280,Malmö,T3372,Bunkeflostrand,Skåne
+9660,2015,12,39,202,1270,Tomelilla,T3088,Spjutstorp,Skåne
+9661,2015,12,74,234,1291,Simrishamn,T3236,Östra Vemmerlöv,Skåne
+9662,2015,12,68,297,1291,Simrishamn,T2812,Baskemölla,Skåne
+9663,2015,12,176,3743,1263,Svedala,T3332,Bara,Skåne
+9664,2015,12,75,363,1265,Sjöbo,T3738,Sövde,Skåne
+9665,2015,12,254,1452,1265,Sjöbo,T3364,Blentarp,Skåne
+9666,2015,12,58,524,1270,Tomelilla,T3028,Onslunda,Skåne
+9667,2015,12,90,388,1265,Sjöbo,T2952,Karups sommarby,Skåne
+9668,2015,12,111,1940,1263,Svedala,T3532,Klågerup,Skåne
+9669,2015,12,36,239,1265,Sjöbo,T3816,Äsperöd,Skåne
+9670,2015,12,196,2962,1281,Lund,T3416,Genarp,Skåne
+9671,2015,12,90,327,1291,Simrishamn,T3152,Vik,Skåne
+9672,2015,12,67,226,1270,Tomelilla,T3074,Skåne-Tranås,Skåne
+9673,2015,12,395,4850,1281,Lund,T3776,Veberöd,Skåne
+9674,2015,12,28,563,1231,Burlöv,T3374,Burlövs egnahem,Skåne
+9675,2015,12,115,666,1291,Simrishamn,T3048,Sankt Olof,Skåne
+9676,2015,12,770,7910,1265,Sjöbo,T3664,Sjöbo,Skåne
+9677,2015,12,51,259,1230,Staffanstorp,T3543,Kyrkheddinge,Skåne
+9678,2015,12,106,636,1265,Sjöbo,T3600,Lövestad,Skåne
+9679,2015,12,838,15373,1230,Staffanstorp,T3696,Staffanstorp,Skåne
+9680,2015,12,258,5959,1231,Burlöv,T3812,Åkarp,Skåne
+9681,2015,12,412,6302,1281,Lund,T3380,Dalby,Skåne
+9682,2015,12,199,4744,1230,Staffanstorp,T3460,Hjärup,Skåne
+9683,2015,12,80,680,1281,Lund,T3480,Torna Hällestad,Skåne
+9684,2015,12,31,376,1230,Staffanstorp,T2814,Bergströmshusen,Skåne
+9685,2015,12,119,351,1291,Simrishamn,T3164,Vitaby,Skåne
+9686,2015,12,594,12368,1262,Lomma,T3576,Lomma,Skåne
+9687,2015,12,152,813,1265,Sjöbo,T3792,Vollsjö,Skåne
+9688,2015,12,96,719,1270,Tomelilla,T2836,Brösarp,Skåne
+9689,2015,12,94,780,1285,Eslöv,T3440,Harlösa,Skåne
+9690,2015,12,74,351,1265,Sjöbo,T3360,Bjärsjölagård,Skåne
+9691,2015,12,66,534,1281,Lund,T3648,Revingeby,Skåne
+9692,2015,12,39,231,1262,Lomma,T3402,Flädie,Skåne
+9693,2015,12,2630,87244,1281,Lund,T3584,Lund,Skåne
+9694,2015,12,435,6306,1281,Lund,T3732,Södra Sandby,Skåne
+9695,2015,12,507,9844,1262,Lomma,T3356,Bjärred,Skåne
+9696,2015,12,41,412,1281,Lund,T3768,Vallkärra,Skåne
+9697,2015,12,102,1943,1281,Lund,T3712,Stångby,Skåne
+9698,2015,12,89,992,1285,Eslöv,T3400,Flyinge,Skåne
+9699,2015,12,45,366,1285,Eslöv,T3436,Gårdstånga,Skåne
+9700,2015,12,73,689,1261,Kävlinge,T3662,Sandskogen,Skåne
+9701,2015,12,53,477,1261,Kävlinge,T3337,Barsebäckshamn,Skåne
+9702,2015,12,139,1251,1285,Eslöv,T3588,Löberöd,Skåne
+9703,2015,12,396,6481,1261,Kävlinge,T3592,Löddeköpinge,Skåne
+9704,2015,12,61,689,1261,Kävlinge,T3336,Barsebäck,Skåne
+9705,2015,12,276,4359,1261,Kävlinge,T3408,Furulund,Skåne
+9706,2015,12,52,209,1266,Hörby,T3834,Önneköp,Skåne
+9707,2015,12,72,283,1285,Eslöv,T3828,Örtofta,Skåne
+9708,2015,12,30,229,1285,Eslöv,T3830,Väggarp,Skåne
+9709,2015,12,45,391,1261,Kävlinge,T3568,Lilla Harrie,Skåne
+9710,2015,12,64,376,1285,Eslöv,T3472,Hurva,Skåne
+9711,2015,12,32,258,1261,Kävlinge,T2950,Järavallen,Skåne
+9712,2015,12,486,9320,1261,Kävlinge,T3552,Kävlinge,Skåne
+9713,2015,12,62,244,1261,Kävlinge,T3802,Västra Karaby,Skåne
+9714,2015,12,68,866,1261,Kävlinge,T3388,Dösjebro,Skåne
+9715,2015,12,487,3814,1261,Kävlinge,T3464,Hofterup,Skåne
+9716,2015,12,212,1328,1290,Kristianstad,T2848,Degeberga,Skåne
+9717,2015,12,36,208,1267,Höör,T3690,Snogeröd,Skåne
+9718,2015,12,74,254,1290,Kristianstad,T2924,Huaröd,Skåne
+9719,2015,12,46,240,1282,Landskrona,T3542,Kvärlöv,Skåne
+9720,2015,12,67,442,1282,Landskrona,T3316,Annelöv,Skåne
+9721,2015,12,44,298,1266,Hörby,T3636,Osbyholm,Skåne
+9722,2015,12,205,1174,1282,Landskrona,T3718,Saxtorpsskogen,Skåne
+9723,2015,12,238,271,1290,Kristianstad,T3018,Nyehusen och Furuboda,Skåne
+9724,2015,12,59,224,1290,Kristianstad,T3170,Vittskövle,Skåne
+9725,2015,12,947,18592,1285,Eslöv,T3396,Eslöv,Skåne
+9726,2015,12,46,365,1285,Eslöv,T3540,Kungshult,Skåne
+9727,2015,12,538,7459,1266,Hörby,T3500,Hörby,Skåne
+9728,2015,12,209,3134,1282,Landskrona,T3476,Häljarp,Skåne
+9729,2015,12,138,1604,1285,Eslöv,T3608,Marieholm,Skåne
+9730,2015,12,124,1703,1214,Svalöv,T3744,Teckomatorp,Skåne
+9731,2015,12,315,565,1290,Kristianstad,T3180,Yngsjö,Skåne
+9732,2015,12,68,265,1290,Kristianstad,T3228,Östra Sönnarslöv,Skåne
+9733,2015,12,139,1050,1214,Svalöv,T3340,Billeberga,Skåne
+9734,2015,12,154,953,1290,Kristianstad,T2864,Everöd,Skåne
+9735,2015,12,118,1563,1282,Landskrona,T3328,Asmundtorp,Skåne
+9736,2015,12,99,1191,1285,Eslöv,T3700,Stehag,Skåne
+9737,2015,12,1280,32229,1282,Landskrona,T3560,Landskrona,Skåne
+9738,2015,12,159,349,1282,Landskrona,T3126,Tuna,Skåne
+9739,2015,12,255,3852,1214,Svalöv,T3716,Svalöv,Skåne
+9740,2015,12,108,468,1290,Kristianstad,T2988,Linderöd,Skåne
+9741,2015,12,52,417,1214,Svalöv,T3760,Tågarp,Skåne
+9742,2015,12,1122,9840,1290,Kristianstad,T3184,Åhus,Skåne
+9743,2015,12,39,395,1282,Landskrona,T3484,Härslöv,Skåne
+9744,2015,12,113,926,1290,Kristianstad,T2896,Gärds Köpinge,Skåne
+9745,2015,12,446,3404,1290,Kristianstad,T3108,Tollarp,Skåne
+9746,2015,12,44,293,1285,Eslöv,T3704,Stockamöllan,Skåne
+9747,2015,12,1629,12152,1267,Höör,T3504,Höör,Skåne
+9748,2015,12,130,2093,1282,Landskrona,T3428,Glumslöv,Skåne
+9749,2015,12,146,234,1267,Höör,T3064,Jularp och Sjunnerup,Skåne
+9750,2015,12,76,434,1285,Eslöv,T3348,Billinge,Skåne
+9751,2015,12,127,800,1283,Helsingborg,T3772,Vallåkra,Skåne
+9752,2015,12,309,5904,1283,Helsingborg,T3652,Rydebäck,Skåne
+9753,2015,12,126,768,1290,Kristianstad,T3040,Rinkaby,Skåne
+9754,2015,12,98,1322,1283,Helsingborg,T3412,Gantofta,Skåne
+9755,2015,12,264,829,1267,Höör,T3748,Tjörnarp,Skåne
+9756,2015,12,137,874,1214,Svalöv,T3660,Röstånga,Skåne
+9757,2015,12,179,1516,1214,Svalöv,T3544,Kågeröd,Skåne
+9758,2015,10,389,1545,1083,Sölvesborg,T2652,Hällevik,Blekinge
+9759,2015,12,43,587,1290,Kristianstad,T2906,Hammarslund,Skåne
+9760,2015,12,384,3292,1260,Bjuv,T3392,Ekeby,Skåne
+9761,2015,12,138,2753,1283,Helsingborg,T3376,Bårslöv,Skåne
+9762,2015,12,322,3311,1290,Kristianstad,T2904,Hammar,Skåne
+9763,2015,12,47,210,1267,Höör,T3622,Norra Rörum,Skåne
+9764,2015,12,144,274,1272,Bromölla,T3020,Nymölla,Skåne
+9765,2015,12,186,1832,1290,Kristianstad,T2872,Fjälkinge,Skåne
+9766,2015,12,42,304,1290,Kristianstad,T2844,Bäckaskog,Skåne
+9767,2015,10,107,802,1083,Sölvesborg,T2656,Hörvik,Blekinge
+9768,2015,12,85,516,1272,Bromölla,T2892,Gualöv,Skåne
+9769,2015,12,206,1808,1293,Hässleholm,T3104,Sösdala,Skåne
+9770,2015,12,234,2932,1283,Helsingborg,T3644,Påarp,Skåne
+9771,2015,10,226,1319,1083,Sölvesborg,T2696,Mjällby,Blekinge
+9772,2015,12,58,499,1290,Kristianstad,T3156,Vinnö,Skåne
+9773,2015,12,2141,39762,1290,Kristianstad,T2980,Kristianstad,Skåne
+9774,2015,10,780,8972,1083,Sölvesborg,T2752,Sölvesborg,Blekinge
+9775,2015,12,165,1067,1272,Bromölla,T3136,Valje,Skåne
+9776,2015,12,218,1392,1290,Kristianstad,T3200,Önnestad,Skåne
+9777,2015,10,32,210,1083,Sölvesborg,T2610,Djupekås,Blekinge
+9778,2015,10,88,264,1083,Sölvesborg,T2692,Lörby,Blekinge
+9779,2015,12,127,1935,1283,Helsingborg,T3620,Mörarp,Skåne
+9780,2015,12,56,455,1290,Kristianstad,T2808,Balsby,Skåne
+9781,2015,12,132,1016,1290,Kristianstad,T2876,Färlöv,Skåne
+9782,2015,10,56,214,1083,Sölvesborg,T2774,Ysane,Blekinge
+9783,2015,12,629,7854,1272,Bromölla,T2832,Bromölla,Skåne
+9784,2015,12,365,2127,1276,Klippan,T2992,Ljungbyhed,Skåne
+9785,2015,12,68,460,1290,Kristianstad,T3216,Österslöv,Skåne
+9786,2015,12,54,202,1276,Klippan,T3534,Krika,Skåne
+9787,2015,12,3957,104250,1283,Helsingborg,T3452,Helsingborg,Skåne
+9788,2015,12,474,3989,1293,Hässleholm,T3160,Vinslöv,Skåne
+9789,2015,12,69,202,1290,Kristianstad,T3354,Bjärlöv,Skåne
+9790,2015,10,238,559,1080,Karlskrona,T2760,Torhamn,Blekinge
+9791,2015,12,232,4545,1283,Helsingborg,T3456,Hittarp,Skåne
+9792,2015,10,363,1606,1080,Karlskrona,T2640,Hasslö,Blekinge
+9793,2015,12,1024,10602,1260,Bjuv,T3352,Bjuv,Skåne
+9794,2015,10,677,1325,1080,Karlskrona,T2740,Sturkö,Blekinge
+9795,2015,10,223,467,1080,Karlskrona,T2612,Drottningskär,Blekinge
+9796,2015,12,171,2287,1277,Åstorp,T2928,Hyllinge,Skåne
+9797,2015,12,125,1043,1293,Hässleholm,T3120,Tormestorp,Skåne
+9798,2015,12,328,5231,1283,Helsingborg,T3820,Ödåkra,Skåne
+9799,2015,12,52,206,1283,Helsingborg,T2870,Fleninge,Skåne
+9800,2015,10,291,814,1083,Sölvesborg,T2708,Norje,Blekinge
+9801,2015,12,48,313,1276,Klippan,T2968,Klippans bruk,Skåne
+9802,2015,12,99,808,1277,Åstorp,T2810,Björnås,Skåne
+9803,2015,12,49,625,1283,Helsingborg,T3384,Domsten,Skåne
+9804,2015,12,96,722,1283,Helsingborg,T3304,Allerum,Skåne
+9805,2015,12,183,1823,1277,Åstorp,T2984,Kvidinge,Skåne
+9806,2015,12,166,1169,1293,Hässleholm,T3062,Sjörröd,Skåne
+9807,2015,12,61,542,1283,Helsingborg,T3444,Hasslarp,Skåne
+9808,2015,12,542,8411,1276,Klippan,T2964,Klippan,Skåne
+9809,2015,12,576,5847,1275,Perstorp,T3036,Perstorp,Skåne
+9810,2015,10,241,447,1081,Ronneby,T2682,"Bökenäs, Korsanäs och Kuggeboda",Blekinge
+9811,2015,12,69,732,1283,Helsingborg,T3516,Kattarp,Skåne
+9812,2015,12,667,9215,1277,Åstorp,T3192,Åstorp,Skåne
+9813,2015,10,116,343,1083,Sölvesborg,T2724,Pukavik,Blekinge
+9814,2015,12,148,1385,1256,Östra Göinge,T2912,Hanaskog,Skåne
+9815,2015,10,210,429,1081,Ronneby,T2746,Spjälkö och Saxemara,Blekinge
+9816,2015,10,108,464,1080,Karlskrona,T2630,Gängletorp,Blekinge
+9817,2015,12,433,4712,1293,Hässleholm,T3128,Tyringe,Skåne
+9818,2015,12,156,815,1290,Kristianstad,T2800,Arkelstorp,Skåne
+9819,2015,12,1322,19309,1293,Hässleholm,T2936,Hässleholm,Skåne
+9820,2015,12,137,616,1293,Hässleholm,T2868,Finja,Skåne
+9821,2015,12,295,4489,1284,Höganäs,T3784,Viken,Skåne
+9822,2015,12,117,241,1290,Kristianstad,T3174,Vånga,Skåne
+9823,2015,10,197,749,1081,Ronneby,T2734,Ronnebyhamn,Blekinge
+9824,2015,10,180,355,1082,Karlshamn,T2750,Horsaryd och Stilleryd,Blekinge
+9825,2015,12,98,729,1293,Hässleholm,T3096,Stoby,Skåne
+9826,2015,12,244,1307,1272,Bromölla,T3024,Näsum,Skåne
+9827,2015,10,76,277,1080,Karlskrona,T2728,Ramdala,Blekinge
+9828,2015,10,161,784,1080,Karlskrona,T2738,Skavkulla och Skillingenäs,Blekinge
+9829,2015,10,66,221,1080,Karlskrona,T2742,Sjuhalla,Blekinge
+9830,2015,12,43,322,1284,Höganäs,T3612,Mjöhult,Skåne
+9831,2015,12,143,1207,1292,Ängelholm,T3100,Strövelstorp,Skåne
+9832,2015,10,210,966,1081,Ronneby,T2688,Listerby,Blekinge
+9833,2015,12,297,3144,1256,Östra Göinge,T2972,Knislinge,Skåne
+9834,2015,12,44,250,1284,Höganäs,T3508,Ingelsträde,Skåne
+9835,2015,10,76,323,1082,Karlshamn,T2776,Åryd,Blekinge
+9836,2015,10,298,2629,1080,Karlskrona,T2664,Jämjö,Blekinge
+9837,2015,12,28,216,1256,Östra Göinge,T2920,Hjärsås,Skåne
+9838,2015,12,86,374,1293,Hässleholm,T3140,Vankiva,Skåne
+9839,2015,12,40,206,1293,Hässleholm,T2946,Hörja,Skåne
+9840,2015,10,116,673,1082,Karlshamn,T2648,Hällaryd,Blekinge
+9841,2015,10,344,3284,1080,Karlskrona,T2712,Nättraby,Blekinge
+9842,2015,12,229,1740,1276,Klippan,T3224,Östra Ljungby,Skåne
+9843,2015,12,113,298,1256,Östra Göinge,T2948,Immeln,Skåne
+9844,2015,12,66,328,1293,Hässleholm,T2804,Ballingslöv,Skåne
+9845,2015,12,69,225,1283,Helsingborg,T3764,Tånga och Rögle,Skåne
+9846,2015,10,462,3903,1082,Karlshamn,T2700,Mörrum,Blekinge
+9847,2015,10,821,12612,1081,Ronneby,T2732,Ronneby,Blekinge
+9848,2015,10,100,766,1081,Ronneby,T2660,Johannishus,Blekinge
+9849,2015,10,59,223,1060,Olofström,T2628,Gränum,Blekinge
+9850,2015,10,2100,36477,1080,Karlskrona,T2680,Karlskrona,Blekinge
+9851,2015,12,33,238,1283,Helsingborg,T3766,Utvälinge,Skåne
+9852,2015,10,241,1708,1081,Ronneby,T2604,Bräkne-Hoby,Blekinge
+9853,2015,12,35,223,1292,Ängelholm,T3210,Össjö,Skåne
+9854,2015,12,95,312,1284,Höganäs,T2866,Farhult,Skåne
+9855,2015,12,78,204,1293,Hässleholm,T3044,Röke,Skåne
+9856,2015,10,1655,20112,1082,Karlshamn,T2676,Karlshamn,Blekinge
+9857,2015,12,81,230,1293,Hässleholm,T3008,Mala,Skåne
+9858,2015,10,235,1612,1060,Olofström,T2668,Jämshög,Blekinge
+9859,2015,10,554,4664,1081,Ronneby,T2672,Kallinge,Blekinge
+9860,2015,12,109,412,1257,Örkelljunga,T2856,Eket,Skåne
+9861,2015,10,85,397,1080,Karlskrona,T2624,Fågelmara,Blekinge
+9862,2015,12,1011,14778,1284,Höganäs,T3488,Höganäs,Skåne
+9863,2015,12,378,3104,1256,Östra Göinge,T2828,Broby,Skåne
+9864,2015,12,192,1972,1284,Höganäs,T3512,Jonstorp,Skåne
+9865,2015,10,110,708,1080,Karlskrona,T2620,Fridlevstad,Blekinge
+9866,2015,12,161,1431,1256,Östra Göinge,T3052,Sibbhult,Skåne
+9867,2015,10,245,1904,1082,Karlshamn,T2748,Svängsta,Blekinge
+9868,2015,12,83,521,1292,Ängelholm,T3198,Havsbaden,Skåne
+9869,2015,10,62,266,1080,Karlskrona,T2686,Kättilsmåla,Blekinge
+9870,2015,10,377,3508,1080,Karlskrona,T2736,Rödeby,Blekinge
+9871,2015,12,297,3148,1292,Ängelholm,T3012,Munka-Ljungby,Skåne
+9872,2015,10,669,7526,1060,Olofström,T2720,Olofström,Blekinge
+9873,2015,12,63,221,1292,Ängelholm,T3132,Toarp och Tåstarp,Skåne
+9874,2015,12,330,713,1284,Höganäs,T3320,Arild,Skåne
+9875,2015,12,288,1693,1293,Hässleholm,T2940,Hästveda,Skåne
+9876,2015,12,434,2755,1293,Hässleholm,T2816,Bjärnum,Skåne
+9877,2015,12,86,634,1284,Höganäs,T3616,Mölle,Skåne
+9878,2015,12,821,5193,1257,Örkelljunga,T3208,Örkelljunga,Skåne
+9879,2015,10,170,548,1080,Karlskrona,T2764,Tving,Blekinge
+9880,2015,12,213,1466,1256,Östra Göinge,T2884,Glimåkra,Skåne
+9881,2015,10,64,398,1080,Karlskrona,T2744,Spjutsbygd,Blekinge
+9882,2015,12,177,738,1257,Örkelljunga,T3188,Åsljunga,Skåne
+9883,2015,12,212,1095,1292,Ängelholm,T2916,Hjärnarp,Skåne
+9884,2015,10,71,386,1081,Ronneby,T2600,Backaryd,Blekinge
+9885,2015,12,2024,27500,1292,Ängelholm,T3196,Ängelholm,Skåne
+9886,2015,12,69,255,1292,Ängelholm,T3010,Margretetorp,Skåne
+9887,2015,10,104,303,1060,Olofström,T2772,Vilshult,Blekinge
+9888,2015,12,153,587,1292,Ängelholm,T2986,Lerbäckshult och Tullstorp,Skåne
+9889,2015,12,37,252,1292,Ängelholm,T3102,Svenstorp,Skåne
+9890,2015,10,166,980,1060,Olofström,T2684,Kyrkhult,Blekinge
+9891,2015,12,326,1787,1293,Hässleholm,T3168,Vittsjö,Skåne
+9892,2015,08,126,338,0840,Mörbylånga,T2152,Degerhamn,Kalmar
+9893,2015,10,43,222,1080,Karlskrona,T2716,Nävragöl,Blekinge
+9894,2015,12,274,2386,1278,Båstad,T2880,Förslöv,Skåne
+9895,2015,10,61,261,1081,Ronneby,T2632,Hallabro,Blekinge
+9896,2015,12,220,891,1257,Örkelljunga,T3080,Skånes-Fagerhult,Skåne
+9897,2015,12,938,7554,1273,Osby,T3032,Osby,Skåne
+9898,2015,12,267,1986,1273,Osby,T3000,Lönsboda,Skåne
+9899,2015,12,92,268,1293,Hässleholm,T2860,Emmaljunga,Skåne
+9900,2015,12,204,937,1278,Båstad,T2888,Grevie,Skåne
+9901,2015,08,217,1021,0834,Torsås,T2112,Bergkvara,Kalmar
+9902,2015,08,311,2000,0834,Torsås,T2428,Torsås,Kalmar
+9903,2015,13,53,239,1381,Laholm,T3968,Hasslöv,Halland
+9904,2015,10,122,370,1080,Karlskrona,T2644,Holmsjö,Blekinge
+9905,2015,12,145,552,1278,Båstad,T3172,Västra Karup,Skåne
+9906,2015,13,159,987,1381,Laholm,T4184,Våxtorp,Halland
+9907,2015,13,96,328,1381,Laholm,T3984,Hishult,Halland
+9908,2015,10,78,275,1081,Ronneby,T2616,Eringsboda,Blekinge
+9909,2015,12,164,789,1278,Båstad,T3220,Östra Karup,Skåne
+9910,2015,08,160,943,0834,Torsås,T2416,Söderåkra,Kalmar
+9911,2015,12,434,1078,1278,Båstad,T3116,Torekov,Skåne
+9912,2015,12,858,5146,1278,Båstad,T2840,Båstad,Skåne
+9913,2015,08,103,202,0840,Mörbylånga,T2284,Kastlösa,Kalmar
+9914,2015,13,87,458,1381,Laholm,T4072,Ränneslöv,Halland
+9915,2015,13,88,512,1381,Laholm,T4092,Skottorp,Halland
+9916,2015,07,224,1474,0763,Tingsryd,T1960,Ryd,Kronoberg
+9917,2015,12,115,596,1273,Osby,T2956,Killeberg,Skåne
+9918,2015,13,81,655,1381,Laholm,T4148,Vallberga,Halland
+9919,2015,07,553,4664,0767,Markaryd,T1940,Markaryd,Kronoberg
+9920,2015,07,100,493,0763,Tingsryd,T1892,Konga,Kronoberg
+9921,2015,08,69,286,0880,Kalmar,T2248,Halltorp,Kalmar
+9922,2015,13,48,245,1381,Laholm,T4190,Ysby,Halland
+9923,2015,13,534,6527,1381,Laholm,T4028,Laholm,Halland
+9924,2015,13,831,3412,1381,Laholm,T4044,Mellbystrand,Halland
+9925,2015,08,228,1824,0840,Mörbylånga,T2344,Mörbylånga,Kalmar
+9926,2015,07,408,3087,0763,Tingsryd,T1992,Tingsryd,Kronoberg
+9927,2015,13,293,1211,1381,Laholm,T4000,Knäred,Halland
+9928,2015,08,104,658,0862,Emmaboda,T2468,Vissefjärda,Kalmar
+9929,2015,07,213,942,0763,Tingsryd,T2004,Urshult,Kronoberg
+9930,2015,13,95,872,1381,Laholm,T4036,Lilla Tjärby,Halland
+9931,2015,07,79,305,0763,Tingsryd,T1968,Rävemåla,Kronoberg
+9932,2015,07,339,2246,0767,Markaryd,T1980,Strömsnäsbruk,Kronoberg
+9933,2015,08,125,663,0880,Kalmar,T2368,Påryd,Kalmar
+9934,2015,08,274,871,0880,Kalmar,T2244,Hagby,Kalmar
+9935,2015,13,205,1417,1381,Laholm,T4164,Veinge,Halland
+9936,2015,07,977,9495,0765,Älmhult,T2048,Älmhult,Kronoberg
+9937,2015,13,84,653,1381,Laholm,T3936,Genevad,Halland
+9938,2015,07,128,655,0767,Markaryd,T2000,Traryd,Kronoberg
+9939,2015,08,81,330,0862,Emmaboda,T2312,Långasjö,Kalmar
+9940,2015,08,124,524,0880,Kalmar,T2452,Vassmolösa,Kalmar
+9941,2015,13,61,667,1380,Halmstad,T3952,Gullbranna,Halland
+9942,2015,08,147,438,0840,Mörbylånga,T2458,Vickleby,Kalmar
+9943,2015,13,90,679,1380,Halmstad,T3916,Eldsberga,Halland
+9944,2015,08,75,277,0840,Mörbylånga,T2240,Gårdby,Kalmar
+9945,2015,13,65,486,1380,Halmstad,T4034,Laxvik,Halland
+9946,2015,08,79,399,0880,Kalmar,T2444,Tvärskog,Kalmar
+9947,2015,08,31,208,0880,Kalmar,T2482,Åmunnen,Kalmar
+9948,2015,13,144,1569,1380,Halmstad,T4124,Trönninge,Halland
+9949,2015,08,587,4818,0862,Emmaboda,T2160,Emmaboda,Kalmar
+9950,2015,08,204,1725,0880,Kalmar,T2304,Ljungbyholm,Kalmar
+9951,2015,08,59,419,0880,Kalmar,T2154,Dunö,Kalmar
+9952,2015,07,140,954,0763,Tingsryd,T2020,Väckelsång,Kronoberg
+9953,2015,07,135,906,0765,Älmhult,T1832,Diö,Kronoberg
+9954,2015,08,264,948,0840,Mörbylånga,T2404,Skogsby,Kalmar
+9955,2015,07,127,474,0763,Tingsryd,T1932,Linneryd,Kronoberg
+9956,2015,08,132,1631,0880,Kalmar,T2376,Rinkabyholm,Kalmar
+9957,2015,07,89,531,0765,Älmhult,T1920,Liatorp,Kronoberg
+9958,2015,08,660,5645,0840,Mörbylånga,T2208,Färjestaden,Kalmar
+9959,2015,07,120,586,0761,Lessebo,T1976,Skruv,Kronoberg
+9960,2015,08,238,3607,0880,Kalmar,T2408,Smedby,Kalmar
+9961,2015,07,53,256,0780,Växjö,T1952,Nöbbele,Kronoberg
+9962,2015,13,394,2296,1380,Halmstad,T3934,Frösakull,Halland
+9963,2015,08,82,362,0881,Nybro,T2484,Örsjö,Kalmar
+9964,2015,08,175,862,0840,Mörbylånga,T2092,Algutsrum,Kalmar
+9965,2015,07,64,337,0765,Älmhult,T1840,Eneryda,Kronoberg
+9966,2015,08,139,412,0862,Emmaboda,T2272,Johansfors,Kalmar
+9967,2015,08,114,315,0840,Mörbylånga,T2396,Saxnäs,Kalmar
+9968,2015,13,45,359,1380,Halmstad,T4084,Skedala,Halland
+9969,2015,08,271,1599,0880,Kalmar,T2436,Trekanten,Kalmar
+9970,2015,13,128,778,1380,Halmstad,T4176,Villshärad,Halland
+9971,2015,08,1960,38408,0880,Kalmar,T2280,Kalmar,Kalmar
+9972,2015,08,135,366,0840,Mörbylånga,T2214,Glömminge och Strandskogen,Kalmar
+9973,2015,13,3650,66124,1380,Halmstad,T3960,Halmstad,Halland
+9974,2015,13,142,1642,1380,Halmstad,T3948,Gullbrandstorp,Halland
+9975,2015,07,85,622,0764,Alvesta,T1860,Grimslöv,Kronoberg
+9976,2015,13,109,648,1380,Halmstad,T4080,Simlångsdalen,Halland
+9977,2015,08,403,5709,0880,Kalmar,T2300,Lindsdal,Kalmar
+9978,2015,08,93,205,0862,Emmaboda,T2168,Eriksmåla,Kalmar
+9979,2015,07,199,1762,0780,Växjö,T1884,Ingelstad,Kronoberg
+9980,2015,13,353,1681,1380,Halmstad,T3972,Haverdal,Halland
+9981,2015,07,339,2857,0761,Lessebo,T1916,Lessebo,Kronoberg
+9982,2015,08,1077,13039,0881,Nybro,T2352,Nybro,Kalmar
+9983,2015,13,113,764,1380,Halmstad,T3988,Holm,Halland
+9984,2015,13,144,1498,1380,Halmstad,T3964,Harplinge,Halland
+9985,2015,13,187,1690,1380,Halmstad,T4192,Åled,Halland
+9986,2015,08,118,209,0885,Borgholm,T2410,Stora Rör,Kalmar
+9987,2015,07,65,351,0780,Växjö,T2002,Tävelsås,Kronoberg
+9988,2015,08,102,418,0885,Borgholm,T2266,Rälla,Kalmar
+9989,2015,07,47,324,0781,Ljungby,T1900,Kånna,Kronoberg
+9990,2015,08,62,245,0881,Nybro,T2292,Kristvallabrunn,Kalmar
+9991,2015,07,281,3082,0761,Lessebo,T1876,Hovmantorp,Kronoberg
+9992,2015,07,247,1813,0764,Alvesta,T2012,Vislanda,Kronoberg
+9993,2015,08,150,463,0880,Kalmar,T2422,Drag,Kalmar
+9994,2015,13,73,398,1380,Halmstad,T4076,Sennan,Halland
+9995,2015,08,120,878,0880,Kalmar,T2316,Läckeby,Kalmar
+9996,2015,13,98,948,1380,Halmstad,T4016,Kvibille,Halland
+9997,2015,13,331,1112,1380,Halmstad,T4106,Steninge,Halland
+9998,2015,08,175,898,0880,Kalmar,T2380,Rockneby,Kalmar
+9999,2015,08,51,200,0881,Nybro,T2184,Flerohopp,Kalmar
+10000,2015,07,81,687,0780,Växjö,T2032,Åryd,Kronoberg
+10001,2015,07,61,247,0781,Ljungby,T1812,Angelstad,Kronoberg
+10002,2015,07,131,665,0781,Ljungby,T1924,Lidhult,Kronoberg
+10003,2015,13,340,4172,1380,Halmstad,T4056,Oskarström,Halland
+10004,2015,08,63,220,0881,Nybro,T2192,Flygsfors,Kalmar
+10005,2015,08,129,766,0881,Nybro,T2356,Orrefors,Kalmar
+10006,2015,13,238,1909,1380,Halmstad,T3940,Getinge,Halland
+10007,2015,07,1224,15785,0781,Ljungby,T1936,Ljungby,Kronoberg
+10008,2015,07,174,985,0761,Lessebo,T1896,Kosta,Kronoberg
+10009,2015,07,61,368,0780,Växjö,T1852,Furuby,Kronoberg
+10010,2015,13,263,367,1382,Falkenberg,T4048,Långasand och Ugglarp,Halland
+10011,2015,07,133,691,0781,Ljungby,T1964,Ryssby,Kronoberg
+10012,2015,13,127,991,1382,Falkenberg,T4104,Slöinge,Halland
+10013,2015,07,253,1462,0780,Växjö,T1856,Gemla,Kronoberg
+10014,2015,08,83,223,0881,Nybro,T2144,Bäckebo,Kalmar
+10015,2015,13,78,458,1382,Falkenberg,T3976,Heberg,Halland
+10016,2015,13,276,1846,1382,Falkenberg,T4096,Skrea,Halland
+10017,2015,07,637,8627,0764,Alvesta,T1808,Alvesta,Kronoberg
+10018,2015,07,61,254,0764,Alvesta,T1872,Hjortsberga,Kronoberg
+10019,2015,07,236,1550,0781,Ljungby,T1904,Lagan,Kronoberg
+10020,2015,08,964,4344,0885,Borgholm,T2132,Borgholm,Kalmar
+10021,2015,13,45,321,1382,Falkenberg,T4196,Årstad,Halland
+10022,2015,13,1809,24099,1382,Falkenberg,T3920,Falkenberg,Halland
+10023,2015,08,104,448,0881,Nybro,T2100,Alsterbro,Kalmar
+10024,2015,13,145,242,1382,Falkenberg,T4182,Vinbergs kyrkby,Halland
+10025,2015,13,153,823,1315,Hylte,T4144,Unnaryd,Halland
+10026,2015,13,83,367,1315,Hylte,T4068,Rydöbruk,Halland
+10027,2015,13,59,606,1382,Falkenberg,T4180,Vinberg,Halland
+10028,2015,07,168,836,0760,Uppvidinge,T1804,Alstermo,Kronoberg
+10029,2015,13,146,1245,1315,Hylte,T4116,Torup,Halland
+10030,2015,07,78,304,0781,Ljungby,T2016,Vittaryd,Kronoberg
+10031,2015,13,240,1082,1382,Falkenberg,T3944,Glommen,Halland
+10032,2015,08,192,1357,0861,Mönsterås,T2424,Timmernabben,Kalmar
+10033,2015,06,171,1587,0683,Värnamo,T1632,Rydaholm,Jönköping
+10034,2015,08,379,2380,0861,Mönsterås,T2120,Blomstermåla,Kalmar
+10035,2015,07,237,1762,0760,Uppvidinge,T1912,Lenhovda,Kronoberg
+10036,2015,13,106,773,1382,Falkenberg,T4168,Vessigebro,Halland
+10037,2015,13,75,539,1382,Falkenberg,T4040,Långås,Halland
+10038,2015,13,52,240,1382,Falkenberg,T3908,Bergagård,Halland
+10039,2015,13,87,308,1382,Falkenberg,T4052,Morup,Halland
+10040,2015,07,256,1880,0764,Alvesta,T1944,Moheda,Kronoberg
+10041,2015,07,98,497,0760,Uppvidinge,T2040,Älghult,Kronoberg
+10042,2015,08,134,393,0861,Mönsterås,T2354,Oknö,Kalmar
+10043,2015,07,59,433,0780,Växjö,T2028,Åby,Kronoberg
+10044,2015,07,193,2395,0780,Växjö,T1956,Rottne,Kronoberg
+10045,2015,13,466,3992,1315,Hylte,T3992,Hyltebruk,Halland
+10046,2015,07,65,369,0764,Alvesta,T1996,Torpsbruk,Kronoberg
+10047,2015,06,72,363,0683,Värnamo,T1524,Horda,Jönköping
+10048,2015,13,109,309,1315,Hylte,T3996,Kinnared,Halland
+10049,2015,08,495,4998,0861,Mönsterås,T2340,Mönsterås,Kalmar
+10050,2015,07,150,1692,0780,Växjö,T1820,Braås,Kronoberg
+10051,2015,13,271,2640,1383,Varberg,T4132,Tvååker,Halland
+10052,2015,09,127,335,0980,Gotland,T2500,Burgsvik,Gotland
+10053,2015,13,49,217,1382,Falkenberg,T4020,Köinge,Halland
+10054,2015,06,72,333,0683,Värnamo,T1532,Hånger,Jönköping
+10055,2015,13,86,404,1315,Hylte,T4032,Landeryd,Halland
+10056,2015,06,41,201,0683,Värnamo,T1712,Tånnö,Jönköping
+10057,2015,13,50,277,1383,Varberg,T3982,Himle,Halland
+10058,2015,08,127,652,0821,Högsby,T2388,Ruda,Kalmar
+10059,2015,06,164,1263,0683,Värnamo,T1428,Bor,Jönköping
+10060,2015,13,70,235,1382,Falkenberg,T3924,Fegen,Halland
+10061,2015,06,38,222,0683,Värnamo,T1736,Åminne,Jönköping
+10062,2015,13,82,259,1383,Varberg,T3994,Hunnestad,Halland
+10063,2015,06,70,284,0662,Gislaved,T1440,Broaryd,Jönköping
+10064,2015,08,138,716,0861,Mönsterås,T2188,Fliseryd,Kalmar
+10065,2015,06,98,360,0662,Gislaved,T1652,Skeppshult,Jönköping
+10066,2015,07,279,1184,0760,Uppvidinge,T1948,Norrhult-Klavreström,Kronoberg
+10067,2015,13,65,400,1382,Falkenberg,T4216,Ätran,Halland
+10068,2015,08,86,219,0821,Högsby,T2172,Fagerhult,Kalmar
+10069,2015,13,113,296,1383,Varberg,T3942,Getterön,Halland
+10070,2015,08,70,317,0882,Oskarshamn,T2164,Emsfors,Kalmar
+10071,2015,13,111,699,1382,Falkenberg,T4140,Ullared,Halland
+10072,2015,06,170,1510,0683,Värnamo,T1472,Forsheda,Jönköping
+10073,2015,13,92,537,1383,Varberg,T4060,Rolfstorp,Halland
+10074,2015,13,2338,34248,1383,Varberg,T4156,Varberg,Halland
+10075,2015,07,186,1694,0780,Växjö,T1908,Lammhult,Kronoberg
+10076,2015,07,302,2557,0760,Uppvidinge,T2036,Åseda,Kronoberg
+10077,2015,06,45,315,0683,Värnamo,T1564,Kärda,Jönköping
+10078,2015,08,117,1099,0882,Oskarshamn,T2372,Påskallavik,Kalmar
+10079,2015,08,260,1923,0821,Högsby,T2264,Högsby,Kalmar
+10080,2015,13,184,743,1383,Varberg,T4130,Bläshammar och Trönningenäs,Halland
+10081,2015,06,516,4564,0662,Gislaved,T1664,Smålandsstenar,Jönköping
+10082,2015,06,186,1289,0662,Gislaved,T1624,Reftele,Jönköping
+10083,2015,06,220,1549,0683,Värnamo,T1436,Bredaryd,Jönköping
+10084,2015,13,154,486,1383,Varberg,T4112,Tofta,Halland
+10085,2015,13,75,636,1383,Varberg,T4100,Skällinge,Halland
+10086,2015,13,111,280,1383,Varberg,T4154,Valinge,Halland
+10087,2015,08,137,437,0821,Högsby,T2200,Fågelfors,Kalmar
+10088,2015,06,1191,19061,0683,Värnamo,T1732,Värnamo,Jönköping
+10089,2015,09,95,270,0980,Gotland,T2508,Havdhem,Gotland
+10090,2015,06,198,932,0662,Gislaved,T1452,Burseryd,Jönköping
+10091,2015,13,199,965,1383,Varberg,T4136,Tångaberg,Halland
+10092,2015,13,82,229,1383,Varberg,T4114,Torpa,Halland
+10093,2015,08,145,713,0821,Högsby,T2108,Berga,Kalmar
+10094,2015,08,394,562,0885,Borgholm,T2324,Löttorp,Kalmar
+10095,2015,06,101,330,0683,Värnamo,T1572,Lanna,Jönköping
+10096,2015,13,345,679,1383,Varberg,T4194,Årnäs,Halland
+10097,2015,06,118,582,0684,Sävsjö,T1636,Rörvik,Jönköping
+10098,2015,13,80,409,1383,Varberg,T4204,Åsby,Halland
+10099,2015,13,113,445,1382,Falkenberg,T4212,Älvsered,Halland
+10100,2015,06,55,328,0617,Gnosjö,T1556,Kulltorp,Jönköping
+10101,2015,08,101,356,0882,Oskarshamn,T2124,Bockara,Kalmar
+10102,2015,13,235,2036,1383,Varberg,T3912,Bua,Halland
+10103,2015,13,150,765,1383,Varberg,T4188,Väröbacka,Halland
+10104,2015,09,213,1668,0980,Gotland,T2512,Hemse,Gotland
+10105,2015,13,198,2260,1383,Varberg,T4160,Veddige,Halland
+10106,2015,06,620,5076,0662,Gislaved,T1400,Anderstorp,Jönköping
+10107,2015,08,1473,18287,0882,Oskarshamn,T2360,Oskarshamn,Kalmar
+10108,2015,13,120,241,1383,Varberg,T4024,Nordvära och Källstorp,Halland
+10109,2015,06,91,262,0617,Gnosjö,T1714,Törestorp,Jönköping
+10110,2015,06,116,731,0685,Vetlanda,T1752,Korsberga,Jönköping
+10111,2015,06,159,1019,0684,Sävsjö,T1680,Stockaryd,Jönköping
+10112,2015,08,286,1769,0860,Hultsfred,T2464,Virserum,Kalmar
+10113,2015,06,685,10180,0662,Gislaved,T1484,Gislaved,Jönköping
+10114,2015,06,242,1746,0617,Gnosjö,T1508,Hillerstorp,Jönköping
+10115,2015,08,237,857,0860,Hultsfred,T2348,Mörlunda,Kalmar
+10116,2015,14,77,300,1465,Svenljunga,T4956,Mjöbäck,Västra Götaland
+10117,2015,13,95,361,1383,Varberg,T4012,Kungsäter,Halland
+10118,2015,09,111,335,0980,Gotland,T2540,Stånga,Gotland
+10119,2015,06,56,202,0685,Vetlanda,T1606,Nye,Jönköping
+10120,2015,13,474,2832,1384,Kungsbacka,T3932,Frillesås,Halland
+10121,2015,14,63,321,1465,Svenljunga,T5164,Östra Frölunda,Västra Götaland
+10122,2015,06,65,266,0665,Vaggeryd,T1552,Klevshult,Jönköping
+10123,2015,06,213,1461,0684,Sävsjö,T1728,Vrigstad,Jönköping
+10124,2015,08,73,267,0860,Hultsfred,T2384,Rosenfors,Kalmar
+10125,2015,14,85,540,1465,Svenljunga,T5168,Överlida,Västra Götaland
+10126,2015,06,547,4528,0617,Gnosjö,T1488,Gnosjö,Jönköping
+10127,2015,06,210,1438,0685,Vetlanda,T1568,Landsbro,Jönköping
+10128,2015,08,107,730,0882,Oskarshamn,T2176,Figeholm,Kalmar
+10129,2015,06,115,728,0685,Vetlanda,T1600,Myresjö,Jönköping
+10130,2015,14,156,1203,1463,Mark,T4880,Horred,Västra Götaland
+10131,2015,08,320,1348,0860,Hultsfred,T2336,Målilla,Kalmar
+10132,2015,08,85,498,0882,Oskarshamn,T2204,Fårbo,Kalmar
+10133,2015,13,151,625,1384,Kungsbacka,T3998,Kläppa,Halland
+10134,2015,13,907,6084,1384,Kungsbacka,T4200,Åsa,Halland
+10135,2015,06,452,5374,0684,Sävsjö,T1688,Sävsjö,Jönköping
+10136,2015,06,92,488,0685,Vetlanda,T1560,Kvillsfors,Jönköping
+10137,2015,14,75,412,1463,Mark,T5076,Torestorp,Västra Götaland
+10138,2015,08,181,1016,0882,Oskarshamn,T2288,Kristdala,Kalmar
+10139,2015,13,199,654,1384,Kungsbacka,T3898,Röda holme,Halland
+10140,2015,08,142,510,0860,Hultsfred,T2276,Järnforsen,Kalmar
+10141,2015,14,66,330,1463,Mark,T5172,Öxabäck,Västra Götaland
+10142,2015,06,50,273,0617,Gnosjö,T1604,Nissafors,Jönköping
+10143,2015,14,40,241,1465,Svenljunga,T4876,Holsljunga,Västra Götaland
+10144,2015,14,102,301,1452,Tranemo,T4708,Ambjörnarp,Västra Götaland
+10145,2015,09,292,1490,0980,Gotland,T2520,Klintehamn,Gotland
+10146,2015,06,121,783,0685,Vetlanda,T1520,Holsbybrunn,Jönköping
+10147,2015,06,52,420,0685,Vetlanda,T1644,Sjunnen,Jönköping
+10148,2015,06,1078,13430,0685,Vetlanda,T1724,Vetlanda,Jönköping
+10149,2015,06,390,3965,0665,Vaggeryd,T1656,Skillingaryd,Jönköping
+10150,2015,06,195,1327,0662,Gislaved,T1504,Hestra,Jönköping
+10151,2015,13,91,754,1384,Kungsbacka,T3914,Buerås,Halland
+10152,2015,14,100,514,1463,Mark,T4736,Björketorp,Västra Götaland
+10153,2015,13,67,200,1384,Kungsbacka,T3930,Fjärås station,Halland
+10154,2015,06,60,220,0685,Vetlanda,T1620,Pauliström,Jönköping
+10155,2015,06,86,289,0685,Vetlanda,T1648,Skede,Jönköping
+10156,2015,13,289,1319,1384,Kungsbacka,T4224,Västra Hagen,Halland
+10157,2015,13,118,338,1384,Kungsbacka,T4110,Sätinge,Halland
+10158,2015,14,64,220,1452,Tranemo,T5100,Uddebo,Västra Götaland
+10159,2015,14,84,369,1463,Mark,T4724,Berghem,Västra Götaland
+10160,2015,13,205,2385,1384,Kungsbacka,T3928,Fjärås kyrkby,Halland
+10161,2015,14,112,694,1452,Tranemo,T4832,Grimsås,Västra Götaland
+10162,2015,06,214,1563,0685,Vetlanda,T1456,Ekenässjön,Jönköping
+10163,2015,13,1323,12275,1384,Kungsbacka,T4054,Onsala,Halland
+10164,2015,13,410,1647,1384,Kungsbacka,T3956,Halla Heberg,Halland
+10165,2015,06,231,1957,0682,Nässjö,T1424,Bodafors,Jönköping
+10166,2015,08,552,5510,0860,Hultsfred,T2260,Hultsfred,Kalmar
+10167,2015,06,513,5122,0665,Vaggeryd,T1720,Vaggeryd,Jönköping
+10168,2015,14,342,3224,1452,Tranemo,T5080,Tranemo,Västra Götaland
+10169,2015,06,89,658,0665,Vaggeryd,T1516,Hok,Jönköping
+10170,2015,14,433,3592,1465,Svenljunga,T5060,Svenljunga,Västra Götaland
+10171,2015,13,565,3929,1384,Kungsbacka,T4152,Vallda,Halland
+10172,2015,06,82,323,0685,Vetlanda,T1420,Björköby,Jönköping
+10173,2015,08,86,394,0860,Hultsfred,T2456,Vena,Kalmar
+10174,2015,13,33,272,1384,Kungsbacka,T3986,Hjälm,Halland
+10175,2015,14,38,329,1452,Tranemo,T4988,Rosenlund,Västra Götaland
+10176,2015,08,125,681,0860,Hultsfred,T2400,Silverdalen,Kalmar
+10177,2015,14,1863,15019,1463,Mark,T4912,Kinna,Västra Götaland
+10178,2015,09,502,627,0980,Gotland,T2544,Tofta,Gotland
+10179,2015,14,163,1434,1452,Tranemo,T4928,Limmared,Västra Götaland
+10180,2015,06,49,341,0682,Nässjö,T1492,Grimstorp,Jönköping
+10181,2015,13,217,875,1384,Kungsbacka,T3954,Hagryd-Dala,Halland
+10182,2015,14,166,1210,1463,Mark,T5064,Sätila,Västra Götaland
+10183,2015,14,50,219,1452,Tranemo,T4936,Ljungsarp,Västra Götaland
+10184,2015,09,228,1198,0980,Gotland,T2532,Romakloster,Gotland
+10185,2015,14,69,415,1463,Mark,T4992,Rydal,Västra Götaland
+10186,2015,08,42,212,0884,Vimmerby,T2440,Tuna,Kalmar
+10187,2015,06,183,1087,0682,Nässjö,T1584,Malmbäck,Jönköping
+10188,2015,06,80,244,0682,Nässjö,T1676,Stensjön,Jönköping
+10189,2015,14,318,2307,1463,Mark,T4812,Fritsla,Västra Götaland
+10190,2015,14,171,665,1463,Mark,T4892,Hyssna,Västra Götaland
+10191,2015,08,149,1011,0884,Vimmerby,T2412,Storebro,Kalmar
+10192,2015,06,56,218,0665,Vaggeryd,T1426,Bondstorp,Jönköping
+10193,2015,14,123,802,1465,Svenljunga,T5016,Sexdrega,Västra Götaland
+10194,2015,13,167,631,1384,Kungsbacka,T3950,Gundal och Högås,Halland
+10195,2015,14,141,734,1452,Tranemo,T4784,Dalstorp,Västra Götaland
+10196,2015,14,50,351,1480,Göteborg,T4612,Vrångö,Västra Götaland
+10197,2015,14,142,1086,1452,Tranemo,T4940,Länghem,Västra Götaland
+10198,2015,06,228,1503,0686,Eksjö,T1588,Mariannelund,Jönköping
+10199,2015,06,62,305,0682,Nässjö,T1476,Fredriksdal,Jönköping
+10200,2015,14,74,333,1490,Borås,T4916,Kinnarumma,Västra Götaland
+10201,2015,14,61,201,1463,Mark,T4450,Ubbhult norra,Västra Götaland
+10202,2015,09,90,372,0980,Gotland,T2560,Västerhejde,Gotland
+10203,2015,06,110,349,0686,Eksjö,T1512,Hjältevad,Jönköping
+10204,2015,08,65,326,0883,Västervik,T2256,Hjorted,Kalmar
+10205,2015,08,47,237,0883,Västervik,T2432,Totebo,Kalmar
+10206,2015,06,110,466,0686,Eksjö,T1540,Ingatorp,Jönköping
+10207,2015,06,76,237,0686,Eksjö,T1444,Bruzaholm,Jönköping
+10208,2015,14,235,682,1481,Mölndal,T4410,Hällesåker,Västra Götaland
+10209,2015,14,104,1446,1480,Göteborg,T4332,Donsö,Västra Götaland
+10210,2015,06,60,459,0686,Eksjö,T1528,Hult,Jönköping
+10211,2015,14,87,251,1401,Härryda,T4334,Eskilsby och Snugga,Västra Götaland
+10212,2015,14,117,639,1465,Svenljunga,T4868,Hillared,Västra Götaland
+10213,2015,09,358,1709,0980,Gotland,T2548,Vibble,Gotland
+10214,2015,14,397,3701,1490,Borås,T5120,Viskafors,Västra Götaland
+10215,2015,14,96,459,1401,Härryda,T4354,Hällingsjö,Västra Götaland
+10216,2015,14,178,1324,1480,Göteborg,T4588,Styrsö,Västra Götaland
+10217,2015,14,64,463,1490,Borås,T4716,Aplared,Västra Götaland
+10218,2015,06,63,216,0682,Nässjö,T1614,Ormaryd,Jönköping
+10219,2015,06,1134,17719,0682,Nässjö,T1608,Nässjö,Jönköping
+10220,2015,14,116,993,1490,Borås,T4996,Rydboholm,Västra Götaland
+10221,2015,14,161,1522,1401,Härryda,T4544,Rävlanda,Västra Götaland
+10222,2015,14,117,415,1401,Härryda,T4570,Stora Bugärde,Västra Götaland
+10223,2015,08,751,8037,0884,Vimmerby,T2460,Vimmerby,Kalmar
+10224,2015,06,807,10157,0686,Eksjö,T1460,Eksjö,Jönköping
+10225,2015,14,96,536,1491,Ulricehamn,T4852,Gällstad,Västra Götaland
+10226,2015,14,50,330,1491,Ulricehamn,T5004,Rånnaväg,Västra Götaland
+10227,2015,14,33,339,1401,Härryda,T4526,Nya Långenäs,Västra Götaland
+10228,2015,14,38,398,1480,Göteborg,T4298,Asperö,Västra Götaland
+10229,2015,14,93,575,1491,Ulricehamn,T5116,Vegby,Västra Götaland
+10230,2015,14,193,918,1480,Göteborg,T4322,Brännö,Västra Götaland
+10231,2015,09,1369,23402,0980,Gotland,T2552,Visby,Gotland
+10232,2015,06,386,4486,0680,Jönköping,T1692,Taberg,Jönköping
+10233,2015,06,50,278,0682,Nässjö,T1740,Äng,Jönköping
+10234,2015,14,100,425,1490,Borås,T4310,Bosnäs,Västra Götaland
+10235,2015,14,77,437,1490,Borås,T4792,Dannike,Västra Götaland
+10236,2015,08,68,343,0884,Vimmerby,T2196,Frödinge,Kalmar
+10237,2015,06,195,2080,0682,Nässjö,T1468,Forserum,Jönköping
+10238,2015,14,336,3870,1443,Bollebygd,T4744,Bollebygd,Västra Götaland
+10239,2015,08,169,1234,0883,Västervik,T2104,Ankarsrum,Kalmar
+10240,2015,14,73,617,1443,Bollebygd,T4984,Olsfors,Västra Götaland
+10241,2015,14,63,252,1491,Ulricehamn,T4888,Hulu,Västra Götaland
+10242,2015,14,1191,17579,1401,Härryda,T4520,Mölnlycke,Västra Götaland
+10243,2015,14,43,630,1407,Öckerö,T4348,Fotö,Västra Götaland
+10244,2015,06,251,3112,0680,Jönköping,T1696,Tenhult,Jönköping
+10245,2015,14,273,2533,1490,Borås,T4848,Gånghester och Målsryd,Västra Götaland
+10246,2015,14,73,333,1443,Bollebygd,T4884,Hultafors,Västra Götaland
+10247,2015,09,143,551,0980,Gotland,T2506,Norra Visby,Gotland
+10248,2015,06,201,2646,0680,Jönköping,T1612,Barnarp och Odensjö,Jönköping
+10249,2015,06,39,238,0680,Jönköping,T1742,Öggestorp,Jönköping
+10250,2015,06,115,834,0682,Nässjö,T1408,Anneberg,Jönköping
+10251,2015,06,58,200,0680,Jönköping,T1628,Ryd,Jönköping
+10252,2015,14,95,365,1401,Härryda,T4542,Rya,Västra Götaland
+10253,2015,06,76,370,0682,Nässjö,T1668,Solberga,Jönköping
+10254,2015,14,877,8839,1401,Härryda,T4484,Landvetter,Västra Götaland
+10255,2015,09,44,337,0980,Gotland,T2556,Väskinde,Gotland
+10256,2015,08,139,1022,0883,Västervik,T2236,Gunnebo,Kalmar
+10257,2015,14,258,4394,1402,Partille,T4631,Öjersjö,Västra Götaland
+10258,2015,14,355,1146,1401,Härryda,T4424,Härryda,Västra Götaland
+10259,2015,14,338,5293,1407,Öckerö,T4428,Hönö,Västra Götaland
+10260,2015,14,968,6602,1490,Borås,T5008,"Sandared, Sjömarken och Viared",Västra Götaland
+10261,2015,14,352,3606,1490,Borås,T4780,Dalsjöfors,Västra Götaland
+10262,2015,08,156,1134,0884,Vimmerby,T2420,Södra Vi,Kalmar
+10263,2015,14,493,2901,1401,Härryda,T4392,Hindås,Västra Götaland
+10264,2015,14,71,475,1491,Ulricehamn,T4948,Marbäck,Västra Götaland
+10265,2015,14,25,208,1407,Öckerö,T4434,Kalvsund,Västra Götaland
+10266,2015,14,262,3568,1407,Öckerö,T4628,Öckerö,Västra Götaland
+10267,2015,09,228,397,0980,Gotland,T2538,Brissund och Själsö,Gotland
+10268,2015,09,152,946,0980,Gotland,T2536,Slite,Gotland
+10269,2015,14,110,544,1441,Lerum,T5176,Öxeryd,Västra Götaland
+10270,2015,14,61,293,1490,Borås,T5156,Äspered,Västra Götaland
+10271,2015,06,78,788,0680,Jönköping,T1576,Lekeryd,Jönköping
+10272,2015,09,72,527,0980,Gotland,T2564,Slite norra,Gotland
+10273,2015,14,103,1495,1407,Öckerö,T4304,Björkö,Västra Götaland
+10274,2015,06,85,717,0680,Jönköping,T1432,Bottnaryd,Jönköping
+10275,2015,14,118,623,1480,Göteborg,T4510,Tumlehed,Västra Götaland
+10276,2015,14,59,586,1407,Öckerö,T4420,Hälsö,Västra Götaland
+10277,2015,14,108,929,1402,Partille,T4432,Jonsered,Västra Götaland
+10278,2015,14,54,871,1402,Partille,T4464,Kåhög,Västra Götaland
+10279,2015,09,73,229,0980,Gotland,T2542,Tingstäde,Gotland
+10280,2015,14,59,563,1490,Borås,T5012,Sandhult,Västra Götaland
+10281,2015,08,97,579,0883,Västervik,T2364,Piperskärr,Kalmar
+10282,2015,08,1385,21178,0883,Västervik,T2472,Västervik,Kalmar
+10283,2015,14,136,633,1480,Göteborg,T4382,Helgered och Östergärde industriområde,Västra Götaland
+10284,2015,14,34,331,1407,Öckerö,T4476,Källö-Knippla,Västra Götaland
+10285,2015,14,3081,71700,1490,Borås,T4752,Borås,Västra Götaland
+10286,2015,05,86,282,0512,Ydre,T1228,Rydsnäs,Östergötland
+10287,2015,14,64,231,1441,Lerum,T4582,Slätthult,Västra Götaland
+10288,2015,08,127,503,0884,Vimmerby,T2232,Gullringen,Kalmar
+10289,2015,14,1936,23088,1480,Göteborg,T4302,Torslanda,Västra Götaland
+10290,2015,14,112,420,1490,Borås,T5000,Rångedala,Västra Götaland
+10291,2015,14,65,409,1443,Bollebygd,T5092,Töllsjö,Västra Götaland
+10292,2015,14,185,1373,1480,Göteborg,T4522,Nolvik,Västra Götaland
+10293,2015,14,745,10629,1491,Ulricehamn,T5104,Ulricehamn,Västra Götaland
+10294,2015,06,111,512,0680,Jönköping,T1554,Kortebo,Jönköping
+10295,2015,06,4257,93797,0680,Jönköping,T1544,Jönköping,Jönköping
+10296,2015,14,200,1062,1480,Göteborg,T4294,Angered,Västra Götaland
+10297,2015,14,57,262,1407,Öckerö,T4552,Rörö,Västra Götaland
+10298,2015,14,61,313,1490,Borås,T4756,Bredared,Västra Götaland
+10299,2015,14,76,361,1490,Borås,T4860,Hedared,Västra Götaland
+10300,2015,05,134,897,0512,Ydre,T1336,Österbymo,Östergötland
+10301,2015,14,99,407,1480,Göteborg,T4574,Stenared,Västra Götaland
+10302,2015,14,335,3746,1480,Göteborg,T4528,Olofstorp,Västra Götaland
+10303,2015,14,51,360,1491,Ulricehamn,T4968,Nitta,Västra Götaland
+10304,2015,14,68,759,1480,Göteborg,T4596,Säve,Västra Götaland
+10305,2015,14,80,920,1441,Lerum,T5072,Tollered,Västra Götaland
+10306,2015,09,75,423,0980,Gotland,T2528,Lärbro,Gotland
+10307,2015,06,86,204,0680,Jönköping,T1486,"Bosgård, Rudu och Gissebo",Jönköping
+10308,2015,14,21513,572799,1480,Göteborg,T4368,Göteborg,Västra Götaland
+10309,2015,14,731,5409,1490,Borås,T4808,Fristad,Västra Götaland
+10310,2015,14,2455,26913,1441,Lerum,T4920,Lerum,Västra Götaland
+10311,2015,14,90,260,1482,Kungälv,T4376,Kyrkeby och Nereby,Västra Götaland
+10312,2015,14,86,642,1491,Ulricehamn,T4904,Hökerum,Västra Götaland
+10313,2015,06,404,3496,0604,Aneby,T1404,Aneby,Jönköping
+10314,2015,06,152,1561,0680,Jönköping,T1548,Kaxholmen,Jönköping
+10315,2015,06,676,8506,0680,Jönköping,T1412,Bankeryd,Jönköping
+10316,2015,14,113,788,1491,Ulricehamn,T5068,Timmele,Västra Götaland
+10317,2015,14,129,370,1489,Alingsås,T4386,Hemsjö,Västra Götaland
+10318,2015,14,547,6021,1441,Lerum,T4836,Gråbo,Västra Götaland
+10319,2015,14,81,604,1482,Kungälv,T4480,Kärna,Västra Götaland
+10320,2015,14,372,6003,1440,Ale,T5056,Surte,Västra Götaland
+10321,2015,06,47,433,0680,Jönköping,T1660,Skärstad,Jönköping
+10322,2015,14,73,212,1489,Alingsås,T4538,Hästeryd och Ryd,Västra Götaland
+10323,2015,14,217,1703,1489,Alingsås,T4908,Ingared,Västra Götaland
+10324,2015,14,107,426,1490,Borås,T4748,Borgstena,Västra Götaland
+10325,2015,14,135,257,1489,Alingsås,T4634,Färgens östra strand,Västra Götaland
+10326,2015,14,235,1036,1441,Lerum,T4732,Björboholm,Västra Götaland
+10327,2015,14,78,651,1491,Ulricehamn,T4788,Dalum,Västra Götaland
+10328,2015,14,47,266,1489,Alingsås,T4870,Hjälmared,Västra Götaland
+10329,2015,08,129,435,0883,Västervik,T2308,Loftahammar,Kalmar
+10330,2015,14,248,1123,1489,Alingsås,T5136,Västerbodarna,Västra Götaland
+10331,2015,08,357,2758,0883,Västervik,T2212,Gamleby,Kalmar
+10332,2015,06,602,7740,0643,Habo,T5284,Habo,Jönköping
+10333,2015,06,77,401,0680,Jönköping,T1448,Ölmstad,Jönköping
+10334,2015,06,46,301,0604,Aneby,T1684,Sundhultsbrunn,Jönköping
+10335,2015,09,285,829,0980,Gotland,T2504,Fårösund,Gotland
+10336,2015,14,33,381,1482,Kungälv,T4504,Marstrand,Västra Götaland
+10337,2015,06,537,5584,0642,Mullsjö,T5380,Mullsjö,Jönköping
+10338,2015,14,1462,24101,1482,Kungälv,T4452,Kungälv,Västra Götaland
+10339,2015,06,63,357,0643,Habo,T5252,Furusjö,Jönköping
+10340,2015,14,76,218,1482,Kungälv,T4536,Risby,Västra Götaland
+10341,2015,06,56,226,0604,Aneby,T1480,Frinnaryd,Jönköping
+10342,2015,14,69,862,1482,Kungälv,T4506,Arvidsvik,Västra Götaland
+10343,2015,14,329,1013,1482,Kungälv,T4604,Tjuvkil,Västra Götaland
+10344,2015,14,49,331,1482,Kungälv,T4438,Rishammar,Västra Götaland
+10345,2015,14,114,540,1491,Ulricehamn,T4740,Blidsberg,Västra Götaland
+10346,2015,14,97,929,1441,Lerum,T5032,Sjövik,Västra Götaland
+10347,2015,14,56,237,1482,Kungälv,T4458,Kareby och Ringby,Västra Götaland
+10348,2015,05,79,458,0512,Ydre,T1092,Hestra,Östergötland
+10349,2015,14,167,470,1482,Kungälv,T4652,Rörtången och Ödsmåls mosse,Västra Götaland
+10350,2015,14,52,203,1482,Kungälv,T4494,Lundby och Rogstorp,Västra Götaland
+10351,2015,14,79,257,1482,Kungälv,T4648,Ödsmål och Åsebyberg,Västra Götaland
+10352,2015,14,118,1328,1482,Kungälv,T4328,Diseröd,Västra Götaland
+10353,2015,14,31,215,1419,Tjörn,T4572,Stora Dyrön,Västra Götaland
+10354,2015,14,852,11117,1440,Ale,T4976,Nödinge-Nol,Västra Götaland
+10355,2015,14,1400,26329,1489,Alingsås,T4700,Alingsås,Västra Götaland
+10356,2015,14,74,224,1482,Kungälv,T4614,Solberga,Västra Götaland
+10357,2015,14,162,1605,1482,Kungälv,T4444,Kode,Västra Götaland
+10358,2015,14,64,209,1442,Vårgårda,T4402,Horla,Västra Götaland
+10359,2015,14,46,296,1482,Kungälv,T4562,Duvesjön,Västra Götaland
+10360,2015,14,250,1551,1419,Tjörn,T4548,Rönnäng,Västra Götaland
+10361,2015,06,56,300,0687,Tranås,T1496,Gripenberg,Jönköping
+10362,2015,14,69,296,1491,Ulricehamn,T5088,Trädet,Västra Götaland
+10363,2015,14,29,367,1419,Tjörn,T4440,Klädesholmen,Västra Götaland
+10364,2015,06,108,673,0642,Mullsjö,T5408,Sandhem,Jönköping
+10365,2015,08,164,1166,0883,Västervik,T2488,Överum,Kalmar
+10366,2015,14,415,4759,1440,Ale,T5152,Älvängen,Västra Götaland
+10367,2015,14,116,406,1419,Tjörn,T4308,Bleket,Västra Götaland
+10368,2015,06,78,307,0643,Habo,T5228,Fagerhult,Jönköping
+10369,2015,14,176,1226,1466,Herrljunga,T4712,Ljung och Annelund,Västra Götaland
+10370,2015,06,72,356,0680,Jönköping,T1748,Örserum,Jönköping
+10371,2015,14,263,873,1482,Kungälv,T5070,Aröd och Timmervik,Västra Götaland
+10372,2015,14,152,1821,1440,Ale,T5036,Skepplanda,Västra Götaland
+10373,2015,08,70,324,0883,Västervik,T2156,Edsbruk,Kalmar
+10374,2015,06,187,2726,0680,Jönköping,T1500,Gränna,Jönköping
+10375,2015,14,103,609,1499,Falköping,T5532,Åsarp,Västra Götaland
+10376,2015,14,195,284,1419,Tjörn,T4326,Djupvik och Fagerfjäll,Västra Götaland
+10377,2015,14,85,322,1440,Ale,T4704,Alvhem,Västra Götaland
+10378,2015,06,70,219,0687,Tranås,T1536,"Hätte, Seglarvik och Sandvik",Jönköping
+10379,2015,14,96,239,1482,Kungälv,T4558,Signehög och Norrmannebo,Västra Götaland
+10380,2015,14,513,3495,1419,Tjörn,T4560,Skärhamn,Västra Götaland
+10381,2015,14,65,401,1442,Vårgårda,T5162,Östadkulle,Västra Götaland
+10382,2015,14,51,231,1499,Falköping,T5344,Kättilstorp,Västra Götaland
+10383,2015,14,342,1465,1415,Stenungsund,T4436,Jörlanda,Västra Götaland
+10384,2015,06,1019,14550,0687,Tranås,T1700,Tranås,Jönköping
+10385,2015,06,109,322,0680,Jönköping,T1708,Tunnerstad,Jönköping
+10386,2015,14,278,2846,1415,Stenungsund,T4576,Stora Höga,Västra Götaland
+10387,2015,14,507,5384,1442,Vårgårda,T5124,Vårgårda,Västra Götaland
+10388,2015,14,180,1540,1462,Lilla Edet,T4944,Lödöse,Västra Götaland
+10389,2015,06,122,272,0643,Habo,T1534,Rödån,Jönköping
+10390,2015,14,99,211,1415,Stenungsund,T4618,Spekeröd,Västra Götaland
+10391,2015,14,77,629,1419,Tjörn,T4468,Kållekärr,Västra Götaland
+10392,2015,14,121,264,1489,Alingsås,T4502,Långared,Västra Götaland
+10393,2015,14,400,1750,1419,Tjörn,T4514,Höviksnäs,Västra Götaland
+10394,2015,14,268,569,1419,Tjörn,T4442,Klövedal,Västra Götaland
+10395,2015,14,102,490,1462,Lilla Edet,T4978,Nygård,Västra Götaland
+10396,2015,14,147,962,1499,Falköping,T5328,Kinnarp,Västra Götaland
+10397,2015,14,544,547,1419,Tjörn,T4460,Kyrkesund,Västra Götaland
+10398,2015,14,379,3982,1466,Herrljunga,T4864,Herrljunga,Västra Götaland
+10399,2015,14,218,1460,1419,Tjörn,T4516,Myggenäs,Västra Götaland
+10400,2015,14,67,529,1499,Falköping,T5508,Vartofta,Västra Götaland
+10401,2015,14,100,393,1489,Alingsås,T4840,Gräfsnäs,Västra Götaland
+10402,2015,14,69,243,1415,Stenungsund,T4578,Stenungsön,Västra Götaland
+10403,2015,05,35,204,0580,Linköping,T1296,Ulrika,Östergötland
+10404,2015,14,128,531,1415,Stenungsund,T4606,Ucklum,Västra Götaland
+10405,2015,14,1225,13093,1415,Stenungsund,T4568,Stenungsund,Västra Götaland
+10406,2015,14,60,208,1489,Alingsås,T4530,Magra,Västra Götaland
+10407,2015,14,118,243,1421,Orust,T4508,Mollösund,Västra Götaland
+10408,2015,06,112,789,0687,Tranås,T1672,Sommen,Jönköping
+10409,2015,14,64,411,1498,Tidaholm,T5368,Madängsholm,Västra Götaland
+10410,2015,14,140,1002,1462,Lilla Edet,T4856,Göta,Västra Götaland
+10411,2015,05,79,236,0561,Åtvidaberg,T1048,Falerum,Östergötland
+10412,2015,05,273,2259,0513,Kinda,T1220,Rimforsa,Östergötland
+10413,2015,14,191,1482,1489,Alingsås,T5044,Sollebrunn,Västra Götaland
+10414,2015,14,225,1562,1499,Falköping,T5244,Floby,Västra Götaland
+10415,2015,14,59,267,1415,Stenungsund,T4595,Svartehallen,Västra Götaland
+10416,2015,14,44,290,1499,Falköping,T5392,Odensberg,Västra Götaland
+10417,2015,14,73,349,1489,Alingsås,T5052,Stora Mellby,Västra Götaland
+10418,2015,14,367,1414,1415,Stenungsund,T4630,Ödsmål,Västra Götaland
+10419,2015,14,160,912,1421,Orust,T4610,Varekil,Västra Götaland
+10420,2015,14,138,1446,1462,Lilla Edet,T4490,Lilla Edet västra,Västra Götaland
+10421,2015,14,311,3772,1462,Lilla Edet,T4924,Lilla Edet,Västra Götaland
+10422,2015,14,75,304,1445,Essunga,T5312,Jonslund,Västra Götaland
+10423,2015,14,56,452,1415,Stenungsund,T4598,Svenshögen,Västra Götaland
+10424,2015,14,77,572,1488,Trollhättan,T5108,Upphärad,Västra Götaland
+10425,2015,14,137,960,1470,Vara,T5512,Vedum,Västra Götaland
+10426,2015,14,361,1946,1421,Orust,T4592,Svanesund,Västra Götaland
+10427,2015,14,600,8175,1498,Tidaholm,T5460,Tidaholm,Västra Götaland
+10428,2015,14,890,17170,1499,Falköping,T5236,Falköping,Västra Götaland
+10429,2015,14,79,231,1470,Vara,T5346,Larv,Västra Götaland
+10430,2015,05,451,3269,0560,Boxholm,T1040,Boxholm,Östergötland
+10431,2015,14,187,1884,1445,Essunga,T5388,Nossebro,Västra Götaland
+10432,2015,14,57,385,1462,Lilla Edet,T4872,Hjärtum,Västra Götaland
+10433,2015,14,72,481,1498,Tidaholm,T5220,Ekedalen,Västra Götaland
+10434,2015,05,567,7014,0561,Åtvidaberg,T1328,Åtvidaberg,Östergötland
+10435,2015,14,88,466,1499,Falköping,T5472,Torbjörntorp,Västra Götaland
+10436,2015,05,54,291,0561,Åtvidaberg,T1012,Berg,Östergötland
+10437,2015,05,69,499,0580,Linköping,T1044,Brokind,Östergötland
+10438,2015,05,265,2685,0563,Valdemarsvik,T1304,Valdemarsvik,Östergötland
+10439,2015,14,277,2213,1488,Trollhättan,T5020,Sjuntorp,Västra Götaland
+10440,2015,14,221,1036,1421,Orust,T4336,Ellös,Västra Götaland
+10441,2015,05,260,2554,0509,Ödeshög,T1332,Ödeshög,Östergötland
+10442,2015,14,41,429,1499,Falköping,T5264,Gudhem,Västra Götaland
+10443,2015,05,95,510,0580,Linköping,T1020,Bestorp,Östergötland
+10444,2015,05,85,450,0560,Boxholm,T1264,Strålsnäs,Östergötland
+10445,2015,14,69,391,1445,Essunga,T5250,Främmestad,Västra Götaland
+10446,2015,14,83,592,1488,Trollhättan,T5038,Velanda,Västra Götaland
+10447,2015,14,81,464,1470,Vara,T5204,Arentorp,Västra Götaland
+10448,2015,14,88,451,1470,Vara,T5476,Tråvad,Västra Götaland
+10449,2015,14,40,284,1470,Vara,T5224,Emtunga,Västra Götaland
+10450,2015,14,141,647,1484,Lysekil,T4360,Grundsund,Västra Götaland
+10451,2015,14,60,327,1488,Trollhättan,T5128,Väne-Åsaka,Västra Götaland
+10452,2015,05,47,328,0509,Ödeshög,T1108,Hästholmen,Östergötland
+10453,2015,05,127,1149,0563,Valdemarsvik,T1084,Gusum,Östergötland
+10454,2015,14,399,3689,1485,Uddevalla,T4492,Ljungskile,Västra Götaland
+10455,2015,14,169,1823,1499,Falköping,T5436,Stenstorp,Västra Götaland
+10456,2015,14,226,451,1485,Uddevalla,T4534,"Strandskogen, Restenäs och Ulvesund",Västra Götaland
+10457,2015,14,331,4052,1470,Vara,T5500,Vara,Västra Götaland
+10458,2015,05,46,322,0580,Linköping,T1200,Nykil,Östergötland
+10459,2015,14,470,2243,1421,Orust,T4384,Henån,Västra Götaland
+10460,2015,05,37,368,0580,Linköping,T1238,Skeda udde,Östergötland
+10461,2015,14,72,262,1484,Lysekil,T4340,Fiskebäckskil,Västra Götaland
+10462,2015,14,55,222,1497,Hjo,T5332,Korsberga,Västra Götaland
+10463,2015,05,115,1047,0561,Åtvidaberg,T1072,Grebo,Östergötland
+10464,2015,14,497,6203,1497,Hjo,T5296,Hjo,Västra Götaland
+10465,2015,14,175,1278,1470,Vara,T5336,Kvänum,Västra Götaland
+10466,2015,05,118,573,0586,Mjölby,T1316,Väderstad,Östergötland
+10467,2015,14,190,227,1421,Orust,T4426,Höggeröd,Västra Götaland
+10468,2015,14,165,447,1485,Uddevalla,T4626,Sjöskogen och Strand,Västra Götaland
+10469,2015,05,44,236,0586,Mjölby,T1096,Hogstad,Östergötland
+10470,2015,14,471,7734,1484,Lysekil,T4496,Lysekil,Västra Götaland
+10471,2015,05,73,411,0561,Åtvidaberg,T1024,Björsäter,Östergötland
+10472,2015,05,147,2228,0580,Linköping,T1272,Sturefors,Östergötland
+10473,2015,14,167,219,1421,Orust,T4644,Vindön och Töllås,Västra Götaland
+10474,2015,14,129,809,1470,Vara,T5440,Stora Levene,Västra Götaland
+10475,2015,14,96,384,1470,Vara,T5316,Jung,Västra Götaland
+10476,2015,05,121,605,0563,Valdemarsvik,T1224,Ringarum,Östergötland
+10477,2015,05,49,374,0586,Mjölby,T1260,Spångsholm,Östergötland
+10478,2015,05,869,12858,0586,Mjölby,T1180,Mjölby,Östergötland
+10479,2015,14,2463,48573,1488,Trollhättan,T5084,Trollhättan,Västra Götaland
+10480,2015,14,85,616,1496,Skövde,T5524,Värsås,Västra Götaland
+10481,2015,14,148,563,1485,Uddevalla,T4296,Ammenäs,Västra Götaland
+10482,2015,14,286,3644,1496,Skövde,T5424,Skultorp,Västra Götaland
+10483,2015,14,246,2946,1444,Grästorp,T5260,Grästorp,Västra Götaland
+10484,2015,05,339,3781,0586,Mjölby,T1176,Mantorp,Östergötland
+10485,2015,14,142,382,1485,Uddevalla,T4632,Kristevik och Sundsandvik,Västra Götaland
+10486,2015,05,52,307,0580,Linköping,T1236,Sjögestad,Östergötland
+10487,2015,05,113,593,0580,Linköping,T1252,Slaka,Östergötland
+10488,2015,14,65,745,1495,Skara,T5200,Ardala,Västra Götaland
+10489,2015,14,77,410,1485,Uddevalla,T5106,Utby,Västra Götaland
+10490,2015,05,47,437,0580,Linköping,T1008,Bankekind,Östergötland
+10491,2015,14,96,461,1485,Uddevalla,T4482,Lanesund och Överby,Västra Götaland
+10492,2015,05,178,2335,0580,Linköping,T1308,Vikingstad,Östergötland
+10493,2015,14,69,662,1495,Skara,T5504,Varnhem,Västra Götaland
+10494,2015,14,401,4981,1487,Vänersborg,T5112,Vargön,Västra Götaland
+10495,2015,14,50,212,1494,Lidköping,T5404,Saleby,Västra Götaland
+10496,2015,14,116,1164,1495,Skara,T5208,Axvall,Västra Götaland
+10497,2015,14,107,789,1494,Lidköping,T5320,Järpås,Västra Götaland
+10498,2015,05,303,3358,0586,Mjölby,T1244,Skänninge,Östergötland
+10499,2015,14,67,1408,1485,Uddevalla,T4454,Kurveröd,Västra Götaland
+10500,2015,05,41,247,0580,Linköping,T1212,Rappestad,Östergötland
+10501,2015,14,75,648,1496,Skövde,T5308,Igelstorp,Västra Götaland
+10502,2015,14,106,260,1427,Sotenäs,T4500,Malmön,Västra Götaland
+10503,2015,14,28,245,1485,Uddevalla,T4586,Smedseröd,Västra Götaland
+10504,2015,14,72,456,1487,Vänersborg,T4974,Nordkroken,Västra Götaland
+10505,2015,05,95,477,0582,Söderköping,T1348,Östra Ryd,Östergötland
+10506,2015,05,57,503,0580,Linköping,T1004,Askeby,Östergötland
+10507,2015,14,1131,23119,1487,Vänersborg,T5132,Vänersborg,Västra Götaland
+10508,2015,14,2008,34781,1485,Uddevalla,T4608,Uddevalla,Västra Götaland
+10509,2015,14,45,399,1487,Vänersborg,T4330,Katrinedal,Västra Götaland
+10510,2015,14,839,11437,1495,Skara,T5420,Skara,Västra Götaland
+10511,2015,05,41,207,0580,Linköping,T1318,Västerlösa,Östergötland
+10512,2015,14,115,1292,1427,Sotenäs,T4564,Smögen,Västra Götaland
+10513,2015,05,273,5074,0580,Linköping,T1172,Malmslätt,Östergötland
+10514,2015,14,789,8396,1472,Tibro,T5456,Tibro,Västra Götaland
+10515,2015,05,3777,106502,0580,Linköping,T1152,Linköping,Östergötland
+10516,2015,05,315,3311,0580,Linköping,T1288,Tallboda,Östergötland
+10517,2015,14,2211,36842,1496,Skövde,T5428,Skövde,Västra Götaland
+10518,2015,14,404,3657,1427,Sotenäs,T4448,Kungshamn,Västra Götaland
+10519,2015,14,469,2289,1484,Lysekil,T4316,Brastad,Västra Götaland
+10520,2015,05,192,2853,0580,Linköping,T1148,Linghem,Östergötland
+10521,2015,14,61,384,1485,Uddevalla,T4398,Hogstorp,Västra Götaland
+10522,2015,14,48,237,1495,Skara,T5216,Eggby,Västra Götaland
+10523,2015,05,52,269,0580,Linköping,T1142,Kränge,Östergötland
+10524,2015,05,361,5674,0584,Vadstena,T1300,Vadstena,Östergötland
+10525,2015,05,53,293,0583,Motala,T1064,Fågelsta,Östergötland
+10526,2015,05,45,296,0582,Söderköping,T1184,Mogata,Östergötland
+10527,2015,14,126,499,1485,Uddevalla,T4338,Fagerhult,Västra Götaland
+10528,2015,14,108,1033,1494,Lidköping,T5516,Vinninga,Västra Götaland
+10529,2015,05,55,283,0580,Linköping,T1068,Gistad,Östergötland
+10530,2015,14,201,684,1472,Tibro,T5232,Fagersanna,Västra Götaland
+10531,2015,05,57,460,0583,Motala,T1060,Fornåsa,Östergötland
+10532,2015,05,186,2485,0580,Linköping,T1050,Ekängen,Östergötland
+10533,2015,14,41,256,1496,Skövde,T5492,Ulvåker,Västra Götaland
+10534,2015,14,143,558,1496,Skövde,T5348,Lerdala,Västra Götaland
+10535,2015,14,129,909,1471,Götene,T5360,Lundsbrunn,Västra Götaland
+10536,2015,05,107,1307,0580,Linköping,T1016,Bergs slussar,Östergötland
+10537,2015,05,54,488,0582,Söderköping,T1320,Västra Husby,Östergötland
+10538,2015,14,109,1373,1496,Skövde,T5444,Stöpen,Västra Götaland
+10539,2015,14,53,226,1430,Munkedal,T4554,Torreby,Västra Götaland
+10540,2015,05,41,248,0583,Motala,T1136,Klockrike,Östergötland
+10541,2015,05,505,7418,0582,Söderköping,T1284,Söderköping,Östergötland
+10542,2015,14,148,1047,1446,Karlsborg,T5384,Mölltorp,Västra Götaland
+10543,2015,14,107,689,1494,Lidköping,T5240,Filsbäck,Västra Götaland
+10544,2015,05,80,423,0582,Söderköping,T1170,Snöveltorp,Östergötland
+10545,2015,05,53,566,0581,Norrköping,T1196,Norsholm,Östergötland
+10546,2015,14,362,2053,1427,Sotenäs,T4404,Hunnebostrand,Västra Götaland
+10547,2015,14,125,641,1496,Skövde,T5520,Väring,Västra Götaland
+10548,2015,05,58,215,0582,Söderköping,T1162,Luddingsbo,Östergötland
+10549,2015,05,453,6763,0580,Linköping,T1160,Ljungsbro,Östergötland
+10550,2015,05,43,324,0583,Motala,T1340,Österstad,Östergötland
+10551,2015,14,1282,22988,1494,Lidköping,T5352,Lidköping,Västra Götaland
+10552,2015,14,60,322,1494,Lidköping,T5890,Örslösa,Västra Götaland
+10553,2015,14,97,640,1487,Vänersborg,T4820,Frändefors,Västra Götaland
+10554,2015,14,128,447,1427,Sotenäs,T4312,Bovallstrand,Västra Götaland
+10555,2015,14,116,895,1496,Skövde,T5468,Timmersdala,Västra Götaland
+10556,2015,14,536,3910,1430,Munkedal,T4512,Munkedal,Västra Götaland
+10557,2015,14,497,5027,1471,Götene,T5280,Götene,Västra Götaland
+10558,2015,14,209,1737,1471,Götene,T5340,Källby,Västra Götaland
+10559,2015,05,193,646,0581,Norrköping,T1330,Öbonäs,Östergötland
+10560,2015,14,356,3819,1494,Lidköping,T4486,Lidköping norra,Västra Götaland
+10561,2015,14,519,3624,1446,Karlsborg,T5324,Karlsborg,Västra Götaland
+10562,2015,05,170,1469,0581,Norrköping,T1128,Kimstad,Östergötland
+10563,2015,05,277,2942,0583,Motala,T1028,Borensberg,Östergötland
+10564,2015,05,2024,30944,0583,Motala,T1188,Motala,Östergötland
+10565,2015,14,97,901,1430,Munkedal,T4324,Dingle,Västra Götaland
+10566,2015,14,143,989,1496,Skövde,T5464,Tidan,Västra Götaland
+10567,2015,14,87,589,1439,Färgelanda,T5160,Ödeborg,Västra Götaland
+10568,2015,14,83,323,1446,Karlsborg,T5248,Forsvik,Västra Götaland
+10569,2015,05,119,868,0581,Norrköping,T1344,Östra Husby,Östergötland
+10570,2015,05,94,751,0581,Norrköping,T1156,Ljunga,Östergötland
+10571,2015,05,73,500,0581,Norrköping,T1046,Eksund,Östergötland
+10572,2015,14,183,1521,1487,Vänersborg,T4760,Brålanda,Västra Götaland
+10573,2015,05,418,4023,0581,Norrköping,T1248,Skärblacka,Östergötland
+10574,2015,05,20,275,0581,Norrköping,T1018,Berga,Östergötland
+10575,2015,14,82,463,1439,Färgelanda,T5048,Stigen,Västra Götaland
+10576,2015,05,64,255,0581,Norrköping,T1178,Marby och Marbystrand,Östergötland
+10577,2015,14,263,1986,1439,Färgelanda,T4828,Färgelanda,Västra Götaland
+10578,2015,14,103,647,1473,Töreboda,T5376,Moholm,Västra Götaland
+10579,2015,14,137,706,1435,Tanum,T4372,Hamburgsund,Västra Götaland
+10580,2015,05,291,4763,0581,Norrköping,T1144,Lindö,Östergötland
+10581,2015,05,3668,93765,0581,Norrköping,T1192,Norrköping,Östergötland
+10582,2015,05,55,392,0583,Motala,T1204,Nykyrka,Östergötland
+10583,2015,14,116,816,1430,Munkedal,T4412,Hällevadsholm,Västra Götaland
+10584,2015,05,28,236,0581,Norrköping,T1088,Herstadberg,Östergötland
+10585,2015,05,55,235,0581,Norrköping,T1058,Djurön,Östergötland
+10586,2015,04,143,241,0480,Nyköping,T0838,Skeppsvik och Sjöskogen,Södermanland
+10587,2015,14,159,683,1471,Götene,T5304,Hällekis,Västra Götaland
+10588,2015,04,112,779,0480,Nyköping,T0816,Nävekvarn,Södermanland
+10589,2015,05,75,203,0581,Norrköping,T1146,Kvarsebo och Säter,Östergötland
+10590,2015,14,167,850,1435,Tanum,T4344,Fjällbacka,Västra Götaland
+10591,2015,14,76,238,1446,Karlsborg,T5496,Undenäs,Västra Götaland
+10592,2015,14,108,641,1493,Mariestad,T5356,Lugnås,Västra Götaland
+10593,2015,05,484,3326,0581,Norrköping,T1276,Svärtinge,Östergötland
+10594,2015,14,73,283,1435,Tanum,T4532,Rabbalshede,Västra Götaland
+10595,2015,04,58,210,0480,Nyköping,T0728,Buskhyttan,Södermanland
+10596,2015,14,124,885,1493,Mariestad,T5488,Ullervad,Västra Götaland
+10597,2015,14,112,715,1439,Färgelanda,T4900,Högsäter,Västra Götaland
+10598,2015,14,101,392,1430,Munkedal,T4380,Hedekas,Västra Götaland
+10599,2015,05,65,464,0562,Finspång,T1052,Falla,Östergötland
+10600,2015,05,533,6917,0581,Norrköping,T1324,Åby,Östergötland
+10601,2015,05,146,201,0583,Motala,T1322,Västanvik,Östergötland
+10602,2015,05,579,5053,0581,Norrköping,T1140,Krokek,Östergötland
+10603,2015,04,1160,11157,0481,Oxelösund,T0820,Oxelösund,Södermanland
+10604,2015,04,21,228,0481,Oxelösund,T0778,Inskogen,Södermanland
+10605,2015,05,150,560,0581,Norrköping,T1074,Graversfors,Östergötland
+10606,2015,05,798,12807,0562,Finspång,T1056,Finspång,Östergötland
+10607,2015,05,40,290,0562,Finspång,T1206,Butbro,Östergötland
+10608,2015,05,77,518,0583,Motala,T1292,Tjällmo,Östergötland
+10609,2015,14,410,4626,1473,Töreboda,T5484,Töreboda,Västra Götaland
+10610,2015,05,73,436,0562,Finspång,T1256,Sonstorp,Östergötland
+10611,2015,14,319,3797,1461,Mellerud,T4952,Mellerud,Västra Götaland
+10612,2015,05,47,237,0562,Finspång,T1032,Borggård,Östergötland
+10613,2015,14,1134,16122,1493,Mariestad,T5372,Mariestad,Västra Götaland
+10614,2015,04,41,223,0480,Nyköping,T0916,Ålberga,Södermanland
+10615,2015,04,30,210,0480,Nyköping,T0854,Stavsjö,Södermanland
+10616,2015,05,95,685,0562,Finspång,T1168,Lotorp,Östergötland
+10617,2015,05,99,335,0562,Finspång,T1104,Hällestad,Östergötland
+10618,2015,04,228,4124,0480,Nyköping,T0702,Arnö,Södermanland
+10619,2015,14,143,882,1461,Mellerud,T4776,Dals Rostock,Västra Götaland
+10620,2015,04,65,801,0480,Nyköping,T0708,Bergshammar,Södermanland
+10621,2015,04,80,598,0480,Nyköping,T0780,Jönåker,Södermanland
+10622,2015,04,80,1095,0480,Nyköping,T0876,Svalsta,Södermanland
+10623,2015,18,80,237,1882,Askersund,T6080,Olshammar,Örebro
+10624,2015,04,58,436,0480,Nyköping,T0736,Enstaberga,Södermanland
+10625,2015,14,495,1877,1435,Tanum,T4356,Grebbestad,Västra Götaland
+10626,2015,14,207,1774,1435,Tanum,T4600,Tanumshede,Västra Götaland
+10627,2015,05,72,316,0562,Finspång,T1164,Ljusfallshammar,Östergötland
+10628,2015,05,45,242,0581,Norrköping,T1232,Simonstorp,Östergötland
+10629,2015,04,1490,32224,0480,Nyköping,T0812,Nyköping,Södermanland
+10630,2015,04,63,488,0480,Nyköping,T0832,Sjösa,Södermanland
+10631,2015,05,86,290,0562,Finspång,T1080,Grytgöl,Östergötland
+10632,2015,14,70,474,1493,Mariestad,T5364,Lyrestad,Västra Götaland
+10633,2015,18,181,316,1882,Askersund,T6160,Zinkgruvan,Örebro
+10634,2015,18,64,266,1882,Askersund,T5968,Hammar,Örebro
+10635,2015,04,179,1949,0480,Nyköping,T0856,Stigtomta,Södermanland
+10636,2015,14,93,373,1473,Töreboda,T5536,Älgarås,Västra Götaland
+10637,2015,14,172,746,1461,Mellerud,T5144,Åsensbruk,Västra Götaland
+10638,2015,05,129,886,0562,Finspång,T1216,Rejmyre,Östergötland
+10639,2015,14,139,709,1460,Bengtsfors,T4768,Bäckefors,Västra Götaland
+10640,2015,14,92,437,1493,Mariestad,T5412,Sjötorp,Västra Götaland
+10641,2015,04,119,427,0483,Katrineholm,T0720,Björkvik,Södermanland
+10642,2015,05,39,227,0562,Finspång,T1116,Igelfors,Östergötland
+10643,2015,14,185,1254,1447,Gullspång,T5300,Hova,Västra Götaland
+10644,2015,04,110,630,0480,Nyköping,T0908,Vrena,Södermanland
+10645,2015,04,106,869,0480,Nyköping,T0888,Tystberga,Södermanland
+10646,2015,18,202,443,1882,Askersund,T6168,Åmmeberg,Örebro
+10647,2015,04,44,247,0480,Nyköping,T0828,Runtuna,Södermanland
+10648,2015,18,381,3997,1882,Askersund,T5904,Askersund,Örebro
+10649,2015,18,85,234,1861,Hallsberg,T5984,Hjortkvarn,Örebro
+10650,2015,04,172,244,0488,Trosa,T0928,Öbolandet,Södermanland
+10651,2015,04,53,351,0483,Katrineholm,T0864,Strångsjö,Södermanland
+10652,2015,04,70,366,0482,Flen,T0712,Bettna,Södermanland
+10653,2015,01,388,293,0192,Nynäshamn,T0386,Oxnö och Svärdsö,Stockholm
+10654,2015,18,71,279,1882,Askersund,T6104,Rönneshytta,Örebro
+10655,2015,18,112,575,1860,Laxå,T5932,Finnerödja,Örebro
+10656,2015,04,42,377,0488,Trosa,T0910,Västerljung,Södermanland
+10657,2015,04,610,5836,0488,Trosa,T0884,Trosa,Södermanland
+10658,2015,04,210,209,0480,Nyköping,T0794,Kvegerö,Södermanland
+10659,2015,14,350,2994,1438,Dals-Ed,T4796,Ed,Västra Götaland
+10660,2015,01,711,14532,0192,Nynäshamn,T0264,Nynäshamn,Stockholm
+10661,2015,14,116,686,1447,Gullspång,T5396,Otterbäcken,Västra Götaland
+10662,2015,04,75,525,0483,Katrineholm,T0748,Forssjö,Södermanland
+10663,2015,14,210,1407,1460,Bengtsfors,T4772,Dals Långed,Västra Götaland
+10664,2015,14,37,205,1486,Strömstad,T4620,Stare,Västra Götaland
+10665,2015,04,287,3397,0488,Trosa,T0896,Vagnhärad,Södermanland
+10666,2015,14,115,736,1486,Strömstad,T4556,Skee,Västra Götaland
+10667,2015,01,51,695,0192,Nynäshamn,T0340,Stora Vika,Stockholm
+10668,2015,14,307,1568,1447,Gullspång,T5268,Gullspång,Västra Götaland
+10669,2015,01,41,363,0192,Nynäshamn,T0254,Lidatorp och Klövsta,Stockholm
+10670,2015,18,419,3125,1860,Laxå,T6036,Laxå,Örebro
+10671,2015,04,152,394,0488,Trosa,T0898,Sund,Södermanland
+10672,2015,14,60,346,1492,Åmål,T5096,Tösse,Västra Götaland
+10673,2015,18,309,1321,1882,Askersund,T6172,Åsbro,Örebro
+10674,2015,04,1179,23283,0483,Katrineholm,T0784,Katrineholm,Södermanland
+10675,2015,04,90,490,0428,Vingåker,T0704,Baggetorp,Södermanland
+10676,2015,14,466,7176,1486,Strömstad,T4584,Strömstad,Västra Götaland
+10677,2015,14,173,340,1486,Strömstad,T4439,Kebal,Västra Götaland
+10678,2015,14,160,1108,1460,Bengtsfors,T4728,Billingsfors,Västra Götaland
+10679,2015,14,78,323,1492,Åmål,T4800,Fengersfors,Västra Götaland
+10680,2015,01,210,3866,0192,Nynäshamn,T0420,Ösmo,Stockholm
+10681,2015,04,130,1485,0483,Katrineholm,T0900,Valla,Södermanland
+10682,2015,04,97,691,0428,Vingåker,T0776,Högsjö,Södermanland
+10683,2015,18,161,852,1861,Hallsberg,T6156,Vretstorp,Örebro
+10684,2015,01,65,271,0136,Haninge,T0238,Muskö,Stockholm
+10685,2015,04,115,685,0483,Katrineholm,T0844,Sköldinge,Södermanland
+10686,2015,18,149,869,1861,Hallsberg,T6192,Östansjö,Örebro
+10687,2015,01,168,1477,0181,Södertälje,T0196,Hölö,Stockholm
+10688,2015,04,53,372,0428,Vingåker,T0802,Marmorbyn,Södermanland
+10689,2015,01,118,1272,0192,Nynäshamn,T0320,Sorunda,Stockholm
+10690,2015,14,120,323,1460,Bengtsfors,T5040,Skåpafors,Västra Götaland
+10691,2015,01,83,757,0192,Nynäshamn,T0330,Segersäng,Stockholm
+10692,2015,01,456,218,0136,Haninge,T0258,Norra Muskö,Stockholm
+10693,2015,18,32,233,1880,Örebro,T6012,Kilsmo,Örebro
+10694,2015,01,128,277,0192,Nynäshamn,T0226,Landfjärden,Stockholm
+10695,2015,04,411,4548,0428,Vingåker,T0904,Vingåker,Södermanland
+10696,2015,18,157,1610,1861,Hallsberg,T6088,Pålsboda,Örebro
+10697,2015,14,390,3125,1460,Bengtsfors,T4720,Bengtsfors,Västra Götaland
+10698,2015,01,151,1089,0181,Södertälje,T0244,Mölnbo,Stockholm
+10699,2015,04,385,5772,0461,Gnesta,T0752,Gnesta,Södermanland
+10700,2015,04,65,207,0482,Flen,T0836,Skebokvarn,Södermanland
+10701,2015,04,116,838,0461,Gnesta,T0724,Björnlunda,Södermanland
+10702,2015,04,114,734,0482,Flen,T0848,Sparreholm,Södermanland
+10703,2015,04,110,270,0482,Flen,T0822,Orrhammar,Södermanland
+10704,2015,14,736,9373,1492,Åmål,T5140,Åmål,Västra Götaland
+10705,2015,04,63,510,0483,Katrineholm,T0716,Bie,Södermanland
+10706,2015,01,46,255,0181,Södertälje,T0344,Nibble,Stockholm
+10707,2015,01,104,551,0192,Nynäshamn,T0364,Grödby,Stockholm
+10708,2015,18,960,8146,1861,Hallsberg,T5964,Hallsberg,Örebro
+10709,2015,18,97,421,1860,Laxå,T5980,Hasselfors,Örebro
+10710,2015,04,112,555,0461,Gnesta,T0860,Stjärnhov,Södermanland
+10711,2015,01,176,337,0136,Haninge,T0430,Gansta och Söderby,Stockholm
+10712,2015,04,82,505,0482,Flen,T0804,Mellösa,Södermanland
+10713,2015,01,406,6038,0181,Södertälje,T0204,Järna,Stockholm
+10714,2015,01,145,389,0136,Haninge,T0434,Årsta Havsbad,Stockholm
+10715,2015,18,143,811,1881,Kumla,T6164,Åbytorp,Örebro
+10716,2015,18,89,456,1862,Degerfors,T6140,Svartå,Örebro
+10717,2015,04,136,221,0428,Vingåker,T0808,Läppe,Södermanland
+10718,2015,01,47,465,0181,Södertälje,T0428,Östra Kallfors,Stockholm
+10719,2015,01,55,563,0181,Södertälje,T0444,Kallfors,Stockholm
+10720,2015,01,94,354,0127,Botkyrka,T0298,Sibble,Stockholm
+10721,2015,18,147,1079,1861,Hallsberg,T6112,Sköllersta,Örebro
+10722,2015,18,134,306,1880,Örebro,T5974,Hampetorp,Örebro
+10723,2015,04,142,2106,0482,Flen,T0796,Malmköping,Södermanland
+10724,2015,04,51,326,0483,Katrineholm,T0924,Äsköping,Södermanland
+10725,2015,01,162,522,0136,Haninge,T0402,Väländan,Stockholm
+10726,2015,18,60,249,1880,Örebro,T5900,Askersby,Örebro
+10727,2015,18,1121,16663,1881,Kumla,T6020,Kumla,Örebro
+10728,2015,18,147,534,1814,Lekeberg,T6056,Mullhyttan,Örebro
+10729,2015,17,801,9150,1785,Säffle,T5840,Säffle,Värmland
+10730,2015,17,83,296,1781,Kristinehamn,T5624,Bäckhammar,Värmland
+10731,2015,18,99,461,1881,Kumla,T5920,Ekeby,Örebro
+10732,2015,18,80,212,1814,Lekeberg,T6026,Gropen,Örebro
+10733,2015,01,1036,17071,0136,Haninge,T0404,Västerhaninge,Stockholm
+10734,2015,04,216,1624,0482,Flen,T0768,Hälleforsnäs,Södermanland
+10735,2015,18,157,1378,1880,Örebro,T6076,Odensbacken,Örebro
+10736,2015,01,106,2235,0181,Södertälje,T0272,Pershagen,Stockholm
+10737,2015,18,210,2160,1814,Lekeberg,T5936,Fjugesta,Örebro
+10738,2015,01,478,10757,0136,Haninge,T0200,Jordbro,Stockholm
+10739,2015,01,112,242,0126,Huddinge,T0406,Östorp och Ådran,Stockholm
+10740,2015,01,149,2470,0127,Botkyrka,T0396,Vårsta,Stockholm
+10741,2015,17,134,485,1785,Säffle,T5832,Svanskog,Värmland
+10742,2015,01,615,1849,0136,Haninge,T0132,Dalarö,Stockholm
+10743,2015,01,560,7327,0140,Nykvarn,T0260,Nykvarn,Stockholm
+10744,2015,18,102,801,1880,Örebro,T6116,Stora Mellösa,Örebro
+10745,2015,01,56,2044,0127,Botkyrka,T0282,Norra Riksten,Stockholm
+10746,2015,01,141,640,0126,Huddinge,T0178,Gladö kvarn,Stockholm
+10747,2015,18,147,880,1880,Örebro,T6064,Norra Bro,Örebro
+10748,2015,01,190,741,0126,Huddinge,T0394,Vidja,Stockholm
+10749,2015,01,57,220,0140,Nykvarn,T0158,Finkarby,Stockholm
+10750,2015,01,1944,40832,0127,Botkyrka,T0372,Tumba,Stockholm
+10751,2015,17,144,1237,1781,Kristinehamn,T5612,Björneborg,Värmland
+10752,2015,01,2797,70777,0181,Södertälje,T0356,Södertälje,Stockholm
+10753,2015,01,90,236,0140,Nykvarn,T0382,Stensättra tomtområde,Stockholm
+10754,2015,18,788,7190,1862,Degerfors,T5916,Degerfors,Örebro
+10755,2015,04,39,226,0484,Eskilstuna,T0730,Bälgviken,Södermanland
+10756,2015,18,424,2285,1814,Lekeberg,T6152,Vintrosa,Örebro
+10757,2015,18,200,1531,1880,Örebro,T5924,Ekeby-Almby,Örebro
+10758,2015,04,36,532,0486,Strängnäs,T0798,Marielund,Södermanland
+10759,2015,01,151,859,0181,Södertälje,T0398,Viksäter och Viksberg,Stockholm
+10760,2015,01,94,356,0181,Södertälje,T0390,Vattubrinken,Stockholm
+10761,2015,01,66,990,0181,Södertälje,T0148,Ekeby,Stockholm
+10762,2015,18,123,727,1880,Örebro,T6032,Latorpsbruk,Örebro
+10763,2015,01,90,404,0181,Södertälje,T0374,Tuna,Stockholm
+10764,2015,04,59,405,0484,Eskilstuna,T0700,Alberga,Södermanland
+10765,2015,01,301,1206,0120,Värmdö,T0234,Långvik,Stockholm
+10766,2015,01,188,265,0120,Värmdö,T0118,"Grönskan, Vedhamn och Baldersnäs",Stockholm
+10767,2015,04,181,278,0486,Strängnäs,T0782,Kalkudden,Södermanland
+10768,2015,04,280,2980,0486,Strängnäs,T0912,Åkers styckebruk,Södermanland
+10769,2015,04,271,3911,0486,Strängnäs,T0800,Mariefred,Södermanland
+10770,2015,17,87,416,1764,Grums,T5796,Segmon,Värmland
+10771,2015,01,151,418,0181,Södertälje,T0310,Sandviken,Stockholm
+10772,2015,04,52,383,0486,Strängnäs,T0806,Merlänna,Södermanland
+10773,2015,04,145,1272,0484,Eskilstuna,T0920,Ärla,Södermanland
+10774,2015,01,57,223,0125,Ekerö,T0246,Lurudden,Stockholm
+10775,2015,04,100,917,0484,Eskilstuna,T0756,Hållsta,Södermanland
+10776,2015,01,384,723,0120,Värmdö,T0314,Lugnet och Skälsmara,Stockholm
+10777,2015,01,94,616,0125,Ekerö,T0151,Ekerö sommarstad,Stockholm
+10778,2015,18,173,1613,1880,Örebro,T5944,Garphyttan,Örebro
+10779,2015,01,202,908,0182,Nacka,T0436,Älgö,Stockholm
+10780,2015,01,63,944,0125,Ekerö,T0182,Parksidan och Solsidan,Stockholm
+10781,2015,01,57,753,0125,Ekerö,T0414,Älvnäs,Stockholm
+10782,2015,18,143,321,1883,Karlskoga,T6146,Valåsen och Labbsand,Örebro
+10783,2015,18,112,778,1880,Örebro,T5948,Glanshammar,Örebro
+10784,2015,01,596,11505,0125,Ekerö,T0150,Ekerö,Stockholm
+10785,2015,01,70,349,0125,Ekerö,T0266,Sundby,Stockholm
+10786,2015,17,69,217,1761,Hammarö,T5790,Rud,Värmland
+10787,2015,01,580,2302,0120,Värmdö,T0166,Fågelvikshöjden,Stockholm
+10788,2015,04,65,618,0484,Eskilstuna,T0760,Hällberga,Södermanland
+10789,2015,18,5064,115765,1880,Örebro,T6188,Örebro,Örebro
+10790,2015,01,454,791,0120,Värmdö,T0198,Norra Ingaröstrand och Skälsmara,Stockholm
+10791,2015,01,97,8117,0182,Nacka,T0156,Fisksätra,Stockholm
+10792,2015,01,198,1180,0120,Värmdö,T0120,Brunn,Stockholm
+10793,2015,01,524,9477,0182,Nacka,T0296,Saltsjöbaden,Stockholm
+10794,2015,01,37,529,0182,Nacka,T0192,Hästhagen,Stockholm
+10795,2015,17,142,1010,1764,Grums,T5810,Slottsbron,Värmland
+10796,2015,17,1401,18557,1781,Kristinehamn,T5720,Kristinehamn,Värmland
+10797,2015,01,981,1784,0120,Värmdö,T0324,Stavsnäs,Stockholm
+10798,2015,17,25,277,1761,Hammarö,T5862,Vidöåsen,Värmland
+10799,2015,18,158,2831,1880,Örebro,T5988,Hovsta,Örebro
+10800,2015,01,710,2468,0120,Värmdö,T0342,Strömma,Stockholm
+10801,2015,19,45,265,1984,Arboga,T6220,Götlunda,Västmanland
+10802,2015,01,251,799,0125,Ekerö,T0378,Tureholm,Stockholm
+10803,2015,17,1119,13605,1761,Hammarö,T5804,Skoghall,Värmland
+10804,2015,01,47,348,0125,Ekerö,T0140,Drottningholm,Stockholm
+10805,2015,17,85,247,1761,Hammarö,T5850,Tye,Värmland
+10806,2015,17,38,218,1781,Kristinehamn,T5888,Ölme,Värmland
+10807,2015,01,343,3588,0125,Ekerö,T0328,Stenhamra,Stockholm
+10808,2015,18,2031,27490,1883,Karlskoga,T6008,Karlskoga,Örebro
+10809,2015,01,457,597,0120,Värmdö,T0438,Älvsala,Stockholm
+10810,2015,01,55,278,0120,Värmdö,T0122,Betsede,Stockholm
+10811,2015,04,60,508,0486,Strängnäs,T0772,Härad,Södermanland
+10812,2015,01,90,861,0182,Nacka,T0212,Kil,Stockholm
+10813,2015,17,511,5040,1764,Grums,T5676,Grums,Värmland
+10814,2015,04,222,1671,0486,Strängnäs,T0852,Stallarholmen,Södermanland
+10815,2015,17,71,519,1780,Karlstad,T5872,Väse,Värmland
+10816,2015,04,161,270,0486,Strängnäs,T0890,Husby och Tuna,Södermanland
+10817,2015,18,63,543,1880,Örebro,T6184,Ölmbrotorp,Örebro
+10818,2015,01,701,2280,0120,Värmdö,T0214,Kopparmora,Stockholm
+10819,2015,04,719,13693,0486,Strängnäs,T0868,Strängnäs,Södermanland
+10820,2015,01,627,1442,0120,Värmdö,T0136,Djurö,Stockholm
+10821,2015,01,95,333,0120,Värmdö,T0250,Norra Lagnö,Stockholm
+10822,2015,01,92,290,0120,Värmdö,T0370,Koviksudde och Skeviksstrand,Stockholm
+10823,2015,04,2980,67359,0484,Eskilstuna,T0740,Eskilstuna,Södermanland
+10824,2015,04,115,915,0484,Eskilstuna,T0788,Kjulaås,Södermanland
+10825,2015,01,74,447,0120,Värmdö,T0418,Ängsvik,Stockholm
+10826,2015,04,190,4983,0484,Eskilstuna,T0842,Skiftinge,Södermanland
+10827,2015,17,137,756,1780,Karlstad,T5596,Alster,Värmland
+10828,2015,04,286,3323,0484,Eskilstuna,T0764,Hällbybrunn,Södermanland
+10829,2015,01,73,287,0125,Ekerö,T0362,Söderby,Stockholm
+10830,2015,01,39,384,0162,Danderyd,T0368,Tranholmen,Stockholm
+10831,2015,04,154,2324,0486,Strängnäs,T0699,Abborrberget,Södermanland
+10832,2015,17,52,211,1780,Karlstad,T5766,Norsbron,Värmland
+10833,2015,19,774,10841,1984,Arboga,T6200,Arboga,Västmanland
+10834,2015,01,1404,20774,0120,Värmdö,T0172,Gustavsberg,Stockholm
+10835,2015,01,93,284,0125,Ekerö,T0230,Lilla Stenby,Stockholm
+10836,2015,04,29,202,0486,Strängnäs,T0902,Vansö kyrkby,Södermanland
+10837,2015,17,322,2848,1780,Karlstad,T5864,Vålberg,Värmland
+10838,2015,01,76,217,0125,Ekerö,T0210,Hilleshögby,Stockholm
+10839,2015,17,170,1979,1780,Karlstad,T5800,Skattkärr,Värmland
+10840,2015,01,495,253,0120,Värmdö,T0440,Norra Vindö,Stockholm
+10841,2015,01,127,3037,0186,Lidingö,T0332,Sticklinge udde,Stockholm
+10842,2015,17,126,3287,1780,Karlstad,T5794,Älvåker och Råtorp,Värmland
+10843,2015,17,2901,61492,1780,Karlstad,T5704,Karlstad,Värmland
+10844,2015,17,455,3302,1765,Årjäng,T5884,Årjäng,Värmland
+10845,2015,01,463,380,0187,Vaxholm,T0432,Tynningö,Stockholm
+10846,2015,19,512,5885,1960,Kungsör,T6256,Kungsör,Västmanland
+10847,2015,17,32,237,1760,Storfors,T5722,Kyrksten,Värmland
+10848,2015,01,180,708,0125,Ekerö,T0218,Kungsberga,Stockholm
+10849,2015,04,64,321,0484,Eskilstuna,T0886,Tumbo,Södermanland
+10850,2015,04,120,259,0484,Eskilstuna,T0892,Udden,Södermanland
+10851,2015,01,239,652,0125,Ekerö,T0424,Ölsta,Stockholm
+10852,2015,01,164,1100,0187,Vaxholm,T0268,Rindö,Stockholm
+10853,2015,19,78,693,1960,Kungsör,T6360,Valskog,Västmanland
+10854,2015,01,181,4849,0187,Vaxholm,T0392,Vaxholm,Stockholm
+10855,2015,18,215,1475,1885,Lindesberg,T5928,Fellingsbro,Örebro
+10856,2015,04,170,433,0486,Strängnäs,T0722,Björktorp och Sanda,Södermanland
+10857,2015,17,81,720,1780,Karlstad,T5652,Edsvalla,Värmland
+10858,2015,01,41,904,0187,Vaxholm,T0222,Kullö,Stockholm
+10859,2015,19,50,212,1984,Arboga,T6272,Medåker,Västmanland
+10860,2015,17,105,346,1780,Karlstad,T5648,Edsgatan och Långenäs,Värmland
+10861,2015,01,103,290,0187,Vaxholm,T0446,Skarpö,Stockholm
+10862,2015,04,248,320,0484,Eskilstuna,T0786,"Kullersta, Kolsta och Hensta",Södermanland
+10863,2015,17,33,237,1780,Karlstad,T5654,Edsvalla Övre bruket,Värmland
+10864,2015,04,263,868,0484,Eskilstuna,T0870,Sundbyholm,Södermanland
+10865,2015,17,411,5444,1780,Karlstad,T5808,Skåre,Värmland
+10866,2015,04,918,8928,0484,Eskilstuna,T0880,Torshälla,Södermanland
+10867,2015,01,349,3249,0187,Vaxholm,T0276,Resarö,Stockholm
+10868,2015,17,140,648,1780,Karlstad,T5860,Vallargärdet,Värmland
+10869,2015,19,467,2179,1980,Västerås,T0792,Kvicksund,Västmanland
+10870,2015,01,571,2136,0117,Österåker,T0350,Svinninge,Stockholm
+10871,2015,01,41,597,0117,Österåker,T0292,Rydbo,Stockholm
+10872,2015,17,27,493,1715,Kil,T5814,Östra Stenåsen,Värmland
+10873,2015,01,129,295,0160,Täby,T0114,Arninge,Stockholm
+10874,2015,18,133,671,1884,Nora,T5960,Gyttorp,Örebro
+10875,2015,01,108,410,0117,Österåker,T0290,Täljö,Stockholm
+10876,2015,01,435,10151,0139,Upplands-Bro,T0220,Kungsängen,Stockholm
+10877,2015,17,46,241,1763,Forshaga,T5634,Dyvelsten,Värmland
+10878,2015,19,108,675,1980,Västerås,T6342,Tidö-Lindö,Västmanland
+10879,2015,01,46,313,0139,Upplands-Bro,T0286,Rättarboda,Stockholm
+10880,2015,18,67,265,1885,Lindesberg,T6096,Rockhammar,Örebro
+10881,2015,18,72,494,1884,Nora,T6176,Ås,Örebro
+10882,2015,19,1015,18355,1983,Köping,T6268,Köping,Västmanland
+10883,2015,18,142,753,1885,Lindesberg,T6148,Vedevåg,Örebro
+10884,2015,17,72,449,1715,Kil,T5656,Fagerås,Värmland
+10885,2015,01,23,480,0117,Österåker,T0448,Spånlöt,Stockholm
+10886,2015,18,601,6597,1884,Nora,T6060,Nora,Örebro
+10887,2015,01,111,347,0117,Österåker,T0326,Stava,Stockholm
+10888,2015,01,224,3948,0139,Upplands-Bro,T0124,Brunna,Stockholm
+10889,2015,19,133,676,1961,Hallstahammar,T6328,Strömsholm,Västmanland
+10890,2015,01,387,303,0117,Österåker,T0270,Laggarsvik och Linanäs,Stockholm
+10891,2015,01,76,619,0117,Österåker,T0306,Nyhagen och Översättra,Stockholm
+10892,2015,19,95,453,1983,Köping,T6280,Munktorp,Västmanland
+10893,2015,19,119,277,1980,Västerås,T6260,Harkie,Västmanland
+10894,2015,18,66,312,1884,Nora,T6124,Striberg,Örebro
+10895,2015,17,290,2218,1760,Storfors,T5812,Storfors,Värmland
+10896,2015,01,364,8266,0139,Upplands-Bro,T0112,Bro,Stockholm
+10897,2015,01,113,427,0117,Österåker,T0302,Solberga,Stockholm
+10898,2015,01,2460,32659,0117,Österåker,T0408,Åkersberga,Stockholm
+10899,2015,17,249,1221,1765,Årjäng,T5848,Töcksfors,Värmland
+10900,2015,17,785,7627,1715,Kil,T5708,Kil,Värmland
+10901,2015,17,555,6361,1763,Forshaga,T5664,Forshaga,Värmland
+10902,2015,17,93,310,1784,Arvika,T5712,Klässbol,Värmland
+10903,2015,19,47,305,1980,Västerås,T6270,Malmen,Västmanland
+10904,2015,03,104,924,0305,Håbo,T0618,Råby,Uppsala
+10905,2015,19,143,1404,1980,Västerås,T6204,Barkarö,Västmanland
+10906,2015,01,4546,139606,0163,Sollentuna,T0384,Upplands Väsby och Sollentuna,Stockholm
+10907,2015,19,42,474,1980,Västerås,T6382,Örtagården,Västmanland
+10908,2015,03,18,311,0305,Håbo,T0522,Vibyäng,Uppsala
+10909,2015,19,213,2034,1961,Hallstahammar,T6244,Kolbäck,Västmanland
+10910,2015,01,68,636,0114,Upplands Väsby,T0236,Löwenströmska lasarettet,Stockholm
+10911,2015,03,43,303,0381,Enköping,T0588,Lillkyrka,Uppsala
+10912,2015,17,95,207,1784,Arvika,T5672,Glava,Värmland
+10913,2015,01,144,354,0117,Österåker,T0334,Nolsjö och Mellansjö,Stockholm
+10914,2015,19,103,1021,1980,Västerås,T6208,Dingtuna,Västmanland
+10915,2015,01,308,647,0117,Österåker,T0102,Bammarboda,Stockholm
+10916,2015,17,118,334,1715,Kil,T5730,Högboda,Värmland
+10917,2015,01,16,281,0115,Vallentuna,T0202,Johannesudd,Stockholm
+10918,2015,19,41,270,1961,Hallstahammar,T6340,Sörstafors,Västmanland
+10919,2015,01,1700,31937,0115,Vallentuna,T0388,Vallentuna,Stockholm
+10920,2015,03,67,1220,0305,Håbo,T0630,Skörby,Uppsala
+10921,2015,01,55,853,0115,Vallentuna,T0208,Karby,Stockholm
+10922,2015,01,37,224,0115,Vallentuna,T0116,Brottby,Stockholm
+10923,2015,03,1022,13138,0305,Håbo,T0520,Bålsta,Uppsala
+10924,2015,19,282,2440,1983,Köping,T6248,Kolsva,Västmanland
+10925,2015,01,162,657,0139,Upplands-Bro,T0190,Håbo-Tibble kyrkby,Stockholm
+10926,2015,17,250,1896,1780,Karlstad,T5756,Molkom,Värmland
+10927,2015,17,99,204,1780,Karlstad,T5616,Blombacka,Värmland
+10928,2015,01,268,1765,0191,Sigtuna,T0284,Rosersberg,Stockholm
+10929,2015,03,213,874,0381,Enköping,T0612,Bredsand,Uppsala
+10930,2015,19,199,2809,1980,Västerås,T6356,Irsta,Västmanland
+10931,2015,03,34,235,0381,Enköping,T0558,Haga,Uppsala
+10932,2015,17,318,2702,1763,Forshaga,T5632,Deje,Värmland
+10933,2015,17,190,788,1782,Filipstad,T5772,Nykroppa,Värmland
+10934,2015,01,123,1146,0115,Vallentuna,T0232,Lindholmen,Stockholm
+10935,2015,19,822,10787,1961,Hallstahammar,T6224,Hallstahammar,Västmanland
+10936,2015,03,76,994,0381,Enköping,T0564,Hummelsta,Uppsala
+10937,2015,03,121,525,0305,Håbo,T0584,Krägga,Uppsala
+10938,2015,03,112,1028,0381,Enköping,T0544,Grillby,Uppsala
+10939,2015,18,81,292,1885,Lindesberg,T5956,Gusselby,Örebro
+10940,2015,01,532,9074,0191,Sigtuna,T0300,Sigtuna,Stockholm
+10941,2015,17,174,666,1784,Arvika,T5640,Edane,Värmland
+10942,2015,01,39,1130,0191,Sigtuna,T0380,Ölsta och Steningehöjden,Stockholm
+10943,2015,19,4807,117746,1980,Västerås,T6376,Västerås,Västmanland
+10944,2015,01,215,333,0115,Vallentuna,T0142,"Ekskogen, Älgeby och Långsjötorp",Stockholm
+10945,2015,01,668,27034,0191,Sigtuna,T0240,Märsta,Stockholm
+10946,2015,03,1050,22553,0381,Enköping,T0532,Enköping,Uppsala
+10947,2015,01,177,336,0188,Norrtälje,T0400,Sättra,Stockholm
+10948,2015,01,60,277,0115,Vallentuna,T0146,Ekskogen,Stockholm
+10949,2015,01,48,240,0191,Sigtuna,T0188,Granby,Stockholm
+10950,2015,03,87,261,0305,Håbo,T0570,Häggeby och Vreta,Uppsala
+10951,2015,17,28,445,1784,Arvika,T5786,Prästängen,Värmland
+10952,2015,19,57,420,1980,Västerås,T6348,Tortuna,Västmanland
+10953,2015,19,180,2986,1980,Västerås,T6236,Hökåsen,Västmanland
+10954,2015,19,22,235,1980,Västerås,T6266,Kärsta och Bredsdal,Västmanland
+10955,2015,01,123,329,0188,Norrtälje,T0278,Riala,Stockholm
+10956,2015,01,254,572,0188,Norrtälje,T0100,Bergshamra,Stockholm
+10957,2015,01,230,690,0188,Norrtälje,T0442,Hästängen och Mora,Stockholm
+10958,2015,01,496,266,0188,Norrtälje,T0126,Blidö,Stockholm
+10959,2015,01,71,502,0115,Vallentuna,T0224,Kårsta,Stockholm
+10960,2015,19,163,2151,1980,Västerås,T6344,Tillberga,Västmanland
+10961,2015,17,132,711,1784,Arvika,T5700,Jössefors,Värmland
+10962,2015,19,34,206,1980,Västerås,T6262,Lycksta,Västmanland
+10963,2015,03,53,378,0305,Håbo,T0638,Söderskogen,Uppsala
+10964,2015,17,1079,13926,1784,Arvika,T5604,Arvika,Värmland
+10965,2015,17,125,375,1784,Arvika,T5820,Sulvik,Värmland
+10966,2015,18,139,859,1863,Hällefors,T5952,Grythyttan,Örebro
+10967,2015,18,476,1967,1885,Lindesberg,T6120,Storå,Örebro
+10968,2015,03,165,1506,0305,Håbo,T0626,Slottsskogen,Uppsala
+10969,2015,17,592,6119,1782,Filipstad,T5660,Filipstad,Värmland
+10970,2015,19,497,6270,1907,Surahammar,T6332,Surahammar,Västmanland
+10971,2015,19,206,3378,1980,Västerås,T6324,Skultuna,Västmanland
+10972,2015,03,56,243,0330,Knivsta,T0658,Edeby,Uppsala
+10973,2015,18,54,288,1885,Lindesberg,T6128,Stråssa,Örebro
+10974,2015,17,234,669,1730,Eda,T5716,Koppom,Värmland
+10975,2015,17,143,382,1766,Sunne,T5876,Västra Ämtervik,Värmland
+10976,2015,17,71,249,1782,Filipstad,T5784,Persberg,Värmland
+10977,2015,19,99,241,1980,Västerås,T6278,Munga,Västmanland
+10978,2015,03,136,1302,0381,Enköping,T0680,Örsundsbro,Uppsala
+10979,2015,03,36,577,0381,Enköping,T0682,Örsundsbro norra,Uppsala
+10980,2015,03,416,7977,0330,Knivsta,T0576,Knivsta,Uppsala
+10981,2015,01,404,480,0188,Norrtälje,T0322,Spillersboda,Stockholm
+10982,2015,18,113,203,1885,Lindesberg,T6092,Ramsberg,Örebro
+10983,2015,01,44,239,0188,Norrtälje,T0164,Finsta,Stockholm
+10984,2015,19,163,1333,1907,Surahammar,T6296,Ramnäs,Västmanland
+10985,2015,03,112,907,0381,Enköping,T0536,Fjärdhundra,Uppsala
+10986,2015,03,310,3833,0330,Knivsta,T0504,Alsike,Uppsala
+10987,2015,01,345,4882,0188,Norrtälje,T0280,Rimbo,Stockholm
+10988,2015,17,207,1347,1730,Eda,T5880,Åmotfors,Värmland
+10989,2015,18,534,4449,1863,Hällefors,T5996,Hällefors,Örebro
+10990,2015,19,75,321,1904,Skinnskatteberg,T6304,Riddarhyttan,Västmanland
+10991,2015,17,120,445,1766,Sunne,T5788,Rottneros,Värmland
+10992,2015,01,242,352,0188,Norrtälje,T0354,Södersvik,Stockholm
+10993,2015,19,110,850,1981,Sala,T6300,Ransta,Västmanland
+10994,2015,03,40,266,0380,Uppsala,T0666,Vårdsätra,Uppsala
+10995,2015,03,30,342,0380,Uppsala,T0606,Ramstalund,Uppsala
+10996,2015,01,592,556,0188,Norrtälje,T0206,"Nabbo, Gräddö och Rävsnäs",Stockholm
+10997,2015,01,995,19365,0188,Norrtälje,T0252,Norrtälje,Stockholm
+10998,2015,19,270,2383,1904,Skinnskatteberg,T6320,Skinnskatteberg,Västmanland
+10999,2015,17,73,275,1784,Arvika,T5680,Gunnarskog,Värmland
+11000,2015,01,48,428,0188,Norrtälje,T0294,Rånäs,Stockholm
+11001,2015,03,120,455,0380,Uppsala,T0654,Ultuna,Uppsala
+11002,2015,03,388,9723,0380,Uppsala,T0632,Sävja,Uppsala
+11003,2015,17,603,2834,1762,Munkfors,T5760,Munkfors,Värmland
+11004,2015,03,30,319,0380,Uppsala,T0566,Håga,Uppsala
+11005,2015,03,54,453,0380,Uppsala,T0530,Danmark,Uppsala
+11006,2015,17,518,5026,1766,Sunne,T5824,Sunne,Värmland
+11007,2015,19,80,329,1981,Sala,T6336,Sätra brunn,Västmanland
+11008,2015,01,139,255,0188,Norrtälje,T0346,Nysättra,Stockholm
+11009,2015,19,123,1329,1907,Surahammar,T6364,Virsbo,Västmanland
+11010,2015,03,90,1320,0380,Uppsala,T0516,Vänge,Uppsala
+11011,2015,03,92,611,0380,Uppsala,T0548,Gunsta,Uppsala
+11012,2015,03,128,314,0380,Uppsala,T0598,Selknä och Marielund,Uppsala
+11013,2015,18,506,3065,1864,Ljusnarsberg,T6016,Kopparberg,Örebro
+11014,2015,03,99,326,0380,Uppsala,T0538,Funbo,Uppsala
+11015,2015,03,56,347,0380,Uppsala,T0526,Bärby,Uppsala
+11016,2015,01,93,524,0188,Norrtälje,T0348,Svanberga,Stockholm
+11017,2015,03,76,515,0380,Uppsala,T0568,Järlåsa,Uppsala
+11018,2015,03,51,368,0380,Uppsala,T0622,Skölsta,Uppsala
+11019,2015,17,118,276,1783,Hagfors,T5828,Sunnemo,Värmland
+11020,2015,17,122,257,1783,Hagfors,T5752,Mjönäs,Värmland
+11021,2015,03,105,816,0380,Uppsala,T0500,Almunge,Uppsala
+11022,2015,17,276,2368,1730,Eda,T5628,Charlottenberg,Värmland
+11023,2015,03,4374,149245,0380,Uppsala,T0656,Uppsala,Uppsala
+11024,2015,03,132,566,0331,Heby,T6368,Vittinge,Uppsala
+11025,2015,19,75,255,1981,Sala,T6316,Salbohed,Västmanland
+11026,2015,03,98,933,0380,Uppsala,T0514,Jälla,Uppsala
+11027,2015,01,151,578,0188,Norrtälje,T0144,Edsbro,Stockholm
+11028,2015,18,179,481,1864,Ljusnarsberg,T6136,Ställdalen,Örebro
+11029,2015,01,86,268,0188,Norrtälje,T0352,Söderby-Karl,Stockholm
+11030,2015,03,122,705,0380,Uppsala,T0580,Knutby,Uppsala
+11031,2015,17,90,215,1730,Eda,T5636,Eda Glasbruk,Värmland
+11032,2015,03,148,1441,0331,Heby,T6276,Morgongåva,Uppsala
+11033,2015,19,105,533,1981,Sala,T6372,Västerfärnebo,Västmanland
+11034,2015,19,1166,13087,1981,Sala,T6312,Sala,Västmanland
+11035,2015,17,76,266,1766,Sunne,T5856,Uddheden,Värmland
+11036,2015,19,55,201,1982,Fagersta,T6234,Hedkärra,Västmanland
+11037,2015,03,370,2724,0331,Heby,T6232,Heby,Uppsala
+11038,2015,03,156,2406,0380,Uppsala,T0524,Bälinge,Uppsala
+11039,2015,03,55,539,0380,Uppsala,T0556,Gåvsta,Uppsala
+11040,2015,03,92,1399,0380,Uppsala,T0596,Lövstalöt,Uppsala
+11041,2015,17,176,948,1782,Filipstad,T5732,Lesjöfors,Värmland
+11042,2015,03,67,203,0380,Uppsala,T0650,Blackstalund,Uppsala
+11043,2015,03,314,6340,0380,Uppsala,T0628,Storvreta,Uppsala
+11044,2015,17,105,449,1783,Hagfors,T5792,Råda,Värmland
+11045,2015,01,92,276,0188,Norrtälje,T0308,Skebobruk,Stockholm
+11046,2015,19,860,11936,1982,Fagersta,T6212,Fagersta,Västmanland
+11047,2015,20,86,291,2061,Smedjebacken,T6820,Vad,Dalarna
+11048,2015,01,226,1376,0188,Norrtälje,T0412,Älmsta,Stockholm
+11049,2015,17,91,326,1766,Sunne,T5744,Lysvik,Värmland
+11050,2015,17,144,619,1783,Hagfors,T5852,Uddeholm,Värmland
+11051,2015,03,113,1410,0380,Uppsala,T0660,Vattholma,Uppsala
+11052,2015,20,60,206,2085,Ludvika,T6586,Sandudden och Hörks hage,Dalarna
+11053,2015,03,304,3322,0380,Uppsala,T0512,Björklinge,Uppsala
+11054,2015,03,59,239,0382,Östhammar,T0614,Skoby,Uppsala
+11055,2015,20,154,1022,2085,Ludvika,T6554,Grängesberg västra,Dalarna
+11056,2015,20,302,973,2061,Smedjebacken,T6796,Söderbärke,Dalarna
+11057,2015,20,249,2146,2085,Ludvika,T6556,Grängesberg,Dalarna
+11058,2015,19,86,327,1981,Sala,T6284,Möklinta,Västmanland
+11059,2015,03,296,2506,0382,Östhammar,T0508,Alunda,Uppsala
+11060,2015,03,102,636,0380,Uppsala,T0620,Skyttorp,Uppsala
+11061,2015,19,675,4653,1962,Norberg,T6292,Norberg,Västmanland
+11062,2015,03,35,231,0380,Uppsala,T0590,Läby,Uppsala
+11063,2015,01,496,4536,0188,Norrtälje,T0176,Hallstavik,Stockholm
+11064,2015,20,46,297,2061,Smedjebacken,T6566,Hagge,Dalarna
+11065,2015,17,76,203,1783,Hagfors,T5608,Bergsäng,Värmland
+11066,2015,20,57,259,2085,Ludvika,T6432,Blötberget,Dalarna
+11067,2015,03,124,714,0331,Heby,T6228,Harbo,Uppsala
+11068,2015,20,75,297,2085,Ludvika,T6512,Fredriksberg västra,Dalarna
+11069,2015,20,407,4072,2084,Avesta,T6602,Krylbo och Karlbo,Dalarna
+11070,2015,20,66,283,2085,Ludvika,T6514,Fredriksberg östra,Dalarna
+11071,2015,20,122,341,2085,Ludvika,T6544,Gonäs,Dalarna
+11072,2015,20,181,620,2085,Ludvika,T6720,Saxdalen,Dalarna
+11073,2015,20,47,426,2084,Avesta,T6664,Nordanö,Dalarna
+11074,2015,17,126,367,1737,Torsby,T5780,Oleby,Värmland
+11075,2015,20,1114,15245,2085,Ludvika,T6624,Ludvika,Dalarna
+11076,2015,20,785,5258,2061,Smedjebacken,T6744,Smedjebacken,Dalarna
+11077,2015,01,447,418,0188,Norrtälje,T0168,Grisslehamn,Stockholm
+11078,2015,20,148,268,2084,Avesta,T6462,Folkärna,Dalarna
+11079,2015,20,1077,11949,2084,Avesta,T6404,Avesta,Dalarna
+11080,2015,17,713,4419,1737,Torsby,T5844,Torsby,Värmland
+11081,2015,03,174,1174,0331,Heby,T6352,Tärnsjö,Uppsala
+11082,2015,20,74,200,2061,Smedjebacken,T6558,Gubbo,Dalarna
+11083,2015,20,67,449,2085,Ludvika,T6580,Håksberg,Dalarna
+11084,2015,01,187,377,0188,Norrtälje,T0184,Herräng,Stockholm
+11085,2015,17,158,1020,1783,Hagfors,T5724,Ekshärad,Värmland
+11086,2015,20,73,207,2084,Avesta,T6684,Näs bruk,Dalarna
+11087,2015,03,214,1696,0331,Heby,T6384,Östervåla,Uppsala
+11088,2015,20,132,699,2085,Ludvika,T6804,Sörvik,Dalarna
+11089,2015,03,104,289,0382,Östhammar,T0560,Hargshamn,Uppsala
+11090,2015,03,331,2698,0382,Östhammar,T0540,Gimo,Uppsala
+11091,2015,20,174,614,2085,Ludvika,T6772,Sunnansjö,Dalarna
+11092,2015,20,144,772,2084,Avesta,T6508,Fors,Dalarna
+11093,2015,03,277,2331,0382,Östhammar,T0684,Österbybruk,Uppsala
+11094,2015,03,68,214,0382,Östhammar,T0528,Dannemora,Uppsala
+11095,2015,03,102,671,0360,Tierp,T0608,Månkarbo,Uppsala
+11096,2015,03,75,222,0360,Tierp,T0652,Upplanda,Uppsala
+11097,2015,03,164,2025,0360,Tierp,T0672,Örbyhus,Uppsala
+11098,2015,20,212,290,2085,Ludvika,T6842,Norrbo och Västansjö,Dalarna
+11099,2015,03,102,610,0360,Tierp,T0648,Tobo,Uppsala
+11100,2015,20,245,1052,2085,Ludvika,T6676,Nyhammar,Dalarna
+11101,2015,20,582,7371,2083,Hedemora,T6572,Hedemora,Dalarna
+11102,2015,20,146,840,2083,Hedemora,T6852,Vikmanshyttan,Dalarna
+11103,2015,20,268,1120,2084,Avesta,T6576,Horndal,Dalarna
+11104,2015,20,71,383,2083,Hedemora,T6880,Västerby,Dalarna
+11105,2015,03,489,4726,0382,Östhammar,T0688,Östhammar,Uppsala
+11106,2015,20,120,515,2083,Hedemora,T6532,Garpenberg,Dalarna
+11107,2015,21,137,470,2181,Sandviken,T7384,Österfärnebo,Gävleborg
+11108,2015,20,418,4613,2082,Säter,T6792,Säter,Dalarna
+11109,2015,03,427,1589,0382,Östhammar,T0676,Öregrund,Uppsala
+11110,2015,20,77,252,2081,Borlänge,T6588,Idkerberget,Dalarna
+11111,2015,03,442,5826,0360,Tierp,T0640,Tierp,Uppsala
+11112,2015,20,70,301,2082,Säter,T6752,Solvarbo,Dalarna
+11113,2015,03,225,1704,0360,Tierp,T0636,Söderfors,Uppsala
+11114,2015,20,77,407,2082,Säter,T6764,Skedvi kyrkby,Dalarna
+11115,2015,20,72,317,2081,Borlänge,T6568,Halvarsgårdarna,Dalarna
+11116,2015,20,288,1899,2082,Säter,T6492,Enbacka och Mora,Dalarna
+11117,2015,21,185,1067,2180,Gävle,T7104,Hedesunda,Gävleborg
+11118,2015,17,76,233,1737,Torsby,T5816,Stöllet,Värmland
+11119,2015,21,118,324,2180,Gävle,T7014,Berg,Gävleborg
+11120,2015,20,444,1735,2081,Borlänge,T6706,Romme,Dalarna
+11121,2015,20,291,1609,2083,Hedemora,T6632,Långshyttan,Dalarna
+11122,2015,20,112,205,2021,Vansbro,T6680,Nås,Dalarna
+11123,2015,20,193,658,2026,Gagnef,T6428,Björbo,Dalarna
+11124,2015,20,205,342,2021,Vansbro,T6682,Heden och Skansbacken,Dalarna
+11125,2015,03,64,430,0360,Tierp,T0604,Mehedeby,Uppsala
+11126,2015,20,120,712,2081,Borlänge,T6806,Torsång,Dalarna
+11127,2015,20,287,490,2021,Vansbro,T6900,Äppelbo,Dalarna
+11128,2015,03,110,720,0360,Tierp,T0624,Skärplinge,Uppsala
+11129,2015,20,379,1920,2026,Gagnef,T6644,Mockfjärd,Dalarna
+11130,2015,20,123,1083,2081,Borlänge,T6692,Ornäs,Dalarna
+11131,2015,20,234,701,2026,Gagnef,T6460,Floda / Dala-Floda,Dalarna
+11132,2015,03,50,324,0319,Älvkarleby,T0600,Marma,Uppsala
+11133,2015,20,87,233,2081,Borlänge,T6704,Repbäcken,Dalarna
+11134,2015,21,117,848,2104,Hofors,T7332,Torsåker,Gävleborg
+11135,2015,20,99,582,2080,Falun,T6840,Vika,Dalarna
+11136,2015,20,351,2042,2021,Vansbro,T6828,Vansbro,Dalarna
+11137,2015,20,70,238,2081,Borlänge,T6666,Norr Amsberg,Dalarna
+11138,2015,20,3148,41955,2081,Borlänge,T6444,Borlänge,Dalarna
+11139,2015,21,144,1012,2181,Sandviken,T7376,Årsunda,Gävleborg
+11140,2015,20,149,655,2026,Gagnef,T6456,Bäsna,Dalarna
+11141,2015,03,285,1193,0360,Tierp,T0572,Karlholmsbruk,Uppsala
+11142,2015,21,104,533,2181,Sandviken,T7084,Hammarby,Gävleborg
+11143,2015,20,628,1725,2021,Vansbro,T6468,Järna,Dalarna
+11144,2015,03,73,214,0319,Älvkarleby,T0670,Älvkarleö,Uppsala
+11145,2015,21,631,6090,2104,Hofors,T7112,Hofors,Gävleborg
+11146,2015,20,387,2128,2026,Gagnef,T6484,Djurås,Dalarna
+11147,2015,20,79,406,2026,Gagnef,T6728,Sifferbo,Dalarna
+11148,2015,20,106,219,2080,Falun,T6408,Aspeboda,Dalarna
+11149,2015,21,49,415,2104,Hofors,T7254,Robertsholm,Gävleborg
+11150,2015,20,246,340,2021,Vansbro,T6738,Skålö,Dalarna
+11151,2015,03,251,1517,0319,Älvkarleby,T0664,Älvkarleby,Uppsala
+11152,2015,21,273,2202,2181,Sandviken,T7296,Storvik,Gävleborg
+11153,2015,20,173,988,2080,Falun,T6458,Gamla Berget och Korsgården,Dalarna
+11154,2015,20,367,1199,2026,Gagnef,T6528,Gagnef,Dalarna
+11155,2015,21,75,228,2181,Sandviken,T7364,Västerberg,Gävleborg
+11156,2015,21,69,277,2181,Sandviken,T7110,Hillsta och Se,Gävleborg
+11157,2015,20,125,387,2029,Leksand,T6476,Djura,Dalarna
+11158,2015,21,154,775,2181,Sandviken,T7168,Kungsgården,Gävleborg
+11159,2015,20,80,466,2080,Falun,T6472,Danholn,Dalarna
+11160,2015,21,188,1754,2180,Gävle,T7052,Forsbacka,Gävleborg
+11161,2015,21,33,214,2180,Gävle,T7308,Sälgsjön,Gävleborg
+11162,2015,20,56,653,2080,Falun,T6766,Stennäset,Dalarna
+11163,2015,03,122,354,0319,Älvkarleby,T0552,Gårdskär,Uppsala
+11164,2015,21,125,553,2180,Gävle,T7388,Överhärde,Gävleborg
+11165,2015,20,128,338,2080,Falun,T6430,Karlsbyheden och Blixbo,Dalarna
+11166,2015,21,83,535,2181,Sandviken,T7380,Åshammar,Gävleborg
+11167,2015,21,1759,24724,2181,Sandviken,T7272,Sandviken,Gävleborg
+11168,2015,20,194,923,2080,Falun,T6768,Sundborn,Dalarna
+11169,2015,20,2516,37000,2080,Falun,T6504,Falun,Dalarna
+11170,2015,03,802,6279,0319,Älvkarleby,T0616,Skutskär,Uppsala
+11171,2015,21,63,307,2181,Sandviken,T7140,Jäderfors,Gävleborg
+11172,2015,21,143,697,2180,Gävle,T7060,Furuvik,Gävleborg
+11173,2015,21,850,7147,2180,Gävle,T7344,Valbo,Gävleborg
+11174,2015,20,368,2141,2029,Leksand,T6596,Insjön,Dalarna
+11175,2015,20,294,1870,2080,Falun,T6552,Grycksbo,Dalarna
+11176,2015,20,201,696,2029,Leksand,T6584,Häradsbygden,Dalarna
+11177,2015,20,1047,4927,2023,Malung-Sälen,T6636,Malung,Dalarna
+11178,2015,20,171,552,2080,Falun,T6780,Sågmyra,Dalarna
+11179,2015,21,56,445,2180,Gävle,T7170,"Lindbacka, Jonstorp och Källhagen",Gävleborg
+11180,2015,20,178,537,2080,Falun,T6412,Bengtsheden,Dalarna
+11181,2015,20,153,305,2080,Falun,T6814,Toftbyn,Dalarna
+11182,2015,21,293,1813,2181,Sandviken,T7148,Järbo,Gävleborg
+11183,2015,20,236,472,2029,Leksand,T6872,Västanvik,Dalarna
+11184,2015,20,276,574,2023,Malung-Sälen,T6640,Malungsfors,Dalarna
+11185,2015,20,467,1968,2080,Falun,T6424,Bjursås,Dalarna
+11186,2015,21,3974,74884,2180,Gävle,T7076,Gävle,Gävleborg
+11187,2015,20,947,6107,2029,Leksand,T6608,Leksand,Dalarna
+11188,2015,20,227,1335,2080,Falun,T6776,Svärdsjö,Dalarna
+11189,2015,17,181,473,1737,Torsby,T5836,Sysslebäck,Värmland
+11190,2015,21,304,859,2180,Gävle,T7038,Bönan,Gävleborg
+11191,2015,20,172,304,2029,Leksand,T6402,Alvik,Dalarna
+11192,2015,21,234,951,2180,Gävle,T7368,Åbyggeby,Gävleborg
+11193,2015,20,466,1274,2029,Leksand,T6732,Siljansnäs,Dalarna
+11194,2015,21,141,661,2180,Gävle,T7028,Björke,Gävleborg
+11195,2015,21,146,411,2180,Gävle,T7346,Harkskär och Utvalnäs,Gävleborg
+11196,2015,20,175,529,2080,Falun,T6620,Linghed,Dalarna
+11197,2015,20,198,259,2029,Leksand,T6574,Hjortnäs och Sunnanäng,Dalarna
+11198,2015,20,547,875,2029,Leksand,T6816,Tällberg,Dalarna
+11199,2015,21,93,337,2180,Gävle,T7340,Trödje,Gävleborg
+11200,2015,20,325,840,2080,Falun,T6496,Enviken,Dalarna
+11201,2015,20,133,240,2080,Falun,T6916,Övertänger,Dalarna
+11202,2015,20,184,260,2062,Mora,T6540,Gesunda,Dalarna
+11203,2015,20,1232,5160,2031,Rättvik,T6716,Rättvik,Dalarna
+11204,2015,20,258,383,2023,Malung-Sälen,T6616,Limedsforsen,Dalarna
+11205,2015,20,348,1193,2031,Rättvik,T6848,Vikarbyn,Dalarna
+11206,2015,20,309,575,2031,Rättvik,T6410,"Nittsjö, Sätra och Backa",Dalarna
+11207,2015,20,272,860,2062,Mora,T6748,Sollerön,Dalarna
+11208,2015,21,441,2875,2101,Ockelbo,T7236,Ockelbo,Gävleborg
+11209,2015,20,187,363,2031,Rättvik,T6660,Nedre Gärdsjö,Dalarna
+11210,2015,20,141,375,2062,Mora,T6844,Stenis och Vika,Dalarna
+11211,2015,21,467,1549,2180,Gävle,T7016,Bergby,Gävleborg
+11212,2015,21,256,966,2180,Gävle,T7228,Norrsundet,Gävleborg
+11213,2015,20,213,226,2062,Mora,T6836,Venjan,Dalarna
+11214,2015,20,106,312,2062,Mora,T6860,Vinäs,Dalarna
+11215,2015,21,121,238,2101,Ockelbo,T7372,Åmot,Gävleborg
+11216,2015,20,304,741,2062,Mora,T6672,Nusnäs,Dalarna
+11217,2015,20,288,528,2031,Rättvik,T6436,Boda,Dalarna
+11218,2015,20,143,547,2062,Mora,T6724,Selja,Dalarna
+11219,2015,20,1714,12602,2062,Mora,T6648,Mora,Dalarna
+11220,2015,20,111,345,2062,Mora,T6832,Vattnäs,Dalarna
+11221,2015,21,267,420,2101,Ockelbo,T7180,Lingbo,Gävleborg
+11222,2015,20,265,359,2031,Rättvik,T6560,Gulleråsen,Dalarna
+11223,2015,20,96,370,2062,Mora,T6440,Bonäs,Dalarna
+11224,2015,20,212,369,2023,Malung-Sälen,T6808,Transtrand,Dalarna
+11225,2015,20,234,831,2062,Mora,T6864,Våmhus,Dalarna
+11226,2015,20,137,232,2039,Älvdalen,T6500,Evertsberg,Dalarna
+11227,2015,20,1517,5349,2034,Orsa,T6696,Orsa,Dalarna
+11228,2015,20,131,396,2031,Rättvik,T6516,Furudal,Dalarna
+11229,2015,20,229,769,2023,Malung-Sälen,T6784,Sälen,Dalarna
+11230,2015,20,227,310,2034,Orsa,T6736,Skattungbyn,Dalarna
+11231,2015,21,95,242,2182,Söderhamn,T7352,Vallvik,Gävleborg
+11232,2015,21,129,281,2183,Bollnäs,T7280,Sibo,Gävleborg
+11233,2015,20,171,382,2039,Älvdalen,T6884,Västermyckeläng,Dalarna
+11234,2015,21,317,1946,2182,Söderhamn,T7188,Ljusne,Gävleborg
+11235,2015,21,151,1197,2183,Bollnäs,T7156,Kilafors,Gävleborg
+11236,2015,20,254,662,2039,Älvdalen,T6708,Rot,Dalarna
+11237,2015,21,168,719,2182,Söderhamn,T7024,Bergvik,Gävleborg
+11238,2015,21,101,444,2182,Söderhamn,T7356,Vannsätter,Gävleborg
+11239,2015,21,301,1681,2182,Söderhamn,T7268,Sandarne,Gävleborg
+11240,2015,21,165,352,2183,Bollnäs,T7276,Segersta,Gävleborg
+11241,2015,20,121,200,2039,Älvdalen,T6448,Brunnsberg,Dalarna
+11242,2015,21,91,260,2182,Söderhamn,T7378,"Vad, Åsbacka och Långrör",Gävleborg
+11243,2015,21,292,1585,2182,Söderhamn,T7212,Marmaskogen,Gävleborg
+11244,2015,21,186,550,2182,Söderhamn,T7214,Mohed,Gävleborg
+11245,2015,21,62,205,2183,Bollnäs,T7058,Freluga,Gävleborg
+11246,2015,21,89,264,2121,Ovanåker,T7360,Viksjöfors,Gävleborg
+11247,2015,21,916,12259,2182,Söderhamn,T7316,Söderhamn,Gävleborg
+11248,2015,21,384,2348,2121,Ovanåker,T7000,Alfta,Gävleborg
+11249,2015,21,79,249,2121,Ovanåker,T7258,Runemo,Gävleborg
+11250,2015,21,57,245,2183,Bollnäs,T7252,Rengsjö,Gävleborg
+11251,2015,21,1463,13716,2183,Bollnäs,T7036,Bollnäs,Gävleborg
+11252,2015,21,87,379,2121,Ovanåker,T7256,Roteberg,Gävleborg
+11253,2015,21,528,4179,2121,Ovanåker,T7044,Edsbyn,Gävleborg
+11254,2015,21,83,215,2182,Söderhamn,T7342,Trönö,Gävleborg
+11255,2015,21,96,374,2183,Bollnäs,T7196,Lottefors,Gävleborg
+11256,2015,21,291,1961,2183,Bollnäs,T7004,Arbrå,Gävleborg
+11257,2015,21,66,288,2183,Bollnäs,T7348,Vallsta,Gävleborg
+11258,2015,21,163,643,2184,Hudiksvall,T7048,Enånger,Gävleborg
+11259,2015,21,170,849,2184,Hudiksvall,T7216,Njutånger,Gävleborg
+11260,2015,21,435,3419,2184,Hudiksvall,T7132,Iggesund,Gävleborg
+11261,2015,20,317,675,2039,Älvdalen,T6788,Särna,Dalarna
+11262,2015,21,365,1557,2161,Ljusdal,T7152,Järvsö,Gävleborg
+11263,2015,21,238,1581,2184,Hudiksvall,T7320,Sörforsa,Gävleborg
+11264,2015,21,159,354,2161,Ljusdal,T7192,Los,Gävleborg
+11265,2015,21,1299,16081,2184,Hudiksvall,T7120,Hudiksvall,Gävleborg
+11266,2015,21,183,910,2184,Hudiksvall,T7232,Näsviken,Gävleborg
+11267,2015,21,73,223,2184,Hudiksvall,T7128,Edsta,Gävleborg
+11268,2015,21,50,206,2161,Ljusdal,T7124,Hybo,Gävleborg
+11269,2015,21,87,224,2184,Hudiksvall,T7054,Fredriksfors,Gävleborg
+11270,2015,21,315,1398,2161,Ljusdal,T7064,Färila,Gävleborg
+11271,2015,21,337,2185,2184,Hudiksvall,T7040,Delsbo,Gävleborg
+11272,2015,21,75,411,2161,Ljusdal,T7178,Lillhaga,Gävleborg
+11273,2015,21,735,7259,2161,Ljusdal,T7184,Ljusdal,Gävleborg
+11274,2015,23,232,403,2361,Härjedalen,T7904,Lillhärdal,Jämtland
+11275,2015,21,68,453,2132,Nordanstig,T7136,Ilsbo,Gävleborg
+11276,2015,21,160,586,2161,Ljusdal,T7324,Tallåsen,Gävleborg
+11277,2015,20,142,706,2039,Älvdalen,T6592,Idre,Dalarna
+11278,2015,21,92,360,2132,Nordanstig,T7304,Strömsbruk,Gävleborg
+11279,2015,21,78,530,2184,Hudiksvall,T7056,Friggesund,Gävleborg
+11280,2015,21,95,340,2132,Nordanstig,T7292,Stocka,Gävleborg
+11281,2015,21,108,592,2132,Nordanstig,T7096,Harmånger,Gävleborg
+11282,2015,21,186,1292,2132,Nordanstig,T7020,Bergsjö,Gävleborg
+11283,2015,21,107,258,2132,Nordanstig,T7154,Jättendal,Gävleborg
+11284,2015,23,74,420,2361,Härjedalen,T7996,Ulvkälla,Jämtland
+11285,2015,23,296,2543,2361,Härjedalen,T7968,Sveg,Jämtland
+11286,2015,21,294,1199,2132,Nordanstig,T7068,Gnarp,Gävleborg
+11287,2015,21,90,329,2132,Nordanstig,T7172,Hassela,Gävleborg
+11288,2015,23,198,534,2361,Härjedalen,T8012,Ytterhogdal,Jämtland
+11289,2015,22,121,222,2281,Sundsvall,T7646,Vikarbodarna och Skatan,Västernorrland
+11290,2015,22,74,216,2281,Sundsvall,T7714,Viforsen och Tunbyn,Västernorrland
+11291,2015,22,159,637,2281,Sundsvall,T7560,Lucksta,Västernorrland
+11292,2015,22,1062,8785,2281,Sundsvall,T7532,Kvissleby,Västernorrland
+11293,2015,22,172,547,2281,Sundsvall,T7402,Klingsta och Allsta,Västernorrland
+11294,2015,22,142,2532,2281,Sundsvall,T7670,Stockvik,Västernorrland
+11295,2015,22,465,3437,2281,Sundsvall,T7580,Matfors,Västernorrland
+11296,2015,22,134,563,2281,Sundsvall,T7726,Vattjom,Västernorrland
+11297,2015,22,96,310,2281,Sundsvall,T7596,Nedansjö,Västernorrland
+11298,2015,22,208,986,2281,Sundsvall,T7408,Ankarsvik,Västernorrland
+11299,2015,22,201,599,2281,Sundsvall,T7462,Fanbyn,Västernorrland
+11300,2015,23,267,837,2361,Härjedalen,T7868,Hede,Jämtland
+11301,2015,22,248,400,2281,Sundsvall,T7486,Hartungviken och Spikarna,Västernorrland
+11302,2015,22,111,324,2281,Sundsvall,T7642,Selånger,Västernorrland
+11303,2015,23,82,241,2361,Härjedalen,T7920,Norr-Hede,Jämtland
+11304,2015,22,197,704,2281,Sundsvall,T7676,Stöde,Västernorrland
+11305,2015,23,356,549,2361,Härjedalen,T8008,Vemdalen,Jämtland
+11306,2015,22,54,209,2262,Timrå,T7544,Laggarberg,Västernorrland
+11307,2015,23,83,213,2326,Berg,T7924,Rätan,Jämtland
+11308,2015,22,629,5841,2281,Sundsvall,T7404,Vi,Västernorrland
+11309,2015,22,4251,57606,2281,Sundsvall,T7688,Sundsvall,Västernorrland
+11310,2015,22,58,485,2281,Sundsvall,T7520,Kovland,Västernorrland
+11311,2015,22,214,477,2260,Ånge,T7708,Torpshammar,Västernorrland
+11312,2015,22,53,216,2281,Sundsvall,T7492,Hovid,Västernorrland
+11313,2015,22,150,349,2260,Ånge,T7400,Alby,Västernorrland
+11314,2015,22,609,2062,2260,Ånge,T7472,Ljungaverk och Fränsta,Västernorrland
+11315,2015,22,382,2889,2260,Ånge,T7736,Ånge,Västernorrland
+11316,2015,22,987,10495,2262,Timrå,T7704,Timrå,Västernorrland
+11317,2015,23,308,292,2326,Berg,T7886,Klövsjö,Jämtland
+11318,2015,22,529,2374,2262,Timrå,T7700,Söråker,Västernorrland
+11319,2015,22,284,1787,2262,Timrå,T7416,Bergeforsen,Västernorrland
+11320,2015,23,257,956,2361,Härjedalen,T7828,Funäsdalen,Jämtland
+11321,2015,22,21,222,2262,Timrå,T7668,Stavreviken,Västernorrland
+11322,2015,22,244,949,2281,Sundsvall,T7504,Indal,Västernorrland
+11323,2015,23,61,280,2326,Berg,T8032,Åsarna,Jämtland
+11324,2015,22,1121,18426,2280,Härnösand,T7500,Härnösand,Västernorrland
+11325,2015,22,86,283,2281,Sundsvall,T7548,Liden,Västernorrland
+11326,2015,22,199,928,2280,Härnösand,T7740,Älandsbro,Västernorrland
+11327,2015,23,203,1559,2305,Bräcke,T7816,Bräcke,Jämtland
+11328,2015,23,166,916,2326,Berg,T7976,Svenstavik,Jämtland
+11329,2015,23,151,206,2326,Berg,T7878,Hoverberg,Jämtland
+11330,2015,22,70,450,2280,Härnösand,T7632,Ramvik,Västernorrland
+11331,2015,22,130,365,2282,Kramfors,T7568,Lunde,Västernorrland
+11332,2015,23,119,757,2305,Bräcke,T7844,Gällö,Jämtland
+11333,2015,22,66,211,2282,Kramfors,T7488,Herrskog,Västernorrland
+11334,2015,23,78,402,2305,Bräcke,T7944,Pilgrimstad,Jämtland
+11335,2015,22,117,332,2282,Kramfors,T7564,Lugnvik,Västernorrland
+11336,2015,22,863,6582,2282,Kramfors,T7524,Kramfors,Västernorrland
+11337,2015,22,64,282,2282,Kramfors,T7604,Nordingrå,Västernorrland
+11338,2015,23,140,435,2305,Bräcke,T7896,Kälarne,Jämtland
+11339,2015,23,39,241,2380,Östersund,T7830,Fåker,Jämtland
+11340,2015,23,101,295,2326,Berg,T7912,Myrviken,Jämtland
+11341,2015,23,140,453,2380,Östersund,T7984,Tandsbyn,Jämtland
+11342,2015,23,125,249,2303,Ragunda,T7806,Östra Bispgården,Jämtland
+11343,2015,22,514,1883,2282,Kramfors,T7432,Bollstabruk,Västernorrland
+11344,2015,22,109,243,2282,Kramfors,T7588,Mjällom,Västernorrland
+11345,2015,23,116,496,2303,Ragunda,T7808,Västra Bispgården,Jämtland
+11346,2015,23,105,234,2380,Östersund,T7864,Hara,Jämtland
+11347,2015,22,183,892,2282,Kramfors,T7616,Nyland,Västernorrland
+11348,2015,22,142,313,2282,Kramfors,T7636,Sandslån,Västernorrland
+11349,2015,22,186,768,2282,Kramfors,T7680,Ullånger,Västernorrland
+11350,2015,23,127,278,2380,Östersund,T7906,Lunne,Jämtland
+11351,2015,22,113,401,2282,Kramfors,T7448,Docksta,Västernorrland
+11352,2015,23,73,289,2380,Östersund,T7938,Orrviken,Jämtland
+11353,2015,23,290,1116,2303,Ragunda,T7856,Hammarstrand,Jämtland
+11354,2015,23,209,458,2380,Östersund,T7910,Marieby,Jämtland
+11355,2015,23,53,1368,2380,Östersund,T8042,Ängsmon,Jämtland
+11356,2015,23,69,207,2380,Östersund,T7914,"Målsta, Genvalla och Fillsta",Jämtland
+11357,2015,23,108,599,2303,Ragunda,T7964,Stugun,Jämtland
+11358,2015,23,90,220,2321,Åre,T7852,Hallen,Jämtland
+11359,2015,22,164,1387,2283,Sollefteå,T7662,Sollefteå norra,Västernorrland
+11360,2015,22,247,1642,2283,Sollefteå,T7572,Långsele,Västernorrland
+11361,2015,22,801,7399,2283,Sollefteå,T7660,Sollefteå,Västernorrland
+11362,2015,22,231,1194,2284,Örnsköldsvik,T7540,Köpmanholmen,Västernorrland
+11363,2015,23,3484,49806,2380,Östersund,T8044,Östersund,Jämtland
+11364,2015,22,40,333,2284,Örnsköldsvik,T7732,Åmynnet,Västernorrland
+11365,2015,23,97,324,2309,Krokom,T7814,Åssjöns norra strand,Jämtland
+11366,2015,23,292,1572,2309,Krokom,T8028,Ås,Jämtland
+11367,2015,22,240,1845,2284,Örnsköldsvik,T7424,Bjästa,Västernorrland
+11368,2015,23,131,745,2309,Krokom,T7824,Dvärsätt,Jämtland
+11369,2015,23,133,781,2321,Åre,T7916,Mörsil,Jämtland
+11370,2015,23,133,1117,2380,Östersund,T7908,Lit,Jämtland
+11371,2015,23,110,308,2309,Krokom,T7872,Hissmofors,Jämtland
+11372,2015,23,148,573,2321,Åre,T8000,Undersåker,Jämtland
+11373,2015,23,56,272,2309,Krokom,T7988,Trångsviken,Jämtland
+11374,2015,23,59,259,2309,Krokom,T8002,Vaplan,Jämtland
+11375,2015,22,128,380,2284,Örnsköldsvik,T7644,Sidensjö,Västernorrland
+11376,2015,23,131,986,2309,Krokom,T7932,Nälden,Jämtland
+11377,2015,23,155,474,2309,Krokom,T7800,Aspås,Jämtland
+11378,2015,23,234,1539,2321,Åre,T7884,Järpen,Jämtland
+11379,2015,22,104,361,2284,Örnsköldsvik,T7420,Billsta,Västernorrland
+11380,2015,22,3309,32493,2284,Örnsköldsvik,T7744,Örnsköldsvik,Västernorrland
+11381,2015,23,107,361,2380,Östersund,T7880,Häggenås,Jämtland
+11382,2015,23,375,630,2321,Åre,T7810,Björnänge,Jämtland
+11383,2015,22,394,1563,2284,Örnsköldsvik,T7496,Husum,Västernorrland
+11384,2015,23,635,2768,2321,Åre,T8024,Åre,Jämtland
+11385,2015,22,67,300,2284,Örnsköldsvik,T7592,Moliden,Västernorrland
+11386,2015,23,62,322,2309,Krokom,T8040,Änge,Jämtland
+11387,2015,22,137,526,2283,Sollefteå,T7620,Näsåker,Västernorrland
+11388,2015,22,191,825,2284,Örnsköldsvik,T7584,Mellansel,Västernorrland
+11389,2015,22,56,212,2284,Örnsköldsvik,T7482,Gottne,Västernorrland
+11390,2015,22,193,1200,2284,Örnsköldsvik,T7444,Bredbyn,Västernorrland
+11391,2015,22,66,255,2284,Örnsköldsvik,T7476,Gideå,Västernorrland
+11392,2015,22,215,858,2283,Sollefteå,T7628,Ramsele,Västernorrland
+11393,2015,23,359,1043,2313,Strömsund,T7860,Hammerdal,Jämtland
+11394,2015,22,73,430,2284,Örnsköldsvik,T7428,Björna,Västernorrland
+11395,2015,24,171,810,2401,Nordmaling,T8296,Rundvik,Västerbotten
+11396,2015,24,181,516,2401,Nordmaling,T8236,Lögdeå,Västerbotten
+11397,2015,24,297,2671,2401,Nordmaling,T8256,Nordmaling,Västerbotten
+11398,2015,23,176,511,2309,Krokom,T7836,Föllinge,Jämtland
+11399,2015,22,60,220,2284,Örnsköldsvik,T7576,Långviksmon,Västernorrland
+11400,2015,22,226,873,2283,Sollefteå,T7512,Junsele,Västernorrland
+11401,2015,24,236,2514,2480,Umeå,T8208,Hörnefors,Västerbotten
+11402,2015,24,146,228,2480,Umeå,T8260,Norrmjöle,Västerbotten
+11403,2015,24,69,307,2480,Umeå,T8348,Sörmjöle,Västerbotten
+11404,2015,24,229,2173,2480,Umeå,T8280,Obbola,Västerbotten
+11405,2015,23,152,535,2313,Strömsund,T7804,Backe,Jämtland
+11406,2015,24,70,487,2480,Umeå,T8332,Stöcke,Västerbotten
+11407,2015,23,82,226,2313,Strömsund,T7934,Näsviken,Jämtland
+11408,2015,23,392,3690,2313,Strömsund,T7960,Strömsund,Jämtland
+11409,2015,24,110,394,2480,Umeå,T8334,Stöcksjö,Västerbotten
+11410,2015,24,110,442,2480,Umeå,T8394,Yttersjö,Västerbotten
+11411,2015,24,38,741,2480,Umeå,T8354,Tomtebo,Västerbotten
+11412,2015,24,252,2460,2480,Umeå,T8304,Röbäck,Västerbotten
+11413,2015,24,72,576,2480,Umeå,T8210,Innertavle,Västerbotten
+11414,2015,23,186,344,2313,Strömsund,T7948,Rossön,Jämtland
+11415,2015,24,61,241,2480,Umeå,T8412,Överboda,Västerbotten
+11416,2015,24,145,1305,2480,Umeå,T8360,Täfteå,Västerbotten
+11417,2015,24,114,460,2480,Umeå,T8344,Sörfors,Västerbotten
+11418,2015,24,63,336,2480,Umeå,T8140,Brännland,Västerbotten
+11419,2015,24,3220,83249,2480,Umeå,T8372,Umeå,Västerbotten
+11420,2015,24,149,1650,2480,Umeå,T8368,Ersmark,Västerbotten
+11421,2015,24,409,4373,2460,Vännäs,T8384,Vännäs,Västerbotten
+11422,2015,24,164,1000,2403,Bjurholm,T8120,Bjurholm,Västerbotten
+11423,2015,24,205,1581,2460,Vännäs,T8388,Vännäsby,Västerbotten
+11424,2015,24,326,2968,2480,Umeå,T8336,Sävar,Västerbotten
+11425,2015,24,107,471,2480,Umeå,T8196,Hissjön,Västerbotten
+11426,2015,24,45,210,2480,Umeå,T8174,Flurkmark,Västerbotten
+11427,2015,23,116,648,2313,Strömsund,T7876,Hoting,Jämtland
+11428,2015,24,76,461,2480,Umeå,T8352,Tavelsjö,Västerbotten
+11429,2015,24,44,329,2480,Umeå,T8142,Bullmark,Västerbotten
+11430,2015,24,79,512,2409,Robertsfors,T8152,Bygdeå,Västerbotten
+11431,2015,24,109,338,2404,Vindeln,T8356,Tvärålund,Västerbotten
+11432,2015,24,231,1706,2463,Åsele,T8400,Åsele,Västerbotten
+11433,2015,24,272,2403,2404,Vindeln,T8380,Vindeln,Västerbotten
+11434,2015,24,213,2030,2409,Robertsfors,T8292,Robertsfors,Västerbotten
+11435,2015,24,74,211,2404,Vindeln,T8188,Granö,Västerbotten
+11436,2015,24,39,201,2480,Umeå,T8136,Botsmark,Västerbotten
+11437,2015,24,81,230,2404,Vindeln,T8204,Hällnäs,Västerbotten
+11438,2015,24,138,603,2409,Robertsfors,T8396,Ånäset,Västerbotten
+11439,2015,24,97,333,2482,Skellefteå,T8156,Bygdsiljum,Västerbotten
+11440,2015,24,165,810,2482,Skellefteå,T8240,Lövånger,Västerbotten
+11441,2015,23,78,312,2313,Strömsund,T7840,Gäddede,Jämtland
+11442,2015,24,54,205,2481,Lycksele,T8194,Hedlunda,Västerbotten
+11443,2015,24,190,1573,2482,Skellefteå,T8148,Burträsk,Västerbotten
+11444,2015,24,329,3572,2462,Vilhelmina,T8376,Vilhelmina,Västerbotten
+11445,2015,24,727,8545,2481,Lycksele,T8232,Lycksele,Västerbotten
+11446,2015,24,392,2533,2482,Skellefteå,T8144,Bureå,Västerbotten
+11447,2015,24,114,399,2482,Skellefteå,T8408,Örviken,Västerbotten
+11448,2015,24,251,3069,2482,Skellefteå,T8308,Skelleftehamn,Västerbotten
+11449,2015,24,67,342,2482,Skellefteå,T8342,Södra Bergsbyn och Stackgrönnan,Västerbotten
+11450,2015,24,72,207,2482,Skellefteå,T8218,Klutmark,Västerbotten
+11451,2015,24,331,3913,2482,Skellefteå,T8310,Ursviken,Västerbotten
+11452,2015,24,153,543,2482,Skellefteå,T8248,Medle,Västerbotten
+11453,2015,24,70,201,2481,Lycksele,T8300,Rusksele,Västerbotten
+11454,2015,24,106,416,2482,Skellefteå,T8252,Myckle,Västerbotten
+11455,2015,24,90,405,2417,Norsjö,T8112,Bastuträsk,Västerbotten
+11456,2015,24,2482,35516,2482,Skellefteå,T8312,Skellefteå,Västerbotten
+11457,2015,24,271,2376,2482,Skellefteå,T8228,Kåge,Västerbotten
+11458,2015,24,130,875,2482,Skellefteå,T8172,Ersmark,Västerbotten
+11459,2015,24,142,1661,2482,Skellefteå,T8132,Boliden,Västerbotten
+11460,2015,24,252,2057,2417,Norsjö,T8268,Norsjö,Västerbotten
+11461,2015,24,121,448,2482,Skellefteå,T8224,Kusmark,Västerbotten
+11462,2015,24,139,537,2482,Skellefteå,T8284,Ostvik,Västerbotten
+11463,2015,24,63,345,2482,Skellefteå,T8340,Drängsmark,Västerbotten
+11464,2015,24,107,500,2421,Storuman,T8320,Stensele,Västerbotten
+11465,2015,24,326,1785,2482,Skellefteå,T8160,Byske,Västerbotten
+11466,2015,24,259,2188,2421,Storuman,T8324,Storuman,Västerbotten
+11467,2015,24,176,777,2482,Skellefteå,T8212,Jörn,Västerbotten
+11468,2015,24,252,2043,2418,Malå,T8244,Malå,Västerbotten
+11469,2015,25,166,574,2581,Piteå,T8648,Jävre,Norrbotten
+11470,2015,25,90,231,2505,Arvidsjaur,T8584,Glommersträsk,Norrbotten
+11471,2015,25,85,366,2581,Piteå,T8616,Hemmingsmark,Norrbotten
+11472,2015,25,57,299,2581,Piteå,T8540,Blåsmark,Norrbotten
+11473,2015,25,114,1128,2581,Piteå,T8620,Hortlax,Norrbotten
+11474,2015,25,58,345,2581,Piteå,T8876,Svensbyn,Norrbotten
+11475,2015,25,209,2251,2581,Piteå,T8536,Bergsviken,Norrbotten
+11476,2015,25,34,478,2581,Piteå,T8870,Svartudden,Norrbotten
+11477,2015,25,321,1259,2581,Piteå,T8816,Roknäs,Norrbotten
+11478,2015,25,2352,23067,2581,Piteå,T8792,Piteå,Norrbotten
+11479,2015,25,132,385,2581,Piteå,T8720,Lillpite,Norrbotten
+11480,2015,25,65,344,2581,Piteå,T8568,Böle,Norrbotten
+11481,2015,25,70,225,2581,Piteå,T8684,Kopparnäs,Norrbotten
+11482,2015,24,192,1175,2422,Sorsele,T8316,Sorsele,Västerbotten
+11483,2015,25,251,1562,2581,Piteå,T8776,Norrfjärden,Norrbotten
+11484,2015,25,319,1848,2581,Piteå,T8824,Rosvik,Norrbotten
+11485,2015,25,73,353,2581,Piteå,T8846,Sjulsmark,Norrbotten
+11486,2015,25,427,4655,2505,Arvidsjaur,T8516,Arvidsjaur,Norrbotten
+11487,2015,25,133,478,2580,Luleå,T8576,Ersnäs,Norrbotten
+11488,2015,25,180,461,2580,Luleå,T8658,Kallax,Norrbotten
+11489,2015,25,126,589,2580,Luleå,T8752,Måttsund,Norrbotten
+11490,2015,25,111,889,2580,Luleå,T8508,Antnäs,Norrbotten
+11491,2015,24,159,492,2421,Storuman,T8364,Tärnaby,Västerbotten
+11492,2015,25,178,831,2580,Luleå,T8504,Alvik,Norrbotten
+11493,2015,25,294,3604,2580,Luleå,T8532,Bergnäset,Norrbotten
+11494,2015,25,33,255,2580,Luleå,T8670,Karlsvik,Norrbotten
+11495,2015,25,66,241,2580,Luleå,T8680,Klöverträsk,Norrbotten
+11496,2015,25,56,317,2560,Älvsbyn,T8692,Korsträsk,Norrbotten
+11497,2015,25,154,4388,2580,Luleå,T8538,Björkskatan,Norrbotten
+11498,2015,25,61,308,2580,Luleå,T8564,Bälinge,Norrbotten
+11499,2015,25,2706,43574,2580,Luleå,T8724,Luleå,Norrbotten
+11500,2015,25,64,253,2580,Luleå,T8874,Hällbäcken och Sinksundet,Norrbotten
+11501,2015,25,49,251,2560,Älvsbyn,T8908,Vistträsk,Norrbotten
+11502,2015,25,551,4866,2580,Luleå,T8580,Gammelstaden,Norrbotten
+11503,2015,25,128,602,2580,Luleå,T8528,Bensbyn,Norrbotten
+11504,2015,25,619,4976,2560,Älvsbyn,T8932,Älvsbyn,Norrbotten
+11505,2015,25,233,3162,2580,Luleå,T8880,Södra Sunderbyn,Norrbotten
+11506,2015,24,183,263,2421,Storuman,T8198,Hemavan/Bierke,Västerbotten
+11507,2015,25,69,213,2580,Luleå,T8524,Avan,Norrbotten
+11508,2015,25,91,896,2580,Luleå,T8828,Rutvik,Norrbotten
+11509,2015,25,93,449,2582,Boden,T8902,Unbyn,Norrbotten
+11510,2015,25,93,324,2580,Luleå,T8558,Brändön,Norrbotten
+11511,2015,25,61,217,2580,Luleå,T8788,Persön,Norrbotten
+11512,2015,25,376,3093,2582,Boden,T8878,Sävast,Norrbotten
+11513,2015,25,77,209,2580,Luleå,T8934,Ängesbyn,Norrbotten
+11514,2015,25,100,526,2560,Älvsbyn,T8904,Vidsel,Norrbotten
+11515,2015,25,89,219,2580,Luleå,T8856,Sundom,Norrbotten
+11516,2015,25,279,1860,2582,Boden,T8888,Trångforsen och Heden,Norrbotten
+11517,2015,25,100,411,2583,Haparanda,T8840,Seskarö,Norrbotten
+11518,2015,25,130,498,2582,Boden,T8916,Vittjärv,Norrbotten
+11519,2015,25,1402,16830,2582,Boden,T8544,Boden,Norrbotten
+11520,2015,25,66,227,2514,Kalix,T8560,Båtskärsnäs,Norrbotten
+11521,2015,25,189,823,2514,Kalix,T8928,Nyborg,Norrbotten
+11522,2015,25,73,224,2514,Kalix,T8804,Påläng,Norrbotten
+11523,2015,25,65,203,2582,Boden,T8882,Södra Bredåker,Norrbotten
+11524,2015,25,84,594,2514,Kalix,T8812,Risögrund,Norrbotten
+11525,2015,25,242,1966,2580,Luleå,T8832,Råneå,Norrbotten
+11526,2015,25,78,203,2580,Luleå,T8644,Jämtön,Norrbotten
+11527,2015,25,57,373,2514,Kalix,T8556,Bredviken,Norrbotten
+11528,2015,25,115,417,2583,Haparanda,T8768,Nikkala,Norrbotten
+11529,2015,25,215,1001,2514,Kalix,T8820,Rolfs,Norrbotten
+11530,2015,25,227,1822,2506,Arjeplog,T8512,Arjeplog,Norrbotten
+11531,2015,25,662,7495,2514,Kalix,T8656,Kalix,Norrbotten
+11532,2015,25,65,281,2514,Kalix,T8578,Gammelgården,Norrbotten
+11533,2015,25,222,543,2514,Kalix,T8836,Sangis,Norrbotten
+11534,2015,25,218,1051,2514,Kalix,T8896,Töre,Norrbotten
+11535,2015,25,593,6679,2583,Haparanda,T8604,Haparanda,Norrbotten
+11536,2015,25,117,496,2582,Boden,T8608,Harads,Norrbotten
+11537,2015,25,61,209,2583,Haparanda,T8672,Karungi,Norrbotten
+11538,2015,25,130,265,2513,Överkalix,T8868,Svartbyn,Norrbotten
+11539,2015,25,138,243,2518,Övertorneå,T8612,Hedenäset,Norrbotten
+11540,2015,25,124,1036,2513,Överkalix,T8940,Överkalix,Norrbotten
+11541,2015,25,144,683,2510,Jokkmokk,T8920,Vuollerim,Norrbotten
+11542,2015,25,106,497,2513,Överkalix,T8884,Tallvik,Norrbotten
+11543,2015,25,247,1906,2518,Övertorneå,T8944,Övertorneå,Norrbotten
+11544,2015,25,276,2794,2510,Jokkmokk,T8628,Jokkmokk,Norrbotten
+11545,2015,25,151,327,2518,Övertorneå,T8640,Juoksengi,Norrbotten
+11546,2015,25,45,240,2510,Jokkmokk,T8796,Porjus,Norrbotten
+11547,2015,25,128,374,2523,Gällivare,T8600,Hakkas,Norrbotten
+11548,2015,25,111,539,2521,Pajala,T8688,Korpilombolo,Norrbotten
+11549,2015,25,863,10362,2523,Gällivare,T8596,Gällivare,Norrbotten
+11550,2015,25,93,1625,2523,Gällivare,T8730,Malmberget östra,Norrbotten
+11551,2015,25,188,1757,2523,Gällivare,T8732,Malmberget västra,Norrbotten
+11552,2015,25,117,818,2523,Gällivare,T8694,Koskullskulle,Norrbotten
+11553,2015,25,68,242,2523,Gällivare,T8886,Tjautjas/Cavccas,Norrbotten
+11554,2015,25,312,2032,2521,Pajala,T8780,Pajala,Norrbotten
+11555,2015,25,141,314,2521,Pajala,T8636,Junosuando,Norrbotten
+11556,2015,25,146,245,2521,Pajala,T8660,Kangos,Norrbotten
+11557,2015,25,114,400,2584,Kiruna,T8864,Svappavaara,Norrbotten
+11558,2015,25,200,791,2584,Kiruna,T8912,Vittangi,Norrbotten
+11559,2015,25,68,979,2584,Kiruna,T8890,Tuolluvaara / Duollovárri,Norrbotten
+11560,2015,25,136,607,2584,Kiruna,T8632,Jukkasjärvi,Norrbotten
+11561,2015,25,903,17037,2584,Kiruna,T8676,Kiruna,Norrbotten
+11562,2015,25,57,218,2584,Kiruna,T8704,Kuttainen,Norrbotten
+11563,2015,25,74,280,2584,Kiruna,T8664,Karesuando,Norrbotten
+11564,2015,12,7706,301706,1280,Malmö,T3604,Malmö,Skåne
+11565,2015,07,3541,65383,0780,Växjö,T2024,Växjö,Kronoberg
+11566,2015,12,192,895,1291,Simrishamn,T2960,Kivik,Skåne
+11567,2015,13,1874,14874,1384,Kungsbacka,T4300,Billdal,Halland
+11568,2015,14,1059,45106,1480,Göteborg,T4364,Nordöstra Göteborg,Västra Götaland
+11569,2015,14,220,494,1482,Kungälv,T4446,Kovikshamn och Åkerhög,Västra Götaland
+11570,2015,05,93,543,0513,Kinda,T1100,Horn,Östergötland
+11571,2015,05,376,3776,0513,Kinda,T1132,Kisa,Östergötland
+11572,2015,05,303,333,0563,Valdemarsvik,T1076,Gryt,Östergötland
+11573,2015,05,36,308,0586,Mjölby,T1280,Sya,Östergötland
+11574,2015,04,467,6594,0482,Flen,T0744,Flen,Södermanland
+11575,2015,17,22,273,1785,Säffle,T5868,Värmlandsbro,Värmland
+11576,2015,01,1678,42466,0186,Lidingö,T0228,Lidingö,Stockholm
+11577,2015,18,252,2480,1885,Lindesberg,T5940,Frövi,Örebro
+11578,2015,01,41401,1515017,0180,Stockholm,T0336,Stockholm,Stockholm
+11579,2015,19,76,1091,1980,Västerås,T6210,Enhagen-Ekbacken,Västmanland
+11580,2015,18,810,9571,1885,Lindesberg,T6040,Lindesberg,Örebro
+11581,2015,03,153,775,0380,Uppsala,T0662,Ytternäs och Vreta,Uppsala
+11582,2015,03,111,700,0380,Uppsala,T0592,Länna,Uppsala
+11583,2015,17,634,4869,1783,Hagfors,T5688,Hagfors,Värmland
+11584,2015,20,337,1863,2039,Älvdalen,T6896,Älvdalen,Dalarna
+11585,2015,22,111,327,2282,Kramfors,T7516,Klockestrand,Västernorrland
+11586,2015,23,142,531,2326,Berg,T7848,Hackås,Jämtland
+11587,2015,23,160,1953,2309,Krokom,T7888,Krokom,Jämtland
+11588,2015,24,270,239,2480,Umeå,T8138,Brännäset och Boviken,Västerbotten
+11589,2015,24,752,5962,2480,Umeå,T8200,Holmsund,Västerbotten
+11590,2015,24,203,1491,2425,Dorotea,T8168,Dorotea,Västerbotten
+11591,2015,12,1102,18806,1286,Ystad,T3808,Ystad,Skåne

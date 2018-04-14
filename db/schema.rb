@@ -10,7 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180414053902) do
+ActiveRecord::Schema.define(version: 20180414063604) do
+
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
+  create_table "region_subscriptions", force: :cascade do |t|
+    t.bigint "user_id"
+    t.bigint "region_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["region_id"], name: "index_region_subscriptions_on_region_id"
+    t.index ["user_id"], name: "index_region_subscriptions_on_user_id"
+  end
 
   create_table "regions", force: :cascade do |t|
     t.string "name"
@@ -24,7 +36,12 @@ ActiveRecord::Schema.define(version: 20180414053902) do
     t.index ["parent_id"], name: "index_regions_on_parent_id"
   end
 
-# Could not dump table "users" because of following StandardError
-#   Unknown type 'jsonb' for column 'subscription'
+  create_table "users", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.jsonb "subscription"
+  end
 
+  add_foreign_key "region_subscriptions", "regions"
+  add_foreign_key "region_subscriptions", "users"
 end

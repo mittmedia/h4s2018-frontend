@@ -1,0 +1,1980 @@
+lanskod;lan_namn;kommunkod;kommunnamn;tatortskod;tatort;area_ha;bef
+12;Skåne;1287;Trelleborg;T3688;Smygehamn;130;1297
+12;Skåne;1287;Trelleborg;T3538;Kurland;40;560
+12;Skåne;1287;Trelleborg;T3338;Beddingestrand;385;1308
+12;Skåne;1287;Trelleborg;T3752;Trelleborg;1550;29316
+12;Skåne;1287;Trelleborg;T3528;Klagstorp;107;548
+12;Skåne;1264;Skurup;T3300;Abbekås;143;757
+12;Skåne;1287;Trelleborg;T3806;Västra Tommarp;33;286
+12;Skåne;1287;Trelleborg;T3676;Skegrie;79;1156
+12;Skåne;1233;Vellinge;T3672;Skanör med Falsterbo;579;7077
+12;Skåne;1264;Skurup;T3680;Skivarp;166;1258
+12;Skåne;1286;Ystad;T3720;Svarte;88;921
+12;Skåne;1286;Ystad;T3632;Nybrostrand;129;1061
+12;Skåne;1286;Ystad;T3596;Löderup;88;614
+12;Skåne;1233;Vellinge;T3496;Höllviken och Ljunghusen;1301;14889
+12;Skåne;1287;Trelleborg;T3312;Anderslöv;138;1963
+12;Skåne;1286;Ystad;T3448;Hedeskoga;20;273
+12;Skåne;1286;Ystad;T3424;Glemmingebro;55;386
+12;Skåne;1291;Simrishamn;T2820;Borrby;103;975
+12;Skåne;1287;Trelleborg;T3308;Alstad;54;369
+12;Skåne;1286;Ystad;T3556;Köpingebro;124;1254
+12;Skåne;1286;Ystad;T3138;Rynge och Vallösa;114;210
+12;Skåne;1286;Ystad;T3708;Stora Herrestad;67;331
+12;Skåne;1291;Simrishamn;T3072;Skillinge;230;975
+12;Skåne;1264;Skurup;T3656;Rydsgård;153;1383
+12;Skåne;1233;Vellinge;T3780;Vellinge;327;6496
+12;Skåne;1233;Vellinge;T3832;Östra Grevie;102;758
+12;Skåne;1286;Ystad;T3740;Sövestad;52;373
+12;Skåne;1291;Simrishamn;T2908;Hammenhög;128;879
+12;Skåne;1233;Vellinge;T3492;Hököpinge;85;1164
+12;Skåne;1233;Vellinge;T3800;Västra Ingelstad;93;824
+12;Skåne;1233;Vellinge;T3438;Gessie Villastad;54;539
+12;Skåne;1264;Skurup;T3684;Skurup;578;8040
+12;Skåne;1291;Simrishamn;T2824;Brantevik;87;380
+12;Skåne;1233;Vellinge;T3324;Arrie;37;212
+12;Skåne;1263;Svedala;T3724;Svedala;753;11796
+12;Skåne;1291;Simrishamn;T3232;Östra Tommarp;66;291
+12;Skåne;1280;Malmö;T3756;Tygelsjö;182;3420
+12;Skåne;1270;Tomelilla;T2996;Lunnarp;55;340
+12;Skåne;1280;Malmö;T3682;Skumparp;23;225
+12;Skåne;1291;Simrishamn;T2900;Gärsnäs;110;1094
+12;Skåne;1270;Tomelilla;T3084;Smedstorp;87;361
+12;Skåne;1291;Simrishamn;T3060;Simrishamn;478;6779
+12;Skåne;1280;Malmö;T3640;Oxie;553;12665
+12;Skåne;1263;Svedala;T3466;Holmeja;24;226
+12;Skåne;1280;Malmö;T3788;Vintrie;46;777
+12;Skåne;1270;Tomelilla;T3112;Tomelilla;637;6826
+12;Skåne;1280;Malmö;T3372;Bunkeflostrand;476;13048
+12;Skåne;1270;Tomelilla;T3088;Spjutstorp;39;202
+12;Skåne;1291;Simrishamn;T3236;Östra Vemmerlöv;74;234
+12;Skåne;1291;Simrishamn;T2812;Baskemölla;68;297
+12;Skåne;1263;Svedala;T3332;Bara;176;3743
+12;Skåne;1265;Sjöbo;T3738;Sövde;75;363
+12;Skåne;1265;Sjöbo;T3364;Blentarp;254;1452
+12;Skåne;1270;Tomelilla;T3028;Onslunda;58;524
+12;Skåne;1265;Sjöbo;T2952;Karups sommarby;90;388
+12;Skåne;1263;Svedala;T3532;Klågerup;111;1940
+12;Skåne;1265;Sjöbo;T3816;Äsperöd;36;239
+12;Skåne;1281;Lund;T3416;Genarp;196;2962
+12;Skåne;1291;Simrishamn;T3152;Vik;90;327
+12;Skåne;1270;Tomelilla;T3074;Skåne-Tranås;67;226
+12;Skåne;1281;Lund;T3776;Veberöd;395;4850
+12;Skåne;1231;Burlöv;T3374;Burlövs egnahem;28;563
+12;Skåne;1291;Simrishamn;T3048;Sankt Olof;115;666
+12;Skåne;1265;Sjöbo;T3664;Sjöbo;770;7910
+12;Skåne;1230;Staffanstorp;T3543;Kyrkheddinge;51;259
+12;Skåne;1265;Sjöbo;T3600;Lövestad;106;636
+12;Skåne;1230;Staffanstorp;T3696;Staffanstorp;838;15373
+12;Skåne;1231;Burlöv;T3812;Åkarp;258;5959
+12;Skåne;1281;Lund;T3380;Dalby;412;6302
+12;Skåne;1230;Staffanstorp;T3460;Hjärup;199;4744
+12;Skåne;1281;Lund;T3480;Torna Hällestad;80;680
+12;Skåne;1230;Staffanstorp;T2814;Bergströmshusen;31;376
+12;Skåne;1291;Simrishamn;T3164;Vitaby;119;351
+12;Skåne;1262;Lomma;T3576;Lomma;594;12368
+12;Skåne;1265;Sjöbo;T3792;Vollsjö;152;813
+12;Skåne;1270;Tomelilla;T2836;Brösarp;96;719
+12;Skåne;1285;Eslöv;T3440;Harlösa;94;780
+12;Skåne;1265;Sjöbo;T3360;Bjärsjölagård;74;351
+12;Skåne;1281;Lund;T3648;Revingeby;66;534
+12;Skåne;1262;Lomma;T3402;Flädie;39;231
+12;Skåne;1281;Lund;T3584;Lund;2630;87244
+12;Skåne;1281;Lund;T3732;Södra Sandby;435;6306
+12;Skåne;1262;Lomma;T3356;Bjärred;507;9844
+12;Skåne;1281;Lund;T3768;Vallkärra;41;412
+12;Skåne;1281;Lund;T3712;Stångby;102;1943
+12;Skåne;1285;Eslöv;T3400;Flyinge;89;992
+12;Skåne;1285;Eslöv;T3436;Gårdstånga;45;366
+12;Skåne;1261;Kävlinge;T3662;Sandskogen;73;689
+12;Skåne;1261;Kävlinge;T3337;Barsebäckshamn;53;477
+12;Skåne;1285;Eslöv;T3588;Löberöd;139;1251
+12;Skåne;1261;Kävlinge;T3592;Löddeköpinge;396;6481
+12;Skåne;1261;Kävlinge;T3336;Barsebäck;61;689
+12;Skåne;1261;Kävlinge;T3408;Furulund;276;4359
+12;Skåne;1266;Hörby;T3834;Önneköp;52;209
+12;Skåne;1285;Eslöv;T3828;Örtofta;72;283
+12;Skåne;1285;Eslöv;T3830;Väggarp;30;229
+12;Skåne;1261;Kävlinge;T3568;Lilla Harrie;45;391
+12;Skåne;1285;Eslöv;T3472;Hurva;64;376
+12;Skåne;1261;Kävlinge;T2950;Järavallen;32;258
+12;Skåne;1261;Kävlinge;T3552;Kävlinge;486;9320
+12;Skåne;1261;Kävlinge;T3802;Västra Karaby;62;244
+12;Skåne;1261;Kävlinge;T3388;Dösjebro;68;866
+12;Skåne;1261;Kävlinge;T3464;Hofterup;487;3814
+12;Skåne;1290;Kristianstad;T2848;Degeberga;212;1328
+12;Skåne;1267;Höör;T3690;Snogeröd;36;208
+12;Skåne;1290;Kristianstad;T2924;Huaröd;74;254
+12;Skåne;1282;Landskrona;T3542;Kvärlöv;46;240
+12;Skåne;1282;Landskrona;T3316;Annelöv;67;442
+12;Skåne;1266;Hörby;T3636;Osbyholm;44;298
+12;Skåne;1282;Landskrona;T3718;Saxtorpsskogen;205;1174
+12;Skåne;1290;Kristianstad;T3018;Nyehusen och Furuboda;238;271
+12;Skåne;1290;Kristianstad;T3170;Vittskövle;59;224
+12;Skåne;1285;Eslöv;T3396;Eslöv;947;18592
+12;Skåne;1285;Eslöv;T3540;Kungshult;46;365
+12;Skåne;1266;Hörby;T3500;Hörby;538;7459
+12;Skåne;1282;Landskrona;T3476;Häljarp;209;3134
+12;Skåne;1285;Eslöv;T3608;Marieholm;138;1604
+12;Skåne;1214;Svalöv;T3744;Teckomatorp;124;1703
+12;Skåne;1290;Kristianstad;T3180;Yngsjö;315;565
+12;Skåne;1290;Kristianstad;T3228;Östra Sönnarslöv;68;265
+12;Skåne;1214;Svalöv;T3340;Billeberga;139;1050
+12;Skåne;1290;Kristianstad;T2864;Everöd;154;953
+12;Skåne;1282;Landskrona;T3328;Asmundtorp;118;1563
+12;Skåne;1285;Eslöv;T3700;Stehag;99;1191
+12;Skåne;1282;Landskrona;T3560;Landskrona;1280;32229
+12;Skåne;1282;Landskrona;T3126;Tuna;159;349
+12;Skåne;1214;Svalöv;T3716;Svalöv;255;3852
+12;Skåne;1290;Kristianstad;T2988;Linderöd;108;468
+12;Skåne;1214;Svalöv;T3760;Tågarp;52;417
+12;Skåne;1290;Kristianstad;T3184;Åhus;1122;9840
+12;Skåne;1282;Landskrona;T3484;Härslöv;39;395
+12;Skåne;1290;Kristianstad;T2896;Gärds Köpinge;113;926
+12;Skåne;1290;Kristianstad;T3108;Tollarp;446;3404
+12;Skåne;1285;Eslöv;T3704;Stockamöllan;44;293
+12;Skåne;1267;Höör;T3504;Höör;1629;12152
+12;Skåne;1282;Landskrona;T3428;Glumslöv;130;2093
+12;Skåne;1267;Höör;T3064;Jularp och Sjunnerup;146;234
+12;Skåne;1285;Eslöv;T3348;Billinge;76;434
+12;Skåne;1283;Helsingborg;T3772;Vallåkra;127;800
+12;Skåne;1283;Helsingborg;T3652;Rydebäck;309;5904
+12;Skåne;1290;Kristianstad;T3040;Rinkaby;126;768
+12;Skåne;1283;Helsingborg;T3412;Gantofta;98;1322
+12;Skåne;1267;Höör;T3748;Tjörnarp;264;829
+12;Skåne;1214;Svalöv;T3660;Röstånga;137;874
+12;Skåne;1214;Svalöv;T3544;Kågeröd;179;1516
+10;Blekinge;1083;Sölvesborg;T2652;Hällevik;389;1545
+12;Skåne;1290;Kristianstad;T2906;Hammarslund;43;587
+12;Skåne;1260;Bjuv;T3392;Ekeby;384;3292
+12;Skåne;1283;Helsingborg;T3376;Bårslöv;138;2753
+12;Skåne;1290;Kristianstad;T2904;Hammar;322;3311
+12;Skåne;1267;Höör;T3622;Norra Rörum;47;210
+12;Skåne;1272;Bromölla;T3020;Nymölla;144;274
+12;Skåne;1290;Kristianstad;T2872;Fjälkinge;186;1832
+12;Skåne;1290;Kristianstad;T2844;Bäckaskog;42;304
+10;Blekinge;1083;Sölvesborg;T2656;Hörvik;107;802
+12;Skåne;1272;Bromölla;T2892;Gualöv;85;516
+12;Skåne;1293;Hässleholm;T3104;Sösdala;206;1808
+12;Skåne;1283;Helsingborg;T3644;Påarp;234;2932
+10;Blekinge;1083;Sölvesborg;T2696;Mjällby;226;1319
+12;Skåne;1290;Kristianstad;T3156;Vinnö;58;499
+12;Skåne;1290;Kristianstad;T2980;Kristianstad;2141;39762
+10;Blekinge;1083;Sölvesborg;T2752;Sölvesborg;780;8972
+12;Skåne;1272;Bromölla;T3136;Valje;165;1067
+12;Skåne;1290;Kristianstad;T3200;Önnestad;218;1392
+10;Blekinge;1083;Sölvesborg;T2610;Djupekås;32;210
+10;Blekinge;1083;Sölvesborg;T2692;Lörby;88;264
+12;Skåne;1283;Helsingborg;T3620;Mörarp;127;1935
+12;Skåne;1290;Kristianstad;T2808;Balsby;56;455
+12;Skåne;1290;Kristianstad;T2876;Färlöv;132;1016
+10;Blekinge;1083;Sölvesborg;T2774;Ysane;56;214
+12;Skåne;1272;Bromölla;T2832;Bromölla;629;7854
+12;Skåne;1276;Klippan;T2992;Ljungbyhed;365;2127
+12;Skåne;1290;Kristianstad;T3216;Österslöv;68;460
+12;Skåne;1276;Klippan;T3534;Krika;54;202
+12;Skåne;1283;Helsingborg;T3452;Helsingborg;3957;104250
+12;Skåne;1293;Hässleholm;T3160;Vinslöv;474;3989
+12;Skåne;1290;Kristianstad;T3354;Bjärlöv;69;202
+10;Blekinge;1080;Karlskrona;T2760;Torhamn;238;559
+12;Skåne;1283;Helsingborg;T3456;Hittarp;232;4545
+10;Blekinge;1080;Karlskrona;T2640;Hasslö;363;1606
+12;Skåne;1260;Bjuv;T3352;Bjuv;1024;10602
+10;Blekinge;1080;Karlskrona;T2740;Sturkö;677;1325
+10;Blekinge;1080;Karlskrona;T2612;Drottningskär;223;467
+12;Skåne;1277;Åstorp;T2928;Hyllinge;171;2287
+12;Skåne;1293;Hässleholm;T3120;Tormestorp;125;1043
+12;Skåne;1283;Helsingborg;T3820;Ödåkra;328;5231
+12;Skåne;1283;Helsingborg;T2870;Fleninge;52;206
+10;Blekinge;1083;Sölvesborg;T2708;Norje;291;814
+12;Skåne;1276;Klippan;T2968;Klippans bruk;48;313
+12;Skåne;1277;Åstorp;T2810;Björnås;99;808
+12;Skåne;1283;Helsingborg;T3384;Domsten;49;625
+12;Skåne;1283;Helsingborg;T3304;Allerum;96;722
+12;Skåne;1277;Åstorp;T2984;Kvidinge;183;1823
+12;Skåne;1293;Hässleholm;T3062;Sjörröd;166;1169
+12;Skåne;1283;Helsingborg;T3444;Hasslarp;61;542
+12;Skåne;1276;Klippan;T2964;Klippan;542;8411
+12;Skåne;1275;Perstorp;T3036;Perstorp;576;5847
+10;Blekinge;1081;Ronneby;T2682;Bökenäs, Korsanäs och Kuggeboda;241;447
+12;Skåne;1283;Helsingborg;T3516;Kattarp;69;732
+12;Skåne;1277;Åstorp;T3192;Åstorp;667;9215
+10;Blekinge;1083;Sölvesborg;T2724;Pukavik;116;343
+12;Skåne;1256;Östra Göinge;T2912;Hanaskog;148;1385
+10;Blekinge;1081;Ronneby;T2746;Spjälkö och Saxemara;210;429
+10;Blekinge;1080;Karlskrona;T2630;Gängletorp;108;464
+12;Skåne;1293;Hässleholm;T3128;Tyringe;433;4712
+12;Skåne;1290;Kristianstad;T2800;Arkelstorp;156;815
+12;Skåne;1293;Hässleholm;T2936;Hässleholm;1322;19309
+12;Skåne;1293;Hässleholm;T2868;Finja;137;616
+12;Skåne;1284;Höganäs;T3784;Viken;295;4489
+12;Skåne;1290;Kristianstad;T3174;Vånga;117;241
+10;Blekinge;1081;Ronneby;T2734;Ronnebyhamn;197;749
+10;Blekinge;1082;Karlshamn;T2750;Horsaryd och Stilleryd;180;355
+12;Skåne;1293;Hässleholm;T3096;Stoby;98;729
+12;Skåne;1272;Bromölla;T3024;Näsum;244;1307
+10;Blekinge;1080;Karlskrona;T2728;Ramdala;76;277
+10;Blekinge;1080;Karlskrona;T2738;Skavkulla och Skillingenäs;161;784
+10;Blekinge;1080;Karlskrona;T2742;Sjuhalla;66;221
+12;Skåne;1284;Höganäs;T3612;Mjöhult;43;322
+12;Skåne;1292;Ängelholm;T3100;Strövelstorp;143;1207
+10;Blekinge;1081;Ronneby;T2688;Listerby;210;966
+12;Skåne;1256;Östra Göinge;T2972;Knislinge;297;3144
+12;Skåne;1284;Höganäs;T3508;Ingelsträde;44;250
+10;Blekinge;1082;Karlshamn;T2776;Åryd;76;323
+10;Blekinge;1080;Karlskrona;T2664;Jämjö;298;2629
+12;Skåne;1256;Östra Göinge;T2920;Hjärsås;28;216
+12;Skåne;1293;Hässleholm;T3140;Vankiva;86;374
+12;Skåne;1293;Hässleholm;T2946;Hörja;40;206
+10;Blekinge;1082;Karlshamn;T2648;Hällaryd;116;673
+10;Blekinge;1080;Karlskrona;T2712;Nättraby;344;3284
+12;Skåne;1276;Klippan;T3224;Östra Ljungby;229;1740
+12;Skåne;1256;Östra Göinge;T2948;Immeln;113;298
+12;Skåne;1293;Hässleholm;T2804;Ballingslöv;66;328
+12;Skåne;1283;Helsingborg;T3764;Tånga och Rögle;69;225
+10;Blekinge;1082;Karlshamn;T2700;Mörrum;462;3903
+10;Blekinge;1081;Ronneby;T2732;Ronneby;821;12612
+10;Blekinge;1081;Ronneby;T2660;Johannishus;100;766
+10;Blekinge;1060;Olofström;T2628;Gränum;59;223
+10;Blekinge;1080;Karlskrona;T2680;Karlskrona;2100;36477
+12;Skåne;1283;Helsingborg;T3766;Utvälinge;33;238
+10;Blekinge;1081;Ronneby;T2604;Bräkne-Hoby;241;1708
+12;Skåne;1292;Ängelholm;T3210;Össjö;35;223
+12;Skåne;1284;Höganäs;T2866;Farhult;95;312
+12;Skåne;1293;Hässleholm;T3044;Röke;78;204
+10;Blekinge;1082;Karlshamn;T2676;Karlshamn;1655;20112
+12;Skåne;1293;Hässleholm;T3008;Mala;81;230
+10;Blekinge;1060;Olofström;T2668;Jämshög;235;1612
+10;Blekinge;1081;Ronneby;T2672;Kallinge;554;4664
+12;Skåne;1257;Örkelljunga;T2856;Eket;109;412
+10;Blekinge;1080;Karlskrona;T2624;Fågelmara;85;397
+12;Skåne;1284;Höganäs;T3488;Höganäs;1011;14778
+12;Skåne;1256;Östra Göinge;T2828;Broby;378;3104
+12;Skåne;1284;Höganäs;T3512;Jonstorp;192;1972
+10;Blekinge;1080;Karlskrona;T2620;Fridlevstad;110;708
+12;Skåne;1256;Östra Göinge;T3052;Sibbhult;161;1431
+10;Blekinge;1082;Karlshamn;T2748;Svängsta;245;1904
+12;Skåne;1292;Ängelholm;T3198;Havsbaden;83;521
+10;Blekinge;1080;Karlskrona;T2686;Kättilsmåla;62;266
+10;Blekinge;1080;Karlskrona;T2736;Rödeby;377;3508
+12;Skåne;1292;Ängelholm;T3012;Munka-Ljungby;297;3148
+10;Blekinge;1060;Olofström;T2720;Olofström;669;7526
+12;Skåne;1292;Ängelholm;T3132;Toarp och Tåstarp;63;221
+12;Skåne;1284;Höganäs;T3320;Arild;330;713
+12;Skåne;1293;Hässleholm;T2940;Hästveda;288;1693
+12;Skåne;1293;Hässleholm;T2816;Bjärnum;434;2755
+12;Skåne;1284;Höganäs;T3616;Mölle;86;634
+12;Skåne;1257;Örkelljunga;T3208;Örkelljunga;821;5193
+10;Blekinge;1080;Karlskrona;T2764;Tving;170;548
+12;Skåne;1256;Östra Göinge;T2884;Glimåkra;213;1466
+10;Blekinge;1080;Karlskrona;T2744;Spjutsbygd;64;398
+12;Skåne;1257;Örkelljunga;T3188;Åsljunga;177;738
+12;Skåne;1292;Ängelholm;T2916;Hjärnarp;212;1095
+10;Blekinge;1081;Ronneby;T2600;Backaryd;71;386
+12;Skåne;1292;Ängelholm;T3196;Ängelholm;2024;27500
+12;Skåne;1292;Ängelholm;T3010;Margretetorp;69;255
+10;Blekinge;1060;Olofström;T2772;Vilshult;104;303
+12;Skåne;1292;Ängelholm;T2986;Lerbäckshult och Tullstorp;153;587
+12;Skåne;1292;Ängelholm;T3102;Svenstorp;37;252
+10;Blekinge;1060;Olofström;T2684;Kyrkhult;166;980
+12;Skåne;1293;Hässleholm;T3168;Vittsjö;326;1787
+8;Kalmar;840;Mörbylånga;T2152;Degerhamn;126;338
+10;Blekinge;1080;Karlskrona;T2716;Nävragöl;43;222
+12;Skåne;1278;Båstad;T2880;Förslöv;274;2386
+10;Blekinge;1081;Ronneby;T2632;Hallabro;61;261
+12;Skåne;1257;Örkelljunga;T3080;Skånes-Fagerhult;220;891
+12;Skåne;1273;Osby;T3032;Osby;938;7554
+12;Skåne;1273;Osby;T3000;Lönsboda;267;1986
+12;Skåne;1293;Hässleholm;T2860;Emmaljunga;92;268
+12;Skåne;1278;Båstad;T2888;Grevie;204;937
+8;Kalmar;834;Torsås;T2112;Bergkvara;217;1021
+8;Kalmar;834;Torsås;T2428;Torsås;311;2000
+13;Halland;1381;Laholm;T3968;Hasslöv;53;239
+10;Blekinge;1080;Karlskrona;T2644;Holmsjö;122;370
+12;Skåne;1278;Båstad;T3172;Västra Karup;145;552
+13;Halland;1381;Laholm;T4184;Våxtorp;159;987
+13;Halland;1381;Laholm;T3984;Hishult;96;328
+10;Blekinge;1081;Ronneby;T2616;Eringsboda;78;275
+12;Skåne;1278;Båstad;T3220;Östra Karup;164;789
+8;Kalmar;834;Torsås;T2416;Söderåkra;160;943
+12;Skåne;1278;Båstad;T3116;Torekov;434;1078
+12;Skåne;1278;Båstad;T2840;Båstad;858;5146
+8;Kalmar;840;Mörbylånga;T2284;Kastlösa;103;202
+13;Halland;1381;Laholm;T4072;Ränneslöv;87;458
+13;Halland;1381;Laholm;T4092;Skottorp;88;512
+7;Kronoberg;763;Tingsryd;T1960;Ryd;224;1474
+12;Skåne;1273;Osby;T2956;Killeberg;115;596
+13;Halland;1381;Laholm;T4148;Vallberga;81;655
+7;Kronoberg;767;Markaryd;T1940;Markaryd;553;4664
+7;Kronoberg;763;Tingsryd;T1892;Konga;100;493
+8;Kalmar;880;Kalmar;T2248;Halltorp;69;286
+13;Halland;1381;Laholm;T4190;Ysby;48;245
+13;Halland;1381;Laholm;T4028;Laholm;534;6527
+13;Halland;1381;Laholm;T4044;Mellbystrand;831;3412
+8;Kalmar;840;Mörbylånga;T2344;Mörbylånga;228;1824
+7;Kronoberg;763;Tingsryd;T1992;Tingsryd;408;3087
+13;Halland;1381;Laholm;T4000;Knäred;293;1211
+8;Kalmar;862;Emmaboda;T2468;Vissefjärda;104;658
+7;Kronoberg;763;Tingsryd;T2004;Urshult;213;942
+13;Halland;1381;Laholm;T4036;Lilla Tjärby;95;872
+7;Kronoberg;763;Tingsryd;T1968;Rävemåla;79;305
+7;Kronoberg;767;Markaryd;T1980;Strömsnäsbruk;339;2246
+8;Kalmar;880;Kalmar;T2368;Påryd;125;663
+8;Kalmar;880;Kalmar;T2244;Hagby;274;871
+13;Halland;1381;Laholm;T4164;Veinge;205;1417
+7;Kronoberg;765;Älmhult;T2048;Älmhult;977;9495
+13;Halland;1381;Laholm;T3936;Genevad;84;653
+7;Kronoberg;767;Markaryd;T2000;Traryd;128;655
+8;Kalmar;862;Emmaboda;T2312;Långasjö;81;330
+8;Kalmar;880;Kalmar;T2452;Vassmolösa;124;524
+13;Halland;1380;Halmstad;T3952;Gullbranna;61;667
+8;Kalmar;840;Mörbylånga;T2458;Vickleby;147;438
+13;Halland;1380;Halmstad;T3916;Eldsberga;90;679
+8;Kalmar;840;Mörbylånga;T2240;Gårdby;75;277
+13;Halland;1380;Halmstad;T4034;Laxvik;65;486
+8;Kalmar;880;Kalmar;T2444;Tvärskog;79;399
+8;Kalmar;880;Kalmar;T2482;Åmunnen;31;208
+13;Halland;1380;Halmstad;T4124;Trönninge;144;1569
+8;Kalmar;862;Emmaboda;T2160;Emmaboda;587;4818
+8;Kalmar;880;Kalmar;T2304;Ljungbyholm;204;1725
+8;Kalmar;880;Kalmar;T2154;Dunö;59;419
+7;Kronoberg;763;Tingsryd;T2020;Väckelsång;140;954
+7;Kronoberg;765;Älmhult;T1832;Diö;135;906
+8;Kalmar;840;Mörbylånga;T2404;Skogsby;264;948
+7;Kronoberg;763;Tingsryd;T1932;Linneryd;127;474
+8;Kalmar;880;Kalmar;T2376;Rinkabyholm;132;1631
+7;Kronoberg;765;Älmhult;T1920;Liatorp;89;531
+8;Kalmar;840;Mörbylånga;T2208;Färjestaden;660;5645
+7;Kronoberg;761;Lessebo;T1976;Skruv;120;586
+8;Kalmar;880;Kalmar;T2408;Smedby;238;3607
+7;Kronoberg;780;Växjö;T1952;Nöbbele;53;256
+13;Halland;1380;Halmstad;T3934;Frösakull;394;2296
+8;Kalmar;881;Nybro;T2484;Örsjö;82;362
+8;Kalmar;840;Mörbylånga;T2092;Algutsrum;175;862
+7;Kronoberg;765;Älmhult;T1840;Eneryda;64;337
+8;Kalmar;862;Emmaboda;T2272;Johansfors;139;412
+8;Kalmar;840;Mörbylånga;T2396;Saxnäs;114;315
+13;Halland;1380;Halmstad;T4084;Skedala;45;359
+8;Kalmar;880;Kalmar;T2436;Trekanten;271;1599
+13;Halland;1380;Halmstad;T4176;Villshärad;128;778
+8;Kalmar;880;Kalmar;T2280;Kalmar;1960;38408
+8;Kalmar;840;Mörbylånga;T2214;Glömminge och Strandskogen;135;366
+13;Halland;1380;Halmstad;T3960;Halmstad;3650;66124
+13;Halland;1380;Halmstad;T3948;Gullbrandstorp;142;1642
+7;Kronoberg;764;Alvesta;T1860;Grimslöv;85;622
+13;Halland;1380;Halmstad;T4080;Simlångsdalen;109;648
+8;Kalmar;880;Kalmar;T2300;Lindsdal;403;5709
+8;Kalmar;862;Emmaboda;T2168;Eriksmåla;93;205
+7;Kronoberg;780;Växjö;T1884;Ingelstad;199;1762
+13;Halland;1380;Halmstad;T3972;Haverdal;353;1681
+7;Kronoberg;761;Lessebo;T1916;Lessebo;339;2857
+8;Kalmar;881;Nybro;T2352;Nybro;1077;13039
+13;Halland;1380;Halmstad;T3988;Holm;113;764
+13;Halland;1380;Halmstad;T3964;Harplinge;144;1498
+13;Halland;1380;Halmstad;T4192;Åled;187;1690
+8;Kalmar;885;Borgholm;T2410;Stora Rör;118;209
+7;Kronoberg;780;Växjö;T2002;Tävelsås;65;351
+8;Kalmar;885;Borgholm;T2266;Rälla;102;418
+7;Kronoberg;781;Ljungby;T1900;Kånna;47;324
+8;Kalmar;881;Nybro;T2292;Kristvallabrunn;62;245
+7;Kronoberg;761;Lessebo;T1876;Hovmantorp;281;3082
+7;Kronoberg;764;Alvesta;T2012;Vislanda;247;1813
+8;Kalmar;880;Kalmar;T2422;Drag;150;463
+13;Halland;1380;Halmstad;T4076;Sennan;73;398
+8;Kalmar;880;Kalmar;T2316;Läckeby;120;878
+13;Halland;1380;Halmstad;T4016;Kvibille;98;948
+13;Halland;1380;Halmstad;T4106;Steninge;331;1112
+8;Kalmar;880;Kalmar;T2380;Rockneby;175;898
+8;Kalmar;881;Nybro;T2184;Flerohopp;51;200
+7;Kronoberg;780;Växjö;T2032;Åryd;81;687
+7;Kronoberg;781;Ljungby;T1812;Angelstad;61;247
+7;Kronoberg;781;Ljungby;T1924;Lidhult;131;665
+13;Halland;1380;Halmstad;T4056;Oskarström;340;4172
+8;Kalmar;881;Nybro;T2192;Flygsfors;63;220
+8;Kalmar;881;Nybro;T2356;Orrefors;129;766
+13;Halland;1380;Halmstad;T3940;Getinge;238;1909
+7;Kronoberg;781;Ljungby;T1936;Ljungby;1224;15785
+7;Kronoberg;761;Lessebo;T1896;Kosta;174;985
+7;Kronoberg;780;Växjö;T1852;Furuby;61;368
+13;Halland;1382;Falkenberg;T4048;Långasand och Ugglarp;263;367
+7;Kronoberg;781;Ljungby;T1964;Ryssby;133;691
+13;Halland;1382;Falkenberg;T4104;Slöinge;127;991
+7;Kronoberg;780;Växjö;T1856;Gemla;253;1462
+8;Kalmar;881;Nybro;T2144;Bäckebo;83;223
+13;Halland;1382;Falkenberg;T3976;Heberg;78;458
+13;Halland;1382;Falkenberg;T4096;Skrea;276;1846
+7;Kronoberg;764;Alvesta;T1808;Alvesta;637;8627
+7;Kronoberg;764;Alvesta;T1872;Hjortsberga;61;254
+7;Kronoberg;781;Ljungby;T1904;Lagan;236;1550
+8;Kalmar;885;Borgholm;T2132;Borgholm;964;4344
+13;Halland;1382;Falkenberg;T4196;Årstad;45;321
+13;Halland;1382;Falkenberg;T3920;Falkenberg;1809;24099
+8;Kalmar;881;Nybro;T2100;Alsterbro;104;448
+13;Halland;1382;Falkenberg;T4182;Vinbergs kyrkby;145;242
+13;Halland;1315;Hylte;T4144;Unnaryd;153;823
+13;Halland;1315;Hylte;T4068;Rydöbruk;83;367
+13;Halland;1382;Falkenberg;T4180;Vinberg;59;606
+7;Kronoberg;760;Uppvidinge;T1804;Alstermo;168;836
+13;Halland;1315;Hylte;T4116;Torup;146;1245
+7;Kronoberg;781;Ljungby;T2016;Vittaryd;78;304
+13;Halland;1382;Falkenberg;T3944;Glommen;240;1082
+8;Kalmar;861;Mönsterås;T2424;Timmernabben;192;1357
+6;Jönköping;683;Värnamo;T1632;Rydaholm;171;1587
+8;Kalmar;861;Mönsterås;T2120;Blomstermåla;379;2380
+7;Kronoberg;760;Uppvidinge;T1912;Lenhovda;237;1762
+13;Halland;1382;Falkenberg;T4168;Vessigebro;106;773
+13;Halland;1382;Falkenberg;T4040;Långås;75;539
+13;Halland;1382;Falkenberg;T3908;Bergagård;52;240
+13;Halland;1382;Falkenberg;T4052;Morup;87;308
+7;Kronoberg;764;Alvesta;T1944;Moheda;256;1880
+7;Kronoberg;760;Uppvidinge;T2040;Älghult;98;497
+8;Kalmar;861;Mönsterås;T2354;Oknö;134;393
+7;Kronoberg;780;Växjö;T2028;Åby;59;433
+7;Kronoberg;780;Växjö;T1956;Rottne;193;2395
+13;Halland;1315;Hylte;T3992;Hyltebruk;466;3992
+7;Kronoberg;764;Alvesta;T1996;Torpsbruk;65;369
+6;Jönköping;683;Värnamo;T1524;Horda;72;363
+13;Halland;1315;Hylte;T3996;Kinnared;109;309
+8;Kalmar;861;Mönsterås;T2340;Mönsterås;495;4998
+7;Kronoberg;780;Växjö;T1820;Braås;150;1692
+13;Halland;1383;Varberg;T4132;Tvååker;271;2640
+9;Gotland;980;Gotland;T2500;Burgsvik;127;335
+13;Halland;1382;Falkenberg;T4020;Köinge;49;217
+6;Jönköping;683;Värnamo;T1532;Hånger;72;333
+13;Halland;1315;Hylte;T4032;Landeryd;86;404
+6;Jönköping;683;Värnamo;T1712;Tånnö;41;201
+13;Halland;1383;Varberg;T3982;Himle;50;277
+8;Kalmar;821;Högsby;T2388;Ruda;127;652
+6;Jönköping;683;Värnamo;T1428;Bor;164;1263
+13;Halland;1382;Falkenberg;T3924;Fegen;70;235
+6;Jönköping;683;Värnamo;T1736;Åminne;38;222
+13;Halland;1383;Varberg;T3994;Hunnestad;82;259
+6;Jönköping;662;Gislaved;T1440;Broaryd;70;284
+8;Kalmar;861;Mönsterås;T2188;Fliseryd;138;716
+6;Jönköping;662;Gislaved;T1652;Skeppshult;98;360
+7;Kronoberg;760;Uppvidinge;T1948;Norrhult-Klavreström;279;1184
+13;Halland;1382;Falkenberg;T4216;Ätran;65;400
+8;Kalmar;821;Högsby;T2172;Fagerhult;86;219
+13;Halland;1383;Varberg;T3942;Getterön;113;296
+8;Kalmar;882;Oskarshamn;T2164;Emsfors;70;317
+13;Halland;1382;Falkenberg;T4140;Ullared;111;699
+6;Jönköping;683;Värnamo;T1472;Forsheda;170;1510
+13;Halland;1383;Varberg;T4060;Rolfstorp;92;537
+13;Halland;1383;Varberg;T4156;Varberg;2338;34248
+7;Kronoberg;780;Växjö;T1908;Lammhult;186;1694
+7;Kronoberg;760;Uppvidinge;T2036;Åseda;302;2557
+6;Jönköping;683;Värnamo;T1564;Kärda;45;315
+8;Kalmar;882;Oskarshamn;T2372;Påskallavik;117;1099
+8;Kalmar;821;Högsby;T2264;Högsby;260;1923
+13;Halland;1383;Varberg;T4130;Bläshammar och Trönningenäs;184;743
+6;Jönköping;662;Gislaved;T1664;Smålandsstenar;516;4564
+6;Jönköping;662;Gislaved;T1624;Reftele;186;1289
+6;Jönköping;683;Värnamo;T1436;Bredaryd;220;1549
+13;Halland;1383;Varberg;T4112;Tofta;154;486
+13;Halland;1383;Varberg;T4100;Skällinge;75;636
+13;Halland;1383;Varberg;T4154;Valinge;111;280
+8;Kalmar;821;Högsby;T2200;Fågelfors;137;437
+6;Jönköping;683;Värnamo;T1732;Värnamo;1191;19061
+9;Gotland;980;Gotland;T2508;Havdhem;95;270
+6;Jönköping;662;Gislaved;T1452;Burseryd;198;932
+13;Halland;1383;Varberg;T4136;Tångaberg;199;965
+13;Halland;1383;Varberg;T4114;Torpa;82;229
+8;Kalmar;821;Högsby;T2108;Berga;145;713
+8;Kalmar;885;Borgholm;T2324;Löttorp;394;562
+6;Jönköping;683;Värnamo;T1572;Lanna;101;330
+13;Halland;1383;Varberg;T4194;Årnäs;345;679
+6;Jönköping;684;Sävsjö;T1636;Rörvik;118;582
+13;Halland;1383;Varberg;T4204;Åsby;80;409
+13;Halland;1382;Falkenberg;T4212;Älvsered;113;445
+6;Jönköping;617;Gnosjö;T1556;Kulltorp;55;328
+8;Kalmar;882;Oskarshamn;T2124;Bockara;101;356
+13;Halland;1383;Varberg;T3912;Bua;235;2036
+13;Halland;1383;Varberg;T4188;Väröbacka;150;765
+9;Gotland;980;Gotland;T2512;Hemse;213;1668
+13;Halland;1383;Varberg;T4160;Veddige;198;2260
+6;Jönköping;662;Gislaved;T1400;Anderstorp;620;5076
+8;Kalmar;882;Oskarshamn;T2360;Oskarshamn;1473;18287
+13;Halland;1383;Varberg;T4024;Nordvära och Källstorp;120;241
+6;Jönköping;617;Gnosjö;T1714;Törestorp;91;262
+6;Jönköping;685;Vetlanda;T1752;Korsberga;116;731
+6;Jönköping;684;Sävsjö;T1680;Stockaryd;159;1019
+8;Kalmar;860;Hultsfred;T2464;Virserum;286;1769
+6;Jönköping;662;Gislaved;T1484;Gislaved;685;10180
+6;Jönköping;617;Gnosjö;T1508;Hillerstorp;242;1746
+8;Kalmar;860;Hultsfred;T2348;Mörlunda;237;857
+14;Västra Götaland;1465;Svenljunga;T4956;Mjöbäck;77;300
+13;Halland;1383;Varberg;T4012;Kungsäter;95;361
+9;Gotland;980;Gotland;T2540;Stånga;111;335
+6;Jönköping;685;Vetlanda;T1606;Nye;56;202
+13;Halland;1384;Kungsbacka;T3932;Frillesås;474;2832
+14;Västra Götaland;1465;Svenljunga;T5164;Östra Frölunda;63;321
+6;Jönköping;665;Vaggeryd;T1552;Klevshult;65;266
+6;Jönköping;684;Sävsjö;T1728;Vrigstad;213;1461
+8;Kalmar;860;Hultsfred;T2384;Rosenfors;73;267
+14;Västra Götaland;1465;Svenljunga;T5168;Överlida;85;540
+6;Jönköping;617;Gnosjö;T1488;Gnosjö;547;4528
+6;Jönköping;685;Vetlanda;T1568;Landsbro;210;1438
+8;Kalmar;882;Oskarshamn;T2176;Figeholm;107;730
+6;Jönköping;685;Vetlanda;T1600;Myresjö;115;728
+14;Västra Götaland;1463;Mark;T4880;Horred;156;1203
+8;Kalmar;860;Hultsfred;T2336;Målilla;320;1348
+8;Kalmar;882;Oskarshamn;T2204;Fårbo;85;498
+13;Halland;1384;Kungsbacka;T3998;Kläppa;151;625
+13;Halland;1384;Kungsbacka;T4200;Åsa;907;6084
+6;Jönköping;684;Sävsjö;T1688;Sävsjö;452;5374
+6;Jönköping;685;Vetlanda;T1560;Kvillsfors;92;488
+14;Västra Götaland;1463;Mark;T5076;Torestorp;75;412
+8;Kalmar;882;Oskarshamn;T2288;Kristdala;181;1016
+13;Halland;1384;Kungsbacka;T3898;Röda holme;199;654
+8;Kalmar;860;Hultsfred;T2276;Järnforsen;142;510
+14;Västra Götaland;1463;Mark;T5172;Öxabäck;66;330
+6;Jönköping;617;Gnosjö;T1604;Nissafors;50;273
+14;Västra Götaland;1465;Svenljunga;T4876;Holsljunga;40;241
+14;Västra Götaland;1452;Tranemo;T4708;Ambjörnarp;102;301
+9;Gotland;980;Gotland;T2520;Klintehamn;292;1490
+6;Jönköping;685;Vetlanda;T1520;Holsbybrunn;121;783
+6;Jönköping;685;Vetlanda;T1644;Sjunnen;52;420
+6;Jönköping;685;Vetlanda;T1724;Vetlanda;1078;13430
+6;Jönköping;665;Vaggeryd;T1656;Skillingaryd;390;3965
+6;Jönköping;662;Gislaved;T1504;Hestra;195;1327
+13;Halland;1384;Kungsbacka;T3914;Buerås;91;754
+14;Västra Götaland;1463;Mark;T4736;Björketorp;100;514
+13;Halland;1384;Kungsbacka;T3930;Fjärås station;67;200
+6;Jönköping;685;Vetlanda;T1620;Pauliström;60;220
+6;Jönköping;685;Vetlanda;T1648;Skede;86;289
+13;Halland;1384;Kungsbacka;T4224;Västra Hagen;289;1319
+13;Halland;1384;Kungsbacka;T4110;Sätinge;118;338
+14;Västra Götaland;1452;Tranemo;T5100;Uddebo;64;220
+14;Västra Götaland;1463;Mark;T4724;Berghem;84;369
+13;Halland;1384;Kungsbacka;T3928;Fjärås kyrkby;205;2385
+14;Västra Götaland;1452;Tranemo;T4832;Grimsås;112;694
+6;Jönköping;685;Vetlanda;T1456;Ekenässjön;214;1563
+13;Halland;1384;Kungsbacka;T4054;Onsala;1323;12275
+13;Halland;1384;Kungsbacka;T3956;Halla Heberg;410;1647
+6;Jönköping;682;Nässjö;T1424;Bodafors;231;1957
+8;Kalmar;860;Hultsfred;T2260;Hultsfred;552;5510
+6;Jönköping;665;Vaggeryd;T1720;Vaggeryd;513;5122
+14;Västra Götaland;1452;Tranemo;T5080;Tranemo;342;3224
+6;Jönköping;665;Vaggeryd;T1516;Hok;89;658
+14;Västra Götaland;1465;Svenljunga;T5060;Svenljunga;433;3592
+13;Halland;1384;Kungsbacka;T4152;Vallda;565;3929
+6;Jönköping;685;Vetlanda;T1420;Björköby;82;323
+8;Kalmar;860;Hultsfred;T2456;Vena;86;394
+13;Halland;1384;Kungsbacka;T3986;Hjälm;33;272
+14;Västra Götaland;1452;Tranemo;T4988;Rosenlund;38;329
+8;Kalmar;860;Hultsfred;T2400;Silverdalen;125;681
+14;Västra Götaland;1463;Mark;T4912;Kinna;1863;15019
+9;Gotland;980;Gotland;T2544;Tofta;502;627
+14;Västra Götaland;1452;Tranemo;T4928;Limmared;163;1434
+6;Jönköping;682;Nässjö;T1492;Grimstorp;49;341
+13;Halland;1384;Kungsbacka;T3954;Hagryd-Dala;217;875
+14;Västra Götaland;1463;Mark;T5064;Sätila;166;1210
+14;Västra Götaland;1452;Tranemo;T4936;Ljungsarp;50;219
+9;Gotland;980;Gotland;T2532;Romakloster;228;1198
+14;Västra Götaland;1463;Mark;T4992;Rydal;69;415
+8;Kalmar;884;Vimmerby;T2440;Tuna;42;212
+6;Jönköping;682;Nässjö;T1584;Malmbäck;183;1087
+6;Jönköping;682;Nässjö;T1676;Stensjön;80;244
+14;Västra Götaland;1463;Mark;T4812;Fritsla;318;2307
+14;Västra Götaland;1463;Mark;T4892;Hyssna;171;665
+8;Kalmar;884;Vimmerby;T2412;Storebro;149;1011
+6;Jönköping;665;Vaggeryd;T1426;Bondstorp;56;218
+14;Västra Götaland;1465;Svenljunga;T5016;Sexdrega;123;802
+13;Halland;1384;Kungsbacka;T3950;Gundal och Högås;167;631
+14;Västra Götaland;1452;Tranemo;T4784;Dalstorp;141;734
+14;Västra Götaland;1480;Göteborg;T4612;Vrångö;50;351
+14;Västra Götaland;1452;Tranemo;T4940;Länghem;142;1086
+6;Jönköping;686;Eksjö;T1588;Mariannelund;228;1503
+6;Jönköping;682;Nässjö;T1476;Fredriksdal;62;305
+14;Västra Götaland;1490;Borås;T4916;Kinnarumma;74;333
+14;Västra Götaland;1463;Mark;T4450;Ubbhult norra;61;201
+9;Gotland;980;Gotland;T2560;Västerhejde;90;372
+6;Jönköping;686;Eksjö;T1512;Hjältevad;110;349
+8;Kalmar;883;Västervik;T2256;Hjorted;65;326
+8;Kalmar;883;Västervik;T2432;Totebo;47;237
+6;Jönköping;686;Eksjö;T1540;Ingatorp;110;466
+6;Jönköping;686;Eksjö;T1444;Bruzaholm;76;237
+14;Västra Götaland;1481;Mölndal;T4410;Hällesåker;235;682
+14;Västra Götaland;1480;Göteborg;T4332;Donsö;104;1446
+6;Jönköping;686;Eksjö;T1528;Hult;60;459
+14;Västra Götaland;1401;Härryda;T4334;Eskilsby och Snugga;87;251
+14;Västra Götaland;1465;Svenljunga;T4868;Hillared;117;639
+9;Gotland;980;Gotland;T2548;Vibble;358;1709
+14;Västra Götaland;1490;Borås;T5120;Viskafors;397;3701
+14;Västra Götaland;1401;Härryda;T4354;Hällingsjö;96;459
+14;Västra Götaland;1480;Göteborg;T4588;Styrsö;178;1324
+14;Västra Götaland;1490;Borås;T4716;Aplared;64;463
+6;Jönköping;682;Nässjö;T1614;Ormaryd;63;216
+6;Jönköping;682;Nässjö;T1608;Nässjö;1134;17719
+14;Västra Götaland;1490;Borås;T4996;Rydboholm;116;993
+14;Västra Götaland;1401;Härryda;T4544;Rävlanda;161;1522
+14;Västra Götaland;1401;Härryda;T4570;Stora Bugärde;117;415
+8;Kalmar;884;Vimmerby;T2460;Vimmerby;751;8037
+6;Jönköping;686;Eksjö;T1460;Eksjö;807;10157
+14;Västra Götaland;1491;Ulricehamn;T4852;Gällstad;96;536
+14;Västra Götaland;1491;Ulricehamn;T5004;Rånnaväg;50;330
+14;Västra Götaland;1401;Härryda;T4526;Nya Långenäs;33;339
+14;Västra Götaland;1480;Göteborg;T4298;Asperö;38;398
+14;Västra Götaland;1491;Ulricehamn;T5116;Vegby;93;575
+14;Västra Götaland;1480;Göteborg;T4322;Brännö;193;918
+9;Gotland;980;Gotland;T2552;Visby;1369;23402
+6;Jönköping;680;Jönköping;T1692;Taberg;386;4486
+6;Jönköping;682;Nässjö;T1740;Äng;50;278
+14;Västra Götaland;1490;Borås;T4310;Bosnäs;100;425
+14;Västra Götaland;1490;Borås;T4792;Dannike;77;437
+8;Kalmar;884;Vimmerby;T2196;Frödinge;68;343
+6;Jönköping;682;Nässjö;T1468;Forserum;195;2080
+14;Västra Götaland;1443;Bollebygd;T4744;Bollebygd;336;3870
+8;Kalmar;883;Västervik;T2104;Ankarsrum;169;1234
+14;Västra Götaland;1443;Bollebygd;T4984;Olsfors;73;617
+14;Västra Götaland;1491;Ulricehamn;T4888;Hulu;63;252
+14;Västra Götaland;1401;Härryda;T4520;Mölnlycke;1191;17579
+14;Västra Götaland;1407;Öckerö;T4348;Fotö;43;630
+6;Jönköping;680;Jönköping;T1696;Tenhult;251;3112
+14;Västra Götaland;1490;Borås;T4848;Gånghester och Målsryd;273;2533
+14;Västra Götaland;1443;Bollebygd;T4884;Hultafors;73;333
+9;Gotland;980;Gotland;T2506;Norra Visby;143;551
+6;Jönköping;680;Jönköping;T1612;Barnarp och Odensjö;201;2646
+6;Jönköping;680;Jönköping;T1742;Öggestorp;39;238
+6;Jönköping;682;Nässjö;T1408;Anneberg;115;834
+6;Jönköping;680;Jönköping;T1628;Ryd;58;200
+14;Västra Götaland;1401;Härryda;T4542;Rya;95;365
+6;Jönköping;682;Nässjö;T1668;Solberga;76;370
+14;Västra Götaland;1401;Härryda;T4484;Landvetter;877;8839
+9;Gotland;980;Gotland;T2556;Väskinde;44;337
+8;Kalmar;883;Västervik;T2236;Gunnebo;139;1022
+14;Västra Götaland;1402;Partille;T4631;Öjersjö;258;4394
+14;Västra Götaland;1401;Härryda;T4424;Härryda;355;1146
+14;Västra Götaland;1407;Öckerö;T4428;Hönö;338;5293
+14;Västra Götaland;1490;Borås;T5008;Sandared, Sjömarken och Viared;968;6602
+14;Västra Götaland;1490;Borås;T4780;Dalsjöfors;352;3606
+8;Kalmar;884;Vimmerby;T2420;Södra Vi;156;1134
+14;Västra Götaland;1401;Härryda;T4392;Hindås;493;2901
+14;Västra Götaland;1491;Ulricehamn;T4948;Marbäck;71;475
+14;Västra Götaland;1407;Öckerö;T4434;Kalvsund;25;208
+14;Västra Götaland;1407;Öckerö;T4628;Öckerö;262;3568
+9;Gotland;980;Gotland;T2538;Brissund och Själsö;228;397
+9;Gotland;980;Gotland;T2536;Slite;152;946
+14;Västra Götaland;1441;Lerum;T5176;Öxeryd;110;544
+14;Västra Götaland;1490;Borås;T5156;Äspered;61;293
+6;Jönköping;680;Jönköping;T1576;Lekeryd;78;788
+9;Gotland;980;Gotland;T2564;Slite norra;72;527
+14;Västra Götaland;1407;Öckerö;T4304;Björkö;103;1495
+6;Jönköping;680;Jönköping;T1432;Bottnaryd;85;717
+14;Västra Götaland;1480;Göteborg;T4510;Tumlehed;118;623
+14;Västra Götaland;1407;Öckerö;T4420;Hälsö;59;586
+14;Västra Götaland;1402;Partille;T4432;Jonsered;108;929
+14;Västra Götaland;1402;Partille;T4464;Kåhög;54;871
+9;Gotland;980;Gotland;T2542;Tingstäde;73;229
+14;Västra Götaland;1490;Borås;T5012;Sandhult;59;563
+8;Kalmar;883;Västervik;T2364;Piperskärr;97;579
+8;Kalmar;883;Västervik;T2472;Västervik;1385;21178
+14;Västra Götaland;1480;Göteborg;T4382;Helgered och Östergärde industriområde;136;633
+14;Västra Götaland;1407;Öckerö;T4476;Källö-Knippla;34;331
+14;Västra Götaland;1490;Borås;T4752;Borås;3081;71700
+5;Östergötland;512;Ydre;T1228;Rydsnäs;86;282
+14;Västra Götaland;1441;Lerum;T4582;Slätthult;64;231
+8;Kalmar;884;Vimmerby;T2232;Gullringen;127;503
+14;Västra Götaland;1480;Göteborg;T4302;Torslanda;1936;23088
+14;Västra Götaland;1490;Borås;T5000;Rångedala;112;420
+14;Västra Götaland;1443;Bollebygd;T5092;Töllsjö;65;409
+14;Västra Götaland;1480;Göteborg;T4522;Nolvik;185;1373
+14;Västra Götaland;1491;Ulricehamn;T5104;Ulricehamn;745;10629
+6;Jönköping;680;Jönköping;T1554;Kortebo;111;512
+6;Jönköping;680;Jönköping;T1544;Jönköping;4257;93797
+14;Västra Götaland;1480;Göteborg;T4294;Angered;200;1062
+14;Västra Götaland;1407;Öckerö;T4552;Rörö;57;262
+14;Västra Götaland;1490;Borås;T4756;Bredared;61;313
+14;Västra Götaland;1490;Borås;T4860;Hedared;76;361
+5;Östergötland;512;Ydre;T1336;Österbymo;134;897
+14;Västra Götaland;1480;Göteborg;T4574;Stenared;99;407
+14;Västra Götaland;1480;Göteborg;T4528;Olofstorp;335;3746
+14;Västra Götaland;1491;Ulricehamn;T4968;Nitta;51;360
+14;Västra Götaland;1480;Göteborg;T4596;Säve;68;759
+14;Västra Götaland;1441;Lerum;T5072;Tollered;80;920
+9;Gotland;980;Gotland;T2528;Lärbro;75;423
+6;Jönköping;680;Jönköping;T1486;Bosgård, Rudu och Gissebo;86;204
+14;Västra Götaland;1480;Göteborg;T4368;Göteborg;21513;572799
+14;Västra Götaland;1490;Borås;T4808;Fristad;731;5409
+14;Västra Götaland;1441;Lerum;T4920;Lerum;2455;26913
+14;Västra Götaland;1482;Kungälv;T4376;Kyrkeby och Nereby;90;260
+14;Västra Götaland;1491;Ulricehamn;T4904;Hökerum;86;642
+6;Jönköping;604;Aneby;T1404;Aneby;404;3496
+6;Jönköping;680;Jönköping;T1548;Kaxholmen;152;1561
+6;Jönköping;680;Jönköping;T1412;Bankeryd;676;8506
+14;Västra Götaland;1491;Ulricehamn;T5068;Timmele;113;788
+14;Västra Götaland;1489;Alingsås;T4386;Hemsjö;129;370
+14;Västra Götaland;1441;Lerum;T4836;Gråbo;547;6021
+14;Västra Götaland;1482;Kungälv;T4480;Kärna;81;604
+14;Västra Götaland;1440;Ale;T5056;Surte;372;6003
+6;Jönköping;680;Jönköping;T1660;Skärstad;47;433
+14;Västra Götaland;1489;Alingsås;T4538;Hästeryd och Ryd;73;212
+14;Västra Götaland;1489;Alingsås;T4908;Ingared;217;1703
+14;Västra Götaland;1490;Borås;T4748;Borgstena;107;426
+14;Västra Götaland;1489;Alingsås;T4634;Färgens östra strand;135;257
+14;Västra Götaland;1441;Lerum;T4732;Björboholm;235;1036
+14;Västra Götaland;1491;Ulricehamn;T4788;Dalum;78;651
+14;Västra Götaland;1489;Alingsås;T4870;Hjälmared;47;266
+8;Kalmar;883;Västervik;T2308;Loftahammar;129;435
+14;Västra Götaland;1489;Alingsås;T5136;Västerbodarna;248;1123
+8;Kalmar;883;Västervik;T2212;Gamleby;357;2758
+6;Jönköping;643;Habo;T5284;Habo;602;7740
+6;Jönköping;680;Jönköping;T1448;Ölmstad;77;401
+6;Jönköping;604;Aneby;T1684;Sundhultsbrunn;46;301
+9;Gotland;980;Gotland;T2504;Fårösund;285;829
+14;Västra Götaland;1482;Kungälv;T4504;Marstrand;33;381
+6;Jönköping;642;Mullsjö;T5380;Mullsjö;537;5584
+14;Västra Götaland;1482;Kungälv;T4452;Kungälv;1462;24101
+6;Jönköping;643;Habo;T5252;Furusjö;63;357
+14;Västra Götaland;1482;Kungälv;T4536;Risby;76;218
+6;Jönköping;604;Aneby;T1480;Frinnaryd;56;226
+14;Västra Götaland;1482;Kungälv;T4506;Arvidsvik;69;862
+14;Västra Götaland;1482;Kungälv;T4604;Tjuvkil;329;1013
+14;Västra Götaland;1482;Kungälv;T4438;Rishammar;49;331
+14;Västra Götaland;1491;Ulricehamn;T4740;Blidsberg;114;540
+14;Västra Götaland;1441;Lerum;T5032;Sjövik;97;929
+14;Västra Götaland;1482;Kungälv;T4458;Kareby och Ringby;56;237
+5;Östergötland;512;Ydre;T1092;Hestra;79;458
+14;Västra Götaland;1482;Kungälv;T4652;Rörtången och Ödsmåls mosse;167;470
+14;Västra Götaland;1482;Kungälv;T4494;Lundby och Rogstorp;52;203
+14;Västra Götaland;1482;Kungälv;T4648;Ödsmål och Åsebyberg;79;257
+14;Västra Götaland;1482;Kungälv;T4328;Diseröd;118;1328
+14;Västra Götaland;1419;Tjörn;T4572;Stora Dyrön;31;215
+14;Västra Götaland;1440;Ale;T4976;Nödinge-Nol;852;11117
+14;Västra Götaland;1489;Alingsås;T4700;Alingsås;1400;26329
+14;Västra Götaland;1482;Kungälv;T4614;Solberga;74;224
+14;Västra Götaland;1482;Kungälv;T4444;Kode;162;1605
+14;Västra Götaland;1442;Vårgårda;T4402;Horla;64;209
+14;Västra Götaland;1482;Kungälv;T4562;Duvesjön;46;296
+14;Västra Götaland;1419;Tjörn;T4548;Rönnäng;250;1551
+6;Jönköping;687;Tranås;T1496;Gripenberg;56;300
+14;Västra Götaland;1491;Ulricehamn;T5088;Trädet;69;296
+14;Västra Götaland;1419;Tjörn;T4440;Klädesholmen;29;367
+6;Jönköping;642;Mullsjö;T5408;Sandhem;108;673
+8;Kalmar;883;Västervik;T2488;Överum;164;1166
+14;Västra Götaland;1440;Ale;T5152;Älvängen;415;4759
+14;Västra Götaland;1419;Tjörn;T4308;Bleket;116;406
+6;Jönköping;643;Habo;T5228;Fagerhult;78;307
+14;Västra Götaland;1466;Herrljunga;T4712;Ljung och Annelund;176;1226
+6;Jönköping;680;Jönköping;T1748;Örserum;72;356
+14;Västra Götaland;1482;Kungälv;T5070;Aröd och Timmervik;263;873
+14;Västra Götaland;1440;Ale;T5036;Skepplanda;152;1821
+8;Kalmar;883;Västervik;T2156;Edsbruk;70;324
+6;Jönköping;680;Jönköping;T1500;Gränna;187;2726
+14;Västra Götaland;1499;Falköping;T5532;Åsarp;103;609
+14;Västra Götaland;1419;Tjörn;T4326;Djupvik och Fagerfjäll;195;284
+14;Västra Götaland;1440;Ale;T4704;Alvhem;85;322
+6;Jönköping;687;Tranås;T1536;Hätte, Seglarvik och Sandvik;70;219
+14;Västra Götaland;1482;Kungälv;T4558;Signehög och Norrmannebo;96;239
+14;Västra Götaland;1419;Tjörn;T4560;Skärhamn;513;3495
+14;Västra Götaland;1442;Vårgårda;T5162;Östadkulle;65;401
+14;Västra Götaland;1499;Falköping;T5344;Kättilstorp;51;231
+14;Västra Götaland;1415;Stenungsund;T4436;Jörlanda;342;1465
+6;Jönköping;687;Tranås;T1700;Tranås;1019;14550
+6;Jönköping;680;Jönköping;T1708;Tunnerstad;109;322
+14;Västra Götaland;1415;Stenungsund;T4576;Stora Höga;278;2846
+14;Västra Götaland;1442;Vårgårda;T5124;Vårgårda;507;5384
+14;Västra Götaland;1462;Lilla Edet;T4944;Lödöse;180;1540
+6;Jönköping;643;Habo;T1534;Rödån;122;272
+14;Västra Götaland;1415;Stenungsund;T4618;Spekeröd;99;211
+14;Västra Götaland;1419;Tjörn;T4468;Kållekärr;77;629
+14;Västra Götaland;1489;Alingsås;T4502;Långared;121;264
+14;Västra Götaland;1419;Tjörn;T4514;Höviksnäs;400;1750
+14;Västra Götaland;1419;Tjörn;T4442;Klövedal;268;569
+14;Västra Götaland;1462;Lilla Edet;T4978;Nygård;102;490
+14;Västra Götaland;1499;Falköping;T5328;Kinnarp;147;962
+14;Västra Götaland;1419;Tjörn;T4460;Kyrkesund;544;547
+14;Västra Götaland;1466;Herrljunga;T4864;Herrljunga;379;3982
+14;Västra Götaland;1419;Tjörn;T4516;Myggenäs;218;1460
+14;Västra Götaland;1499;Falköping;T5508;Vartofta;67;529
+14;Västra Götaland;1489;Alingsås;T4840;Gräfsnäs;100;393
+14;Västra Götaland;1415;Stenungsund;T4578;Stenungsön;69;243
+5;Östergötland;580;Linköping;T1296;Ulrika;35;204
+14;Västra Götaland;1415;Stenungsund;T4606;Ucklum;128;531
+14;Västra Götaland;1415;Stenungsund;T4568;Stenungsund;1225;13093
+14;Västra Götaland;1489;Alingsås;T4530;Magra;60;208
+14;Västra Götaland;1421;Orust;T4508;Mollösund;118;243
+6;Jönköping;687;Tranås;T1672;Sommen;112;789
+14;Västra Götaland;1498;Tidaholm;T5368;Madängsholm;64;411
+14;Västra Götaland;1462;Lilla Edet;T4856;Göta;140;1002
+5;Östergötland;561;Åtvidaberg;T1048;Falerum;79;236
+5;Östergötland;513;Kinda;T1220;Rimforsa;273;2259
+14;Västra Götaland;1489;Alingsås;T5044;Sollebrunn;191;1482
+14;Västra Götaland;1499;Falköping;T5244;Floby;225;1562
+14;Västra Götaland;1415;Stenungsund;T4595;Svartehallen;59;267
+14;Västra Götaland;1499;Falköping;T5392;Odensberg;44;290
+14;Västra Götaland;1489;Alingsås;T5052;Stora Mellby;73;349
+14;Västra Götaland;1415;Stenungsund;T4630;Ödsmål;367;1414
+14;Västra Götaland;1421;Orust;T4610;Varekil;160;912
+14;Västra Götaland;1462;Lilla Edet;T4490;Lilla Edet västra;138;1446
+14;Västra Götaland;1462;Lilla Edet;T4924;Lilla Edet;311;3772
+14;Västra Götaland;1445;Essunga;T5312;Jonslund;75;304
+14;Västra Götaland;1415;Stenungsund;T4598;Svenshögen;56;452
+14;Västra Götaland;1488;Trollhättan;T5108;Upphärad;77;572
+14;Västra Götaland;1470;Vara;T5512;Vedum;137;960
+14;Västra Götaland;1421;Orust;T4592;Svanesund;361;1946
+14;Västra Götaland;1498;Tidaholm;T5460;Tidaholm;600;8175
+14;Västra Götaland;1499;Falköping;T5236;Falköping;890;17170
+14;Västra Götaland;1470;Vara;T5346;Larv;79;231
+5;Östergötland;560;Boxholm;T1040;Boxholm;451;3269
+14;Västra Götaland;1445;Essunga;T5388;Nossebro;187;1884
+14;Västra Götaland;1462;Lilla Edet;T4872;Hjärtum;57;385
+14;Västra Götaland;1498;Tidaholm;T5220;Ekedalen;72;481
+5;Östergötland;561;Åtvidaberg;T1328;Åtvidaberg;567;7014
+14;Västra Götaland;1499;Falköping;T5472;Torbjörntorp;88;466
+5;Östergötland;561;Åtvidaberg;T1012;Berg;54;291
+5;Östergötland;580;Linköping;T1044;Brokind;69;499
+5;Östergötland;563;Valdemarsvik;T1304;Valdemarsvik;265;2685
+14;Västra Götaland;1488;Trollhättan;T5020;Sjuntorp;277;2213
+14;Västra Götaland;1421;Orust;T4336;Ellös;221;1036
+5;Östergötland;509;Ödeshög;T1332;Ödeshög;260;2554
+14;Västra Götaland;1499;Falköping;T5264;Gudhem;41;429
+5;Östergötland;580;Linköping;T1020;Bestorp;95;510
+5;Östergötland;560;Boxholm;T1264;Strålsnäs;85;450
+14;Västra Götaland;1445;Essunga;T5250;Främmestad;69;391
+14;Västra Götaland;1488;Trollhättan;T5038;Velanda;83;592
+14;Västra Götaland;1470;Vara;T5204;Arentorp;81;464
+14;Västra Götaland;1470;Vara;T5476;Tråvad;88;451
+14;Västra Götaland;1470;Vara;T5224;Emtunga;40;284
+14;Västra Götaland;1484;Lysekil;T4360;Grundsund;141;647
+14;Västra Götaland;1488;Trollhättan;T5128;Väne-Åsaka;60;327
+5;Östergötland;509;Ödeshög;T1108;Hästholmen;47;328
+5;Östergötland;563;Valdemarsvik;T1084;Gusum;127;1149
+14;Västra Götaland;1485;Uddevalla;T4492;Ljungskile;399;3689
+14;Västra Götaland;1499;Falköping;T5436;Stenstorp;169;1823
+14;Västra Götaland;1485;Uddevalla;T4534;Strandskogen, Restenäs och Ulvesund;226;451
+14;Västra Götaland;1470;Vara;T5500;Vara;331;4052
+5;Östergötland;580;Linköping;T1200;Nykil;46;322
+14;Västra Götaland;1421;Orust;T4384;Henån;470;2243
+5;Östergötland;580;Linköping;T1238;Skeda udde;37;368
+14;Västra Götaland;1484;Lysekil;T4340;Fiskebäckskil;72;262
+14;Västra Götaland;1497;Hjo;T5332;Korsberga;55;222
+5;Östergötland;561;Åtvidaberg;T1072;Grebo;115;1047
+14;Västra Götaland;1497;Hjo;T5296;Hjo;497;6203
+14;Västra Götaland;1470;Vara;T5336;Kvänum;175;1278
+5;Östergötland;586;Mjölby;T1316;Väderstad;118;573
+14;Västra Götaland;1421;Orust;T4426;Höggeröd;190;227
+14;Västra Götaland;1485;Uddevalla;T4626;Sjöskogen och Strand;165;447
+5;Östergötland;586;Mjölby;T1096;Hogstad;44;236
+14;Västra Götaland;1484;Lysekil;T4496;Lysekil;471;7734
+5;Östergötland;561;Åtvidaberg;T1024;Björsäter;73;411
+5;Östergötland;580;Linköping;T1272;Sturefors;147;2228
+14;Västra Götaland;1421;Orust;T4644;Vindön och Töllås;167;219
+14;Västra Götaland;1470;Vara;T5440;Stora Levene;129;809
+14;Västra Götaland;1470;Vara;T5316;Jung;96;384
+5;Östergötland;563;Valdemarsvik;T1224;Ringarum;121;605
+5;Östergötland;586;Mjölby;T1260;Spångsholm;49;374
+5;Östergötland;586;Mjölby;T1180;Mjölby;869;12858
+14;Västra Götaland;1488;Trollhättan;T5084;Trollhättan;2463;48573
+14;Västra Götaland;1496;Skövde;T5524;Värsås;85;616
+14;Västra Götaland;1485;Uddevalla;T4296;Ammenäs;148;563
+14;Västra Götaland;1496;Skövde;T5424;Skultorp;286;3644
+14;Västra Götaland;1444;Grästorp;T5260;Grästorp;246;2946
+5;Östergötland;586;Mjölby;T1176;Mantorp;339;3781
+14;Västra Götaland;1485;Uddevalla;T4632;Kristevik och Sundsandvik;142;382
+5;Östergötland;580;Linköping;T1236;Sjögestad;52;307
+5;Östergötland;580;Linköping;T1252;Slaka;113;593
+14;Västra Götaland;1495;Skara;T5200;Ardala;65;745
+14;Västra Götaland;1485;Uddevalla;T5106;Utby;77;410
+5;Östergötland;580;Linköping;T1008;Bankekind;47;437
+14;Västra Götaland;1485;Uddevalla;T4482;Lanesund och Överby;96;461
+5;Östergötland;580;Linköping;T1308;Vikingstad;178;2335
+14;Västra Götaland;1495;Skara;T5504;Varnhem;69;662
+14;Västra Götaland;1487;Vänersborg;T5112;Vargön;401;4981
+14;Västra Götaland;1494;Lidköping;T5404;Saleby;50;212
+14;Västra Götaland;1495;Skara;T5208;Axvall;116;1164
+14;Västra Götaland;1494;Lidköping;T5320;Järpås;107;789
+5;Östergötland;586;Mjölby;T1244;Skänninge;303;3358
+14;Västra Götaland;1485;Uddevalla;T4454;Kurveröd;67;1408
+5;Östergötland;580;Linköping;T1212;Rappestad;41;247
+14;Västra Götaland;1496;Skövde;T5308;Igelstorp;75;648
+14;Västra Götaland;1427;Sotenäs;T4500;Malmön;106;260
+14;Västra Götaland;1485;Uddevalla;T4586;Smedseröd;28;245
+14;Västra Götaland;1487;Vänersborg;T4974;Nordkroken;72;456
+5;Östergötland;582;Söderköping;T1348;Östra Ryd;95;477
+5;Östergötland;580;Linköping;T1004;Askeby;57;503
+14;Västra Götaland;1487;Vänersborg;T5132;Vänersborg;1131;23119
+14;Västra Götaland;1485;Uddevalla;T4608;Uddevalla;2008;34781
+14;Västra Götaland;1487;Vänersborg;T4330;Katrinedal;45;399
+14;Västra Götaland;1495;Skara;T5420;Skara;839;11437
+5;Östergötland;580;Linköping;T1318;Västerlösa;41;207
+14;Västra Götaland;1427;Sotenäs;T4564;Smögen;115;1292
+5;Östergötland;580;Linköping;T1172;Malmslätt;273;5074
+14;Västra Götaland;1472;Tibro;T5456;Tibro;789;8396
+5;Östergötland;580;Linköping;T1152;Linköping;3777;106502
+5;Östergötland;580;Linköping;T1288;Tallboda;315;3311
+14;Västra Götaland;1496;Skövde;T5428;Skövde;2211;36842
+14;Västra Götaland;1427;Sotenäs;T4448;Kungshamn;404;3657
+14;Västra Götaland;1484;Lysekil;T4316;Brastad;469;2289
+5;Östergötland;580;Linköping;T1148;Linghem;192;2853
+14;Västra Götaland;1485;Uddevalla;T4398;Hogstorp;61;384
+14;Västra Götaland;1495;Skara;T5216;Eggby;48;237
+5;Östergötland;580;Linköping;T1142;Kränge;52;269
+5;Östergötland;584;Vadstena;T1300;Vadstena;361;5674
+5;Östergötland;583;Motala;T1064;Fågelsta;53;293
+5;Östergötland;582;Söderköping;T1184;Mogata;45;296
+14;Västra Götaland;1485;Uddevalla;T4338;Fagerhult;126;499
+14;Västra Götaland;1494;Lidköping;T5516;Vinninga;108;1033
+5;Östergötland;580;Linköping;T1068;Gistad;55;283
+14;Västra Götaland;1472;Tibro;T5232;Fagersanna;201;684
+5;Östergötland;583;Motala;T1060;Fornåsa;57;460
+5;Östergötland;580;Linköping;T1050;Ekängen;186;2485
+14;Västra Götaland;1496;Skövde;T5492;Ulvåker;41;256
+14;Västra Götaland;1496;Skövde;T5348;Lerdala;143;558
+14;Västra Götaland;1471;Götene;T5360;Lundsbrunn;129;909
+5;Östergötland;580;Linköping;T1016;Bergs slussar;107;1307
+5;Östergötland;582;Söderköping;T1320;Västra Husby;54;488
+14;Västra Götaland;1496;Skövde;T5444;Stöpen;109;1373
+14;Västra Götaland;1430;Munkedal;T4554;Torreby;53;226
+5;Östergötland;583;Motala;T1136;Klockrike;41;248
+5;Östergötland;582;Söderköping;T1284;Söderköping;505;7418
+14;Västra Götaland;1446;Karlsborg;T5384;Mölltorp;148;1047
+14;Västra Götaland;1494;Lidköping;T5240;Filsbäck;107;689
+5;Östergötland;582;Söderköping;T1170;Snöveltorp;80;423
+5;Östergötland;581;Norrköping;T1196;Norsholm;53;566
+14;Västra Götaland;1427;Sotenäs;T4404;Hunnebostrand;362;2053
+14;Västra Götaland;1496;Skövde;T5520;Väring;125;641
+5;Östergötland;582;Söderköping;T1162;Luddingsbo;58;215
+5;Östergötland;580;Linköping;T1160;Ljungsbro;453;6763
+5;Östergötland;583;Motala;T1340;Österstad;43;324
+14;Västra Götaland;1494;Lidköping;T5352;Lidköping;1282;22988
+14;Västra Götaland;1494;Lidköping;T5890;Örslösa;60;322
+14;Västra Götaland;1487;Vänersborg;T4820;Frändefors;97;640
+14;Västra Götaland;1427;Sotenäs;T4312;Bovallstrand;128;447
+14;Västra Götaland;1496;Skövde;T5468;Timmersdala;116;895
+14;Västra Götaland;1430;Munkedal;T4512;Munkedal;536;3910
+14;Västra Götaland;1471;Götene;T5280;Götene;497;5027
+14;Västra Götaland;1471;Götene;T5340;Källby;209;1737
+5;Östergötland;581;Norrköping;T1330;Öbonäs;193;646
+14;Västra Götaland;1494;Lidköping;T4486;Lidköping norra;356;3819
+14;Västra Götaland;1446;Karlsborg;T5324;Karlsborg;519;3624
+5;Östergötland;581;Norrköping;T1128;Kimstad;170;1469
+5;Östergötland;583;Motala;T1028;Borensberg;277;2942
+5;Östergötland;583;Motala;T1188;Motala;2024;30944
+14;Västra Götaland;1430;Munkedal;T4324;Dingle;97;901
+14;Västra Götaland;1496;Skövde;T5464;Tidan;143;989
+14;Västra Götaland;1439;Färgelanda;T5160;Ödeborg;87;589
+14;Västra Götaland;1446;Karlsborg;T5248;Forsvik;83;323
+5;Östergötland;581;Norrköping;T1344;Östra Husby;119;868
+5;Östergötland;581;Norrköping;T1156;Ljunga;94;751
+5;Östergötland;581;Norrköping;T1046;Eksund;73;500
+14;Västra Götaland;1487;Vänersborg;T4760;Brålanda;183;1521
+5;Östergötland;581;Norrköping;T1248;Skärblacka;418;4023
+5;Östergötland;581;Norrköping;T1018;Berga;20;275
+14;Västra Götaland;1439;Färgelanda;T5048;Stigen;82;463
+5;Östergötland;581;Norrköping;T1178;Marby och Marbystrand;64;255
+14;Västra Götaland;1439;Färgelanda;T4828;Färgelanda;263;1986
+14;Västra Götaland;1473;Töreboda;T5376;Moholm;103;647
+14;Västra Götaland;1435;Tanum;T4372;Hamburgsund;137;706
+5;Östergötland;581;Norrköping;T1144;Lindö;291;4763
+5;Östergötland;581;Norrköping;T1192;Norrköping;3668;93765
+5;Östergötland;583;Motala;T1204;Nykyrka;55;392
+14;Västra Götaland;1430;Munkedal;T4412;Hällevadsholm;116;816
+5;Östergötland;581;Norrköping;T1088;Herstadberg;28;236
+5;Östergötland;581;Norrköping;T1058;Djurön;55;235
+4;Södermanland;480;Nyköping;T0838;Skeppsvik och Sjöskogen;143;241
+14;Västra Götaland;1471;Götene;T5304;Hällekis;159;683
+4;Södermanland;480;Nyköping;T0816;Nävekvarn;112;779
+5;Östergötland;581;Norrköping;T1146;Kvarsebo och Säter;75;203
+14;Västra Götaland;1435;Tanum;T4344;Fjällbacka;167;850
+14;Västra Götaland;1446;Karlsborg;T5496;Undenäs;76;238
+14;Västra Götaland;1493;Mariestad;T5356;Lugnås;108;641
+5;Östergötland;581;Norrköping;T1276;Svärtinge;484;3326
+14;Västra Götaland;1435;Tanum;T4532;Rabbalshede;73;283
+4;Södermanland;480;Nyköping;T0728;Buskhyttan;58;210
+14;Västra Götaland;1493;Mariestad;T5488;Ullervad;124;885
+14;Västra Götaland;1439;Färgelanda;T4900;Högsäter;112;715
+14;Västra Götaland;1430;Munkedal;T4380;Hedekas;101;392
+5;Östergötland;562;Finspång;T1052;Falla;65;464
+5;Östergötland;581;Norrköping;T1324;Åby;533;6917
+5;Östergötland;583;Motala;T1322;Västanvik;146;201
+5;Östergötland;581;Norrköping;T1140;Krokek;579;5053
+4;Södermanland;481;Oxelösund;T0820;Oxelösund;1160;11157
+4;Södermanland;481;Oxelösund;T0778;Inskogen;21;228
+5;Östergötland;581;Norrköping;T1074;Graversfors;150;560
+5;Östergötland;562;Finspång;T1056;Finspång;798;12807
+5;Östergötland;562;Finspång;T1206;Butbro;40;290
+5;Östergötland;583;Motala;T1292;Tjällmo;77;518
+14;Västra Götaland;1473;Töreboda;T5484;Töreboda;410;4626
+5;Östergötland;562;Finspång;T1256;Sonstorp;73;436
+14;Västra Götaland;1461;Mellerud;T4952;Mellerud;319;3797
+5;Östergötland;562;Finspång;T1032;Borggård;47;237
+14;Västra Götaland;1493;Mariestad;T5372;Mariestad;1134;16122
+4;Södermanland;480;Nyköping;T0916;Ålberga;41;223
+4;Södermanland;480;Nyköping;T0854;Stavsjö;30;210
+5;Östergötland;562;Finspång;T1168;Lotorp;95;685
+5;Östergötland;562;Finspång;T1104;Hällestad;99;335
+4;Södermanland;480;Nyköping;T0702;Arnö;228;4124
+14;Västra Götaland;1461;Mellerud;T4776;Dals Rostock;143;882
+4;Södermanland;480;Nyköping;T0708;Bergshammar;65;801
+4;Södermanland;480;Nyköping;T0780;Jönåker;80;598
+4;Södermanland;480;Nyköping;T0876;Svalsta;80;1095
+18;Örebro;1882;Askersund;T6080;Olshammar;80;237
+4;Södermanland;480;Nyköping;T0736;Enstaberga;58;436
+14;Västra Götaland;1435;Tanum;T4356;Grebbestad;495;1877
+14;Västra Götaland;1435;Tanum;T4600;Tanumshede;207;1774
+5;Östergötland;562;Finspång;T1164;Ljusfallshammar;72;316
+5;Östergötland;581;Norrköping;T1232;Simonstorp;45;242
+4;Södermanland;480;Nyköping;T0812;Nyköping;1490;32224
+4;Södermanland;480;Nyköping;T0832;Sjösa;63;488
+5;Östergötland;562;Finspång;T1080;Grytgöl;86;290
+14;Västra Götaland;1493;Mariestad;T5364;Lyrestad;70;474
+18;Örebro;1882;Askersund;T6160;Zinkgruvan;181;316
+18;Örebro;1882;Askersund;T5968;Hammar;64;266
+4;Södermanland;480;Nyköping;T0856;Stigtomta;179;1949
+14;Västra Götaland;1473;Töreboda;T5536;Älgarås;93;373
+14;Västra Götaland;1461;Mellerud;T5144;Åsensbruk;172;746
+5;Östergötland;562;Finspång;T1216;Rejmyre;129;886
+14;Västra Götaland;1460;Bengtsfors;T4768;Bäckefors;139;709
+14;Västra Götaland;1493;Mariestad;T5412;Sjötorp;92;437
+4;Södermanland;483;Katrineholm;T0720;Björkvik;119;427
+5;Östergötland;562;Finspång;T1116;Igelfors;39;227
+14;Västra Götaland;1447;Gullspång;T5300;Hova;185;1254
+4;Södermanland;480;Nyköping;T0908;Vrena;110;630
+4;Södermanland;480;Nyköping;T0888;Tystberga;106;869
+18;Örebro;1882;Askersund;T6168;Åmmeberg;202;443
+4;Södermanland;480;Nyköping;T0828;Runtuna;44;247
+18;Örebro;1882;Askersund;T5904;Askersund;381;3997
+18;Örebro;1861;Hallsberg;T5984;Hjortkvarn;85;234
+4;Södermanland;488;Trosa;T0928;Öbolandet;172;244
+4;Södermanland;483;Katrineholm;T0864;Strångsjö;53;351
+4;Södermanland;482;Flen;T0712;Bettna;70;366
+1;Stockholm;192;Nynäshamn;T0386;Oxnö och Svärdsö;388;293
+18;Örebro;1882;Askersund;T6104;Rönneshytta;71;279
+18;Örebro;1860;Laxå;T5932;Finnerödja;112;575
+4;Södermanland;488;Trosa;T0910;Västerljung;42;377
+4;Södermanland;488;Trosa;T0884;Trosa;610;5836
+4;Södermanland;480;Nyköping;T0794;Kvegerö;210;209
+14;Västra Götaland;1438;Dals-Ed;T4796;Ed;350;2994
+1;Stockholm;192;Nynäshamn;T0264;Nynäshamn;711;14532
+14;Västra Götaland;1447;Gullspång;T5396;Otterbäcken;116;686
+4;Södermanland;483;Katrineholm;T0748;Forssjö;75;525
+14;Västra Götaland;1460;Bengtsfors;T4772;Dals Långed;210;1407
+14;Västra Götaland;1486;Strömstad;T4620;Stare;37;205
+4;Södermanland;488;Trosa;T0896;Vagnhärad;287;3397
+14;Västra Götaland;1486;Strömstad;T4556;Skee;115;736
+1;Stockholm;192;Nynäshamn;T0340;Stora Vika;51;695
+14;Västra Götaland;1447;Gullspång;T5268;Gullspång;307;1568
+1;Stockholm;192;Nynäshamn;T0254;Lidatorp och Klövsta;41;363
+18;Örebro;1860;Laxå;T6036;Laxå;419;3125
+4;Södermanland;488;Trosa;T0898;Sund;152;394
+14;Västra Götaland;1492;Åmål;T5096;Tösse;60;346
+18;Örebro;1882;Askersund;T6172;Åsbro;309;1321
+4;Södermanland;483;Katrineholm;T0784;Katrineholm;1179;23283
+4;Södermanland;428;Vingåker;T0704;Baggetorp;90;490
+14;Västra Götaland;1486;Strömstad;T4584;Strömstad;466;7176
+14;Västra Götaland;1486;Strömstad;T4439;Kebal;173;340
+14;Västra Götaland;1460;Bengtsfors;T4728;Billingsfors;160;1108
+14;Västra Götaland;1492;Åmål;T4800;Fengersfors;78;323
+1;Stockholm;192;Nynäshamn;T0420;Ösmo;210;3866
+4;Södermanland;483;Katrineholm;T0900;Valla;130;1485
+4;Södermanland;428;Vingåker;T0776;Högsjö;97;691
+18;Örebro;1861;Hallsberg;T6156;Vretstorp;161;852
+1;Stockholm;136;Haninge;T0238;Muskö;65;271
+4;Södermanland;483;Katrineholm;T0844;Sköldinge;115;685
+18;Örebro;1861;Hallsberg;T6192;Östansjö;149;869
+1;Stockholm;181;Södertälje;T0196;Hölö;168;1477
+4;Södermanland;428;Vingåker;T0802;Marmorbyn;53;372
+1;Stockholm;192;Nynäshamn;T0320;Sorunda;118;1272
+14;Västra Götaland;1460;Bengtsfors;T5040;Skåpafors;120;323
+1;Stockholm;192;Nynäshamn;T0330;Segersäng;83;757
+1;Stockholm;136;Haninge;T0258;Norra Muskö;456;218
+18;Örebro;1880;Örebro;T6012;Kilsmo;32;233
+1;Stockholm;192;Nynäshamn;T0226;Landfjärden;128;277
+4;Södermanland;428;Vingåker;T0904;Vingåker;411;4548
+18;Örebro;1861;Hallsberg;T6088;Pålsboda;157;1610
+14;Västra Götaland;1460;Bengtsfors;T4720;Bengtsfors;390;3125
+1;Stockholm;181;Södertälje;T0244;Mölnbo;151;1089
+4;Södermanland;461;Gnesta;T0752;Gnesta;385;5772
+4;Södermanland;482;Flen;T0836;Skebokvarn;65;207
+4;Södermanland;461;Gnesta;T0724;Björnlunda;116;838
+4;Södermanland;482;Flen;T0848;Sparreholm;114;734
+4;Södermanland;482;Flen;T0822;Orrhammar;110;270
+14;Västra Götaland;1492;Åmål;T5140;Åmål;736;9373
+4;Södermanland;483;Katrineholm;T0716;Bie;63;510
+1;Stockholm;181;Södertälje;T0344;Nibble;46;255
+1;Stockholm;192;Nynäshamn;T0364;Grödby;104;551
+18;Örebro;1861;Hallsberg;T5964;Hallsberg;960;8146
+18;Örebro;1860;Laxå;T5980;Hasselfors;97;421
+4;Södermanland;461;Gnesta;T0860;Stjärnhov;112;555
+1;Stockholm;136;Haninge;T0430;Gansta och Söderby;176;337
+4;Södermanland;482;Flen;T0804;Mellösa;82;505
+1;Stockholm;181;Södertälje;T0204;Järna;406;6038
+1;Stockholm;136;Haninge;T0434;Årsta Havsbad;145;389
+18;Örebro;1881;Kumla;T6164;Åbytorp;143;811
+18;Örebro;1862;Degerfors;T6140;Svartå;89;456
+4;Södermanland;428;Vingåker;T0808;Läppe;136;221
+1;Stockholm;181;Södertälje;T0428;Östra Kallfors;47;465
+1;Stockholm;181;Södertälje;T0444;Kallfors;55;563
+1;Stockholm;127;Botkyrka;T0298;Sibble;94;354
+18;Örebro;1861;Hallsberg;T6112;Sköllersta;147;1079
+18;Örebro;1880;Örebro;T5974;Hampetorp;134;306
+4;Södermanland;482;Flen;T0796;Malmköping;142;2106
+4;Södermanland;483;Katrineholm;T0924;Äsköping;51;326
+1;Stockholm;136;Haninge;T0402;Väländan;162;522
+18;Örebro;1880;Örebro;T5900;Askersby;60;249
+18;Örebro;1881;Kumla;T6020;Kumla;1121;16663
+18;Örebro;1814;Lekeberg;T6056;Mullhyttan;147;534
+17;Värmland;1785;Säffle;T5840;Säffle;801;9150
+17;Värmland;1781;Kristinehamn;T5624;Bäckhammar;83;296
+18;Örebro;1881;Kumla;T5920;Ekeby;99;461
+18;Örebro;1814;Lekeberg;T6026;Gropen;80;212
+1;Stockholm;136;Haninge;T0404;Västerhaninge;1036;17071
+4;Södermanland;482;Flen;T0768;Hälleforsnäs;216;1624
+18;Örebro;1880;Örebro;T6076;Odensbacken;157;1378
+1;Stockholm;181;Södertälje;T0272;Pershagen;106;2235
+18;Örebro;1814;Lekeberg;T5936;Fjugesta;210;2160
+1;Stockholm;136;Haninge;T0200;Jordbro;478;10757
+1;Stockholm;126;Huddinge;T0406;Östorp och Ådran;112;242
+1;Stockholm;127;Botkyrka;T0396;Vårsta;149;2470
+17;Värmland;1785;Säffle;T5832;Svanskog;134;485
+1;Stockholm;136;Haninge;T0132;Dalarö;615;1849
+1;Stockholm;140;Nykvarn;T0260;Nykvarn;560;7327
+18;Örebro;1880;Örebro;T6116;Stora Mellösa;102;801
+1;Stockholm;127;Botkyrka;T0282;Norra Riksten;56;2044
+1;Stockholm;126;Huddinge;T0178;Gladö kvarn;141;640
+18;Örebro;1880;Örebro;T6064;Norra Bro;147;880
+1;Stockholm;126;Huddinge;T0394;Vidja;190;741
+1;Stockholm;140;Nykvarn;T0158;Finkarby;57;220
+1;Stockholm;127;Botkyrka;T0372;Tumba;1944;40832
+17;Värmland;1781;Kristinehamn;T5612;Björneborg;144;1237
+1;Stockholm;181;Södertälje;T0356;Södertälje;2797;70777
+1;Stockholm;140;Nykvarn;T0382;Stensättra tomtområde;90;236
+18;Örebro;1862;Degerfors;T5916;Degerfors;788;7190
+4;Södermanland;484;Eskilstuna;T0730;Bälgviken;39;226
+18;Örebro;1814;Lekeberg;T6152;Vintrosa;424;2285
+18;Örebro;1880;Örebro;T5924;Ekeby-Almby;200;1531
+4;Södermanland;486;Strängnäs;T0798;Marielund;36;532
+1;Stockholm;181;Södertälje;T0398;Viksäter och Viksberg;151;859
+1;Stockholm;181;Södertälje;T0390;Vattubrinken;94;356
+1;Stockholm;181;Södertälje;T0148;Ekeby;66;990
+18;Örebro;1880;Örebro;T6032;Latorpsbruk;123;727
+1;Stockholm;181;Södertälje;T0374;Tuna;90;404
+4;Södermanland;484;Eskilstuna;T0700;Alberga;59;405
+1;Stockholm;120;Värmdö;T0234;Långvik;301;1206
+1;Stockholm;120;Värmdö;T0118;Grönskan, Vedhamn och Baldersnäs;188;265
+4;Södermanland;486;Strängnäs;T0782;Kalkudden;181;278
+4;Södermanland;486;Strängnäs;T0912;Åkers styckebruk;280;2980
+4;Södermanland;486;Strängnäs;T0800;Mariefred;271;3911
+17;Värmland;1764;Grums;T5796;Segmon;87;416
+1;Stockholm;181;Södertälje;T0310;Sandviken;151;418
+4;Södermanland;486;Strängnäs;T0806;Merlänna;52;383
+4;Södermanland;484;Eskilstuna;T0920;Ärla;145;1272
+1;Stockholm;125;Ekerö;T0246;Lurudden;57;223
+4;Södermanland;484;Eskilstuna;T0756;Hållsta;100;917
+1;Stockholm;120;Värmdö;T0314;Lugnet och Skälsmara;384;723
+1;Stockholm;125;Ekerö;T0151;Ekerö sommarstad;94;616
+18;Örebro;1880;Örebro;T5944;Garphyttan;173;1613
+1;Stockholm;182;Nacka;T0436;Älgö;202;908
+1;Stockholm;125;Ekerö;T0182;Parksidan och Solsidan;63;944
+1;Stockholm;125;Ekerö;T0414;Älvnäs;57;753
+18;Örebro;1883;Karlskoga;T6146;Valåsen och Labbsand;143;321
+18;Örebro;1880;Örebro;T5948;Glanshammar;112;778
+1;Stockholm;125;Ekerö;T0150;Ekerö;596;11505
+1;Stockholm;125;Ekerö;T0266;Sundby;70;349
+17;Värmland;1761;Hammarö;T5790;Rud;69;217
+1;Stockholm;120;Värmdö;T0166;Fågelvikshöjden;580;2302
+4;Södermanland;484;Eskilstuna;T0760;Hällberga;65;618
+18;Örebro;1880;Örebro;T6188;Örebro;5064;115765
+1;Stockholm;120;Värmdö;T0198;Norra Ingaröstrand och Skälsmara;454;791
+1;Stockholm;182;Nacka;T0156;Fisksätra;97;8117
+1;Stockholm;120;Värmdö;T0120;Brunn;198;1180
+1;Stockholm;182;Nacka;T0296;Saltsjöbaden;524;9477
+1;Stockholm;182;Nacka;T0192;Hästhagen;37;529
+17;Värmland;1764;Grums;T5810;Slottsbron;142;1010
+17;Värmland;1781;Kristinehamn;T5720;Kristinehamn;1401;18557
+1;Stockholm;120;Värmdö;T0324;Stavsnäs;981;1784
+17;Värmland;1761;Hammarö;T5862;Vidöåsen;25;277
+18;Örebro;1880;Örebro;T5988;Hovsta;158;2831
+1;Stockholm;120;Värmdö;T0342;Strömma;710;2468
+19;Västmanland;1984;Arboga;T6220;Götlunda;45;265
+1;Stockholm;125;Ekerö;T0378;Tureholm;251;799
+17;Värmland;1761;Hammarö;T5804;Skoghall;1119;13605
+1;Stockholm;125;Ekerö;T0140;Drottningholm;47;348
+17;Värmland;1761;Hammarö;T5850;Tye;85;247
+17;Värmland;1781;Kristinehamn;T5888;Ölme;38;218
+1;Stockholm;125;Ekerö;T0328;Stenhamra;343;3588
+18;Örebro;1883;Karlskoga;T6008;Karlskoga;2031;27490
+1;Stockholm;120;Värmdö;T0438;Älvsala;457;597
+1;Stockholm;120;Värmdö;T0122;Betsede;55;278
+4;Södermanland;486;Strängnäs;T0772;Härad;60;508
+1;Stockholm;182;Nacka;T0212;Kil;90;861
+17;Värmland;1764;Grums;T5676;Grums;511;5040
+4;Södermanland;486;Strängnäs;T0852;Stallarholmen;222;1671
+17;Värmland;1780;Karlstad;T5872;Väse;71;519
+4;Södermanland;486;Strängnäs;T0890;Husby och Tuna;161;270
+18;Örebro;1880;Örebro;T6184;Ölmbrotorp;63;543
+1;Stockholm;120;Värmdö;T0214;Kopparmora;701;2280
+4;Södermanland;486;Strängnäs;T0868;Strängnäs;719;13693
+1;Stockholm;120;Värmdö;T0136;Djurö;627;1442
+1;Stockholm;120;Värmdö;T0250;Norra Lagnö;95;333
+1;Stockholm;120;Värmdö;T0370;Koviksudde och Skeviksstrand;92;290
+4;Södermanland;484;Eskilstuna;T0740;Eskilstuna;2980;67359
+4;Södermanland;484;Eskilstuna;T0788;Kjulaås;115;915
+1;Stockholm;120;Värmdö;T0418;Ängsvik;74;447
+4;Södermanland;484;Eskilstuna;T0842;Skiftinge;190;4983
+17;Värmland;1780;Karlstad;T5596;Alster;137;756
+4;Södermanland;484;Eskilstuna;T0764;Hällbybrunn;286;3323
+1;Stockholm;125;Ekerö;T0362;Söderby;73;287
+1;Stockholm;162;Danderyd;T0368;Tranholmen;39;384
+4;Södermanland;486;Strängnäs;T0699;Abborrberget;154;2324
+17;Värmland;1780;Karlstad;T5766;Norsbron;52;211
+19;Västmanland;1984;Arboga;T6200;Arboga;774;10841
+1;Stockholm;120;Värmdö;T0172;Gustavsberg;1404;20774
+1;Stockholm;125;Ekerö;T0230;Lilla Stenby;93;284
+4;Södermanland;486;Strängnäs;T0902;Vansö kyrkby;29;202
+17;Värmland;1780;Karlstad;T5864;Vålberg;322;2848
+1;Stockholm;125;Ekerö;T0210;Hilleshögby;76;217
+17;Värmland;1780;Karlstad;T5800;Skattkärr;170;1979
+1;Stockholm;120;Värmdö;T0440;Norra Vindö;495;253
+1;Stockholm;186;Lidingö;T0332;Sticklinge udde;127;3037
+17;Värmland;1780;Karlstad;T5794;Älvåker och Råtorp;126;3287
+17;Värmland;1780;Karlstad;T5704;Karlstad;2901;61492
+17;Värmland;1765;Årjäng;T5884;Årjäng;455;3302
+1;Stockholm;187;Vaxholm;T0432;Tynningö;463;380
+19;Västmanland;1960;Kungsör;T6256;Kungsör;512;5885
+17;Värmland;1760;Storfors;T5722;Kyrksten;32;237
+1;Stockholm;125;Ekerö;T0218;Kungsberga;180;708
+4;Södermanland;484;Eskilstuna;T0886;Tumbo;64;321
+4;Södermanland;484;Eskilstuna;T0892;Udden;120;259
+1;Stockholm;125;Ekerö;T0424;Ölsta;239;652
+1;Stockholm;187;Vaxholm;T0268;Rindö;164;1100
+19;Västmanland;1960;Kungsör;T6360;Valskog;78;693
+1;Stockholm;187;Vaxholm;T0392;Vaxholm;181;4849
+18;Örebro;1885;Lindesberg;T5928;Fellingsbro;215;1475
+4;Södermanland;486;Strängnäs;T0722;Björktorp och Sanda;170;433
+17;Värmland;1780;Karlstad;T5652;Edsvalla;81;720
+1;Stockholm;187;Vaxholm;T0222;Kullö;41;904
+19;Västmanland;1984;Arboga;T6272;Medåker;50;212
+17;Värmland;1780;Karlstad;T5648;Edsgatan och Långenäs;105;346
+1;Stockholm;187;Vaxholm;T0446;Skarpö;103;290
+4;Södermanland;484;Eskilstuna;T0786;Kullersta, Kolsta och Hensta;248;320
+17;Värmland;1780;Karlstad;T5654;Edsvalla Övre bruket;33;237
+4;Södermanland;484;Eskilstuna;T0870;Sundbyholm;263;868
+17;Värmland;1780;Karlstad;T5808;Skåre;411;5444
+4;Södermanland;484;Eskilstuna;T0880;Torshälla;918;8928
+1;Stockholm;187;Vaxholm;T0276;Resarö;349;3249
+17;Värmland;1780;Karlstad;T5860;Vallargärdet;140;648
+19;Västmanland;1980;Västerås;T0792;Kvicksund;467;2179
+1;Stockholm;117;Österåker;T0350;Svinninge;571;2136
+1;Stockholm;117;Österåker;T0292;Rydbo;41;597
+17;Värmland;1715;Kil;T5814;Östra Stenåsen;27;493
+1;Stockholm;160;Täby;T0114;Arninge;129;295
+18;Örebro;1884;Nora;T5960;Gyttorp;133;671
+1;Stockholm;117;Österåker;T0290;Täljö;108;410
+1;Stockholm;139;Upplands-Bro;T0220;Kungsängen;435;10151
+17;Värmland;1763;Forshaga;T5634;Dyvelsten;46;241
+19;Västmanland;1980;Västerås;T6342;Tidö-Lindö;108;675
+1;Stockholm;139;Upplands-Bro;T0286;Rättarboda;46;313
+18;Örebro;1885;Lindesberg;T6096;Rockhammar;67;265
+18;Örebro;1884;Nora;T6176;Ås;72;494
+19;Västmanland;1983;Köping;T6268;Köping;1015;18355
+18;Örebro;1885;Lindesberg;T6148;Vedevåg;142;753
+17;Värmland;1715;Kil;T5656;Fagerås;72;449
+1;Stockholm;117;Österåker;T0448;Spånlöt;23;480
+18;Örebro;1884;Nora;T6060;Nora;601;6597
+1;Stockholm;117;Österåker;T0326;Stava;111;347
+1;Stockholm;139;Upplands-Bro;T0124;Brunna;224;3948
+19;Västmanland;1961;Hallstahammar;T6328;Strömsholm;133;676
+1;Stockholm;117;Österåker;T0270;Laggarsvik och Linanäs;387;303
+1;Stockholm;117;Österåker;T0306;Nyhagen och Översättra;76;619
+19;Västmanland;1983;Köping;T6280;Munktorp;95;453
+19;Västmanland;1980;Västerås;T6260;Harkie;119;277
+18;Örebro;1884;Nora;T6124;Striberg;66;312
+17;Värmland;1760;Storfors;T5812;Storfors;290;2218
+1;Stockholm;139;Upplands-Bro;T0112;Bro;364;8266
+1;Stockholm;117;Österåker;T0302;Solberga;113;427
+1;Stockholm;117;Österåker;T0408;Åkersberga;2460;32659
+17;Värmland;1765;Årjäng;T5848;Töcksfors;249;1221
+17;Värmland;1715;Kil;T5708;Kil;785;7627
+17;Värmland;1763;Forshaga;T5664;Forshaga;555;6361
+17;Värmland;1784;Arvika;T5712;Klässbol;93;310
+19;Västmanland;1980;Västerås;T6270;Malmen;47;305
+3;Uppsala;305;Håbo;T0618;Råby;104;924
+19;Västmanland;1980;Västerås;T6204;Barkarö;143;1404
+1;Stockholm;163;Sollentuna;T0384;Upplands Väsby och Sollentuna;4546;139606
+19;Västmanland;1980;Västerås;T6382;Örtagården;42;474
+3;Uppsala;305;Håbo;T0522;Vibyäng;18;311
+19;Västmanland;1961;Hallstahammar;T6244;Kolbäck;213;2034
+1;Stockholm;114;Upplands Väsby;T0236;Löwenströmska lasarettet;68;636
+3;Uppsala;381;Enköping;T0588;Lillkyrka;43;303
+17;Värmland;1784;Arvika;T5672;Glava;95;207
+1;Stockholm;117;Österåker;T0334;Nolsjö och Mellansjö;144;354
+19;Västmanland;1980;Västerås;T6208;Dingtuna;103;1021
+1;Stockholm;117;Österåker;T0102;Bammarboda;308;647
+17;Värmland;1715;Kil;T5730;Högboda;118;334
+1;Stockholm;115;Vallentuna;T0202;Johannesudd;16;281
+19;Västmanland;1961;Hallstahammar;T6340;Sörstafors;41;270
+1;Stockholm;115;Vallentuna;T0388;Vallentuna;1700;31937
+3;Uppsala;305;Håbo;T0630;Skörby;67;1220
+1;Stockholm;115;Vallentuna;T0208;Karby;55;853
+1;Stockholm;115;Vallentuna;T0116;Brottby;37;224
+3;Uppsala;305;Håbo;T0520;Bålsta;1022;13138
+19;Västmanland;1983;Köping;T6248;Kolsva;282;2440
+1;Stockholm;139;Upplands-Bro;T0190;Håbo-Tibble kyrkby;162;657
+17;Värmland;1780;Karlstad;T5756;Molkom;250;1896
+17;Värmland;1780;Karlstad;T5616;Blombacka;99;204
+1;Stockholm;191;Sigtuna;T0284;Rosersberg;268;1765
+3;Uppsala;381;Enköping;T0612;Bredsand;213;874
+19;Västmanland;1980;Västerås;T6356;Irsta;199;2809
+3;Uppsala;381;Enköping;T0558;Haga;34;235
+17;Värmland;1763;Forshaga;T5632;Deje;318;2702
+17;Värmland;1782;Filipstad;T5772;Nykroppa;190;788
+1;Stockholm;115;Vallentuna;T0232;Lindholmen;123;1146
+19;Västmanland;1961;Hallstahammar;T6224;Hallstahammar;822;10787
+3;Uppsala;381;Enköping;T0564;Hummelsta;76;994
+3;Uppsala;305;Håbo;T0584;Krägga;121;525
+3;Uppsala;381;Enköping;T0544;Grillby;112;1028
+18;Örebro;1885;Lindesberg;T5956;Gusselby;81;292
+1;Stockholm;191;Sigtuna;T0300;Sigtuna;532;9074
+17;Värmland;1784;Arvika;T5640;Edane;174;666
+1;Stockholm;191;Sigtuna;T0380;Ölsta och Steningehöjden;39;1130
+19;Västmanland;1980;Västerås;T6376;Västerås;4807;117746
+1;Stockholm;115;Vallentuna;T0142;Ekskogen, Älgeby och Långsjötorp;215;333
+1;Stockholm;191;Sigtuna;T0240;Märsta;668;27034
+3;Uppsala;381;Enköping;T0532;Enköping;1050;22553
+1;Stockholm;188;Norrtälje;T0400;Sättra;177;336
+1;Stockholm;115;Vallentuna;T0146;Ekskogen;60;277
+1;Stockholm;191;Sigtuna;T0188;Granby;48;240
+3;Uppsala;305;Håbo;T0570;Häggeby och Vreta;87;261
+17;Värmland;1784;Arvika;T5786;Prästängen;28;445
+19;Västmanland;1980;Västerås;T6348;Tortuna;57;420
+19;Västmanland;1980;Västerås;T6236;Hökåsen;180;2986
+19;Västmanland;1980;Västerås;T6266;Kärsta och Bredsdal;22;235
+1;Stockholm;188;Norrtälje;T0278;Riala;123;329
+1;Stockholm;188;Norrtälje;T0100;Bergshamra;254;572
+1;Stockholm;188;Norrtälje;T0442;Hästängen och Mora;230;690
+1;Stockholm;188;Norrtälje;T0126;Blidö;496;266
+1;Stockholm;115;Vallentuna;T0224;Kårsta;71;502
+19;Västmanland;1980;Västerås;T6344;Tillberga;163;2151
+17;Värmland;1784;Arvika;T5700;Jössefors;132;711
+19;Västmanland;1980;Västerås;T6262;Lycksta;34;206
+3;Uppsala;305;Håbo;T0638;Söderskogen;53;378
+17;Värmland;1784;Arvika;T5604;Arvika;1079;13926
+17;Värmland;1784;Arvika;T5820;Sulvik;125;375
+18;Örebro;1863;Hällefors;T5952;Grythyttan;139;859
+18;Örebro;1885;Lindesberg;T6120;Storå;476;1967
+3;Uppsala;305;Håbo;T0626;Slottsskogen;165;1506
+17;Värmland;1782;Filipstad;T5660;Filipstad;592;6119
+19;Västmanland;1907;Surahammar;T6332;Surahammar;497;6270
+19;Västmanland;1980;Västerås;T6324;Skultuna;206;3378
+3;Uppsala;330;Knivsta;T0658;Edeby;56;243
+18;Örebro;1885;Lindesberg;T6128;Stråssa;54;288
+17;Värmland;1730;Eda;T5716;Koppom;234;669
+17;Värmland;1766;Sunne;T5876;Västra Ämtervik;143;382
+17;Värmland;1782;Filipstad;T5784;Persberg;71;249
+19;Västmanland;1980;Västerås;T6278;Munga;99;241
+3;Uppsala;381;Enköping;T0680;Örsundsbro;136;1302
+3;Uppsala;381;Enköping;T0682;Örsundsbro norra;36;577
+3;Uppsala;330;Knivsta;T0576;Knivsta;416;7977
+1;Stockholm;188;Norrtälje;T0322;Spillersboda;404;480
+18;Örebro;1885;Lindesberg;T6092;Ramsberg;113;203
+1;Stockholm;188;Norrtälje;T0164;Finsta;44;239
+19;Västmanland;1907;Surahammar;T6296;Ramnäs;163;1333
+3;Uppsala;381;Enköping;T0536;Fjärdhundra;112;907
+3;Uppsala;330;Knivsta;T0504;Alsike;310;3833
+1;Stockholm;188;Norrtälje;T0280;Rimbo;345;4882
+17;Värmland;1730;Eda;T5880;Åmotfors;207;1347
+18;Örebro;1863;Hällefors;T5996;Hällefors;534;4449
+19;Västmanland;1904;Skinnskatteberg;T6304;Riddarhyttan;75;321
+17;Värmland;1766;Sunne;T5788;Rottneros;120;445
+1;Stockholm;188;Norrtälje;T0354;Södersvik;242;352
+19;Västmanland;1981;Sala;T6300;Ransta;110;850
+3;Uppsala;380;Uppsala;T0666;Vårdsätra;40;266
+3;Uppsala;380;Uppsala;T0606;Ramstalund;30;342
+1;Stockholm;188;Norrtälje;T0206;Nabbo, Gräddö och Rävsnäs;592;556
+1;Stockholm;188;Norrtälje;T0252;Norrtälje;995;19365
+19;Västmanland;1904;Skinnskatteberg;T6320;Skinnskatteberg;270;2383
+17;Värmland;1784;Arvika;T5680;Gunnarskog;73;275
+1;Stockholm;188;Norrtälje;T0294;Rånäs;48;428
+3;Uppsala;380;Uppsala;T0654;Ultuna;120;455
+3;Uppsala;380;Uppsala;T0632;Sävja;388;9723
+17;Värmland;1762;Munkfors;T5760;Munkfors;603;2834
+3;Uppsala;380;Uppsala;T0566;Håga;30;319
+3;Uppsala;380;Uppsala;T0530;Danmark;54;453
+17;Värmland;1766;Sunne;T5824;Sunne;518;5026
+19;Västmanland;1981;Sala;T6336;Sätra brunn;80;329
+1;Stockholm;188;Norrtälje;T0346;Nysättra;139;255
+19;Västmanland;1907;Surahammar;T6364;Virsbo;123;1329
+3;Uppsala;380;Uppsala;T0516;Vänge;90;1320
+3;Uppsala;380;Uppsala;T0548;Gunsta;92;611
+3;Uppsala;380;Uppsala;T0598;Selknä och Marielund;128;314
+18;Örebro;1864;Ljusnarsberg;T6016;Kopparberg;506;3065
+3;Uppsala;380;Uppsala;T0538;Funbo;99;326
+3;Uppsala;380;Uppsala;T0526;Bärby;56;347
+1;Stockholm;188;Norrtälje;T0348;Svanberga;93;524
+3;Uppsala;380;Uppsala;T0568;Järlåsa;76;515
+3;Uppsala;380;Uppsala;T0622;Skölsta;51;368
+17;Värmland;1783;Hagfors;T5828;Sunnemo;118;276
+17;Värmland;1783;Hagfors;T5752;Mjönäs;122;257
+3;Uppsala;380;Uppsala;T0500;Almunge;105;816
+17;Värmland;1730;Eda;T5628;Charlottenberg;276;2368
+3;Uppsala;380;Uppsala;T0656;Uppsala;4374;149245
+3;Uppsala;331;Heby;T6368;Vittinge;132;566
+19;Västmanland;1981;Sala;T6316;Salbohed;75;255
+3;Uppsala;380;Uppsala;T0514;Jälla;98;933
+1;Stockholm;188;Norrtälje;T0144;Edsbro;151;578
+18;Örebro;1864;Ljusnarsberg;T6136;Ställdalen;179;481
+1;Stockholm;188;Norrtälje;T0352;Söderby-Karl;86;268
+3;Uppsala;380;Uppsala;T0580;Knutby;122;705
+17;Värmland;1730;Eda;T5636;Eda Glasbruk;90;215
+3;Uppsala;331;Heby;T6276;Morgongåva;148;1441
+19;Västmanland;1981;Sala;T6372;Västerfärnebo;105;533
+19;Västmanland;1981;Sala;T6312;Sala;1166;13087
+17;Värmland;1766;Sunne;T5856;Uddheden;76;266
+19;Västmanland;1982;Fagersta;T6234;Hedkärra;55;201
+3;Uppsala;331;Heby;T6232;Heby;370;2724
+3;Uppsala;380;Uppsala;T0524;Bälinge;156;2406
+3;Uppsala;380;Uppsala;T0556;Gåvsta;55;539
+3;Uppsala;380;Uppsala;T0596;Lövstalöt;92;1399
+17;Värmland;1782;Filipstad;T5732;Lesjöfors;176;948
+3;Uppsala;380;Uppsala;T0650;Blackstalund;67;203
+3;Uppsala;380;Uppsala;T0628;Storvreta;314;6340
+17;Värmland;1783;Hagfors;T5792;Råda;105;449
+1;Stockholm;188;Norrtälje;T0308;Skebobruk;92;276
+19;Västmanland;1982;Fagersta;T6212;Fagersta;860;11936
+20;Dalarna;2061;Smedjebacken;T6820;Vad;86;291
+1;Stockholm;188;Norrtälje;T0412;Älmsta;226;1376
+17;Värmland;1766;Sunne;T5744;Lysvik;91;326
+17;Värmland;1783;Hagfors;T5852;Uddeholm;144;619
+3;Uppsala;380;Uppsala;T0660;Vattholma;113;1410
+20;Dalarna;2085;Ludvika;T6586;Sandudden och Hörks hage;60;206
+3;Uppsala;380;Uppsala;T0512;Björklinge;304;3322
+3;Uppsala;382;Östhammar;T0614;Skoby;59;239
+20;Dalarna;2085;Ludvika;T6554;Grängesberg västra;154;1022
+20;Dalarna;2061;Smedjebacken;T6796;Söderbärke;302;973
+20;Dalarna;2085;Ludvika;T6556;Grängesberg;249;2146
+19;Västmanland;1981;Sala;T6284;Möklinta;86;327
+3;Uppsala;382;Östhammar;T0508;Alunda;296;2506
+3;Uppsala;380;Uppsala;T0620;Skyttorp;102;636
+19;Västmanland;1962;Norberg;T6292;Norberg;675;4653
+3;Uppsala;380;Uppsala;T0590;Läby;35;231
+1;Stockholm;188;Norrtälje;T0176;Hallstavik;496;4536
+20;Dalarna;2061;Smedjebacken;T6566;Hagge;46;297
+17;Värmland;1783;Hagfors;T5608;Bergsäng;76;203
+20;Dalarna;2085;Ludvika;T6432;Blötberget;57;259
+3;Uppsala;331;Heby;T6228;Harbo;124;714
+20;Dalarna;2085;Ludvika;T6512;Fredriksberg västra;75;297
+20;Dalarna;2084;Avesta;T6602;Krylbo och Karlbo;407;4072
+20;Dalarna;2085;Ludvika;T6514;Fredriksberg östra;66;283
+20;Dalarna;2085;Ludvika;T6544;Gonäs;122;341
+20;Dalarna;2085;Ludvika;T6720;Saxdalen;181;620
+20;Dalarna;2084;Avesta;T6664;Nordanö;47;426
+17;Värmland;1737;Torsby;T5780;Oleby;126;367
+20;Dalarna;2085;Ludvika;T6624;Ludvika;1114;15245
+20;Dalarna;2061;Smedjebacken;T6744;Smedjebacken;785;5258
+1;Stockholm;188;Norrtälje;T0168;Grisslehamn;447;418
+20;Dalarna;2084;Avesta;T6462;Folkärna;148;268
+20;Dalarna;2084;Avesta;T6404;Avesta;1077;11949
+17;Värmland;1737;Torsby;T5844;Torsby;713;4419
+3;Uppsala;331;Heby;T6352;Tärnsjö;174;1174
+20;Dalarna;2061;Smedjebacken;T6558;Gubbo;74;200
+20;Dalarna;2085;Ludvika;T6580;Håksberg;67;449
+1;Stockholm;188;Norrtälje;T0184;Herräng;187;377
+17;Värmland;1783;Hagfors;T5724;Ekshärad;158;1020
+20;Dalarna;2084;Avesta;T6684;Näs bruk;73;207
+3;Uppsala;331;Heby;T6384;Östervåla;214;1696
+20;Dalarna;2085;Ludvika;T6804;Sörvik;132;699
+3;Uppsala;382;Östhammar;T0560;Hargshamn;104;289
+3;Uppsala;382;Östhammar;T0540;Gimo;331;2698
+20;Dalarna;2085;Ludvika;T6772;Sunnansjö;174;614
+20;Dalarna;2084;Avesta;T6508;Fors;144;772
+3;Uppsala;382;Östhammar;T0684;Österbybruk;277;2331
+3;Uppsala;382;Östhammar;T0528;Dannemora;68;214
+3;Uppsala;360;Tierp;T0608;Månkarbo;102;671
+3;Uppsala;360;Tierp;T0652;Upplanda;75;222
+3;Uppsala;360;Tierp;T0672;Örbyhus;164;2025
+20;Dalarna;2085;Ludvika;T6842;Norrbo och Västansjö;212;290
+3;Uppsala;360;Tierp;T0648;Tobo;102;610
+20;Dalarna;2085;Ludvika;T6676;Nyhammar;245;1052
+20;Dalarna;2083;Hedemora;T6572;Hedemora;582;7371
+20;Dalarna;2083;Hedemora;T6852;Vikmanshyttan;146;840
+20;Dalarna;2084;Avesta;T6576;Horndal;268;1120
+20;Dalarna;2083;Hedemora;T6880;Västerby;71;383
+3;Uppsala;382;Östhammar;T0688;Östhammar;489;4726
+20;Dalarna;2083;Hedemora;T6532;Garpenberg;120;515
+21;Gävleborg;2181;Sandviken;T7384;Österfärnebo;137;470
+20;Dalarna;2082;Säter;T6792;Säter;418;4613
+3;Uppsala;382;Östhammar;T0676;Öregrund;427;1589
+20;Dalarna;2081;Borlänge;T6588;Idkerberget;77;252
+3;Uppsala;360;Tierp;T0640;Tierp;442;5826
+20;Dalarna;2082;Säter;T6752;Solvarbo;70;301
+3;Uppsala;360;Tierp;T0636;Söderfors;225;1704
+20;Dalarna;2082;Säter;T6764;Skedvi kyrkby;77;407
+20;Dalarna;2081;Borlänge;T6568;Halvarsgårdarna;72;317
+20;Dalarna;2082;Säter;T6492;Enbacka och Mora;288;1899
+21;Gävleborg;2180;Gävle;T7104;Hedesunda;185;1067
+17;Värmland;1737;Torsby;T5816;Stöllet;76;233
+21;Gävleborg;2180;Gävle;T7014;Berg;118;324
+20;Dalarna;2081;Borlänge;T6706;Romme;444;1735
+20;Dalarna;2083;Hedemora;T6632;Långshyttan;291;1609
+20;Dalarna;2021;Vansbro;T6680;Nås;112;205
+20;Dalarna;2026;Gagnef;T6428;Björbo;193;658
+20;Dalarna;2021;Vansbro;T6682;Heden och Skansbacken;205;342
+3;Uppsala;360;Tierp;T0604;Mehedeby;64;430
+20;Dalarna;2081;Borlänge;T6806;Torsång;120;712
+20;Dalarna;2021;Vansbro;T6900;Äppelbo;287;490
+3;Uppsala;360;Tierp;T0624;Skärplinge;110;720
+20;Dalarna;2026;Gagnef;T6644;Mockfjärd;379;1920
+20;Dalarna;2081;Borlänge;T6692;Ornäs;123;1083
+20;Dalarna;2026;Gagnef;T6460;Floda / Dala-Floda;234;701
+3;Uppsala;319;Älvkarleby;T0600;Marma;50;324
+20;Dalarna;2081;Borlänge;T6704;Repbäcken;87;233
+21;Gävleborg;2104;Hofors;T7332;Torsåker;117;848
+20;Dalarna;2080;Falun;T6840;Vika;99;582
+20;Dalarna;2021;Vansbro;T6828;Vansbro;351;2042
+20;Dalarna;2081;Borlänge;T6666;Norr Amsberg;70;238
+20;Dalarna;2081;Borlänge;T6444;Borlänge;3148;41955
+21;Gävleborg;2181;Sandviken;T7376;Årsunda;144;1012
+20;Dalarna;2026;Gagnef;T6456;Bäsna;149;655
+3;Uppsala;360;Tierp;T0572;Karlholmsbruk;285;1193
+21;Gävleborg;2181;Sandviken;T7084;Hammarby;104;533
+20;Dalarna;2021;Vansbro;T6468;Järna;628;1725
+3;Uppsala;319;Älvkarleby;T0670;Älvkarleö;73;214
+21;Gävleborg;2104;Hofors;T7112;Hofors;631;6090
+20;Dalarna;2026;Gagnef;T6484;Djurås;387;2128
+20;Dalarna;2026;Gagnef;T6728;Sifferbo;79;406
+20;Dalarna;2080;Falun;T6408;Aspeboda;106;219
+21;Gävleborg;2104;Hofors;T7254;Robertsholm;49;415
+20;Dalarna;2021;Vansbro;T6738;Skålö;246;340
+3;Uppsala;319;Älvkarleby;T0664;Älvkarleby;251;1517
+21;Gävleborg;2181;Sandviken;T7296;Storvik;273;2202
+20;Dalarna;2080;Falun;T6458;Gamla Berget och Korsgården;173;988
+20;Dalarna;2026;Gagnef;T6528;Gagnef;367;1199
+21;Gävleborg;2181;Sandviken;T7364;Västerberg;75;228
+21;Gävleborg;2181;Sandviken;T7110;Hillsta och Se;69;277
+20;Dalarna;2029;Leksand;T6476;Djura;125;387
+21;Gävleborg;2181;Sandviken;T7168;Kungsgården;154;775
+20;Dalarna;2080;Falun;T6472;Danholn;80;466
+21;Gävleborg;2180;Gävle;T7052;Forsbacka;188;1754
+21;Gävleborg;2180;Gävle;T7308;Sälgsjön;33;214
+20;Dalarna;2080;Falun;T6766;Stennäset;56;653
+3;Uppsala;319;Älvkarleby;T0552;Gårdskär;122;354
+21;Gävleborg;2180;Gävle;T7388;Överhärde;125;553
+20;Dalarna;2080;Falun;T6430;Karlsbyheden och Blixbo;128;338
+21;Gävleborg;2181;Sandviken;T7380;Åshammar;83;535
+21;Gävleborg;2181;Sandviken;T7272;Sandviken;1759;24724
+20;Dalarna;2080;Falun;T6768;Sundborn;194;923
+20;Dalarna;2080;Falun;T6504;Falun;2516;37000
+3;Uppsala;319;Älvkarleby;T0616;Skutskär;802;6279
+21;Gävleborg;2181;Sandviken;T7140;Jäderfors;63;307
+21;Gävleborg;2180;Gävle;T7060;Furuvik;143;697
+21;Gävleborg;2180;Gävle;T7344;Valbo;850;7147
+20;Dalarna;2029;Leksand;T6596;Insjön;368;2141
+20;Dalarna;2080;Falun;T6552;Grycksbo;294;1870
+20;Dalarna;2029;Leksand;T6584;Häradsbygden;201;696
+20;Dalarna;2023;Malung-Sälen;T6636;Malung;1047;4927
+20;Dalarna;2080;Falun;T6780;Sågmyra;171;552
+21;Gävleborg;2180;Gävle;T7170;Lindbacka, Jonstorp och Källhagen;56;445
+20;Dalarna;2080;Falun;T6412;Bengtsheden;178;537
+20;Dalarna;2080;Falun;T6814;Toftbyn;153;305
+21;Gävleborg;2181;Sandviken;T7148;Järbo;293;1813
+20;Dalarna;2029;Leksand;T6872;Västanvik;236;472
+20;Dalarna;2023;Malung-Sälen;T6640;Malungsfors;276;574
+20;Dalarna;2080;Falun;T6424;Bjursås;467;1968
+21;Gävleborg;2180;Gävle;T7076;Gävle;3974;74884
+20;Dalarna;2029;Leksand;T6608;Leksand;947;6107
+20;Dalarna;2080;Falun;T6776;Svärdsjö;227;1335
+17;Värmland;1737;Torsby;T5836;Sysslebäck;181;473
+21;Gävleborg;2180;Gävle;T7038;Bönan;304;859
+20;Dalarna;2029;Leksand;T6402;Alvik;172;304
+21;Gävleborg;2180;Gävle;T7368;Åbyggeby;234;951
+20;Dalarna;2029;Leksand;T6732;Siljansnäs;466;1274
+21;Gävleborg;2180;Gävle;T7028;Björke;141;661
+21;Gävleborg;2180;Gävle;T7346;Harkskär och Utvalnäs;146;411
+20;Dalarna;2080;Falun;T6620;Linghed;175;529
+20;Dalarna;2029;Leksand;T6574;Hjortnäs och Sunnanäng;198;259
+20;Dalarna;2029;Leksand;T6816;Tällberg;547;875
+21;Gävleborg;2180;Gävle;T7340;Trödje;93;337
+20;Dalarna;2080;Falun;T6496;Enviken;325;840
+20;Dalarna;2080;Falun;T6916;Övertänger;133;240
+20;Dalarna;2062;Mora;T6540;Gesunda;184;260
+20;Dalarna;2031;Rättvik;T6716;Rättvik;1232;5160
+20;Dalarna;2023;Malung-Sälen;T6616;Limedsforsen;258;383
+20;Dalarna;2031;Rättvik;T6848;Vikarbyn;348;1193
+20;Dalarna;2031;Rättvik;T6410;Nittsjö, Sätra och Backa;309;575
+20;Dalarna;2062;Mora;T6748;Sollerön;272;860
+21;Gävleborg;2101;Ockelbo;T7236;Ockelbo;441;2875
+20;Dalarna;2031;Rättvik;T6660;Nedre Gärdsjö;187;363
+20;Dalarna;2062;Mora;T6844;Stenis och Vika;141;375
+21;Gävleborg;2180;Gävle;T7016;Bergby;467;1549
+21;Gävleborg;2180;Gävle;T7228;Norrsundet;256;966
+20;Dalarna;2062;Mora;T6836;Venjan;213;226
+20;Dalarna;2062;Mora;T6860;Vinäs;106;312
+21;Gävleborg;2101;Ockelbo;T7372;Åmot;121;238
+20;Dalarna;2062;Mora;T6672;Nusnäs;304;741
+20;Dalarna;2031;Rättvik;T6436;Boda;288;528
+20;Dalarna;2062;Mora;T6724;Selja;143;547
+20;Dalarna;2062;Mora;T6648;Mora;1714;12602
+20;Dalarna;2062;Mora;T6832;Vattnäs;111;345
+21;Gävleborg;2101;Ockelbo;T7180;Lingbo;267;420
+20;Dalarna;2031;Rättvik;T6560;Gulleråsen;265;359
+20;Dalarna;2062;Mora;T6440;Bonäs;96;370
+20;Dalarna;2023;Malung-Sälen;T6808;Transtrand;212;369
+20;Dalarna;2062;Mora;T6864;Våmhus;234;831
+20;Dalarna;2039;Älvdalen;T6500;Evertsberg;137;232
+20;Dalarna;2034;Orsa;T6696;Orsa;1517;5349
+20;Dalarna;2031;Rättvik;T6516;Furudal;131;396
+20;Dalarna;2023;Malung-Sälen;T6784;Sälen;229;769
+20;Dalarna;2034;Orsa;T6736;Skattungbyn;227;310
+21;Gävleborg;2182;Söderhamn;T7352;Vallvik;95;242
+21;Gävleborg;2183;Bollnäs;T7280;Sibo;129;281
+20;Dalarna;2039;Älvdalen;T6884;Västermyckeläng;171;382
+21;Gävleborg;2182;Söderhamn;T7188;Ljusne;317;1946
+21;Gävleborg;2183;Bollnäs;T7156;Kilafors;151;1197
+20;Dalarna;2039;Älvdalen;T6708;Rot;254;662
+21;Gävleborg;2182;Söderhamn;T7024;Bergvik;168;719
+21;Gävleborg;2182;Söderhamn;T7356;Vannsätter;101;444
+21;Gävleborg;2182;Söderhamn;T7268;Sandarne;301;1681
+21;Gävleborg;2183;Bollnäs;T7276;Segersta;165;352
+20;Dalarna;2039;Älvdalen;T6448;Brunnsberg;121;200
+21;Gävleborg;2182;Söderhamn;T7378;Vad, Åsbacka och Långrör;91;260
+21;Gävleborg;2182;Söderhamn;T7212;Marmaskogen;292;1585
+21;Gävleborg;2182;Söderhamn;T7214;Mohed;186;550
+21;Gävleborg;2183;Bollnäs;T7058;Freluga;62;205
+21;Gävleborg;2121;Ovanåker;T7360;Viksjöfors;89;264
+21;Gävleborg;2182;Söderhamn;T7316;Söderhamn;916;12259
+21;Gävleborg;2121;Ovanåker;T7000;Alfta;384;2348
+21;Gävleborg;2121;Ovanåker;T7258;Runemo;79;249
+21;Gävleborg;2183;Bollnäs;T7252;Rengsjö;57;245
+21;Gävleborg;2183;Bollnäs;T7036;Bollnäs;1463;13716
+21;Gävleborg;2121;Ovanåker;T7256;Roteberg;87;379
+21;Gävleborg;2121;Ovanåker;T7044;Edsbyn;528;4179
+21;Gävleborg;2182;Söderhamn;T7342;Trönö;83;215
+21;Gävleborg;2183;Bollnäs;T7196;Lottefors;96;374
+21;Gävleborg;2183;Bollnäs;T7004;Arbrå;291;1961
+21;Gävleborg;2183;Bollnäs;T7348;Vallsta;66;288
+21;Gävleborg;2184;Hudiksvall;T7048;Enånger;163;643
+21;Gävleborg;2184;Hudiksvall;T7216;Njutånger;170;849
+21;Gävleborg;2184;Hudiksvall;T7132;Iggesund;435;3419
+20;Dalarna;2039;Älvdalen;T6788;Särna;317;675
+21;Gävleborg;2161;Ljusdal;T7152;Järvsö;365;1557
+21;Gävleborg;2184;Hudiksvall;T7320;Sörforsa;238;1581
+21;Gävleborg;2161;Ljusdal;T7192;Los;159;354
+21;Gävleborg;2184;Hudiksvall;T7120;Hudiksvall;1299;16081
+21;Gävleborg;2184;Hudiksvall;T7232;Näsviken;183;910
+21;Gävleborg;2184;Hudiksvall;T7128;Edsta;73;223
+21;Gävleborg;2161;Ljusdal;T7124;Hybo;50;206
+21;Gävleborg;2184;Hudiksvall;T7054;Fredriksfors;87;224
+21;Gävleborg;2161;Ljusdal;T7064;Färila;315;1398
+21;Gävleborg;2184;Hudiksvall;T7040;Delsbo;337;2185
+21;Gävleborg;2161;Ljusdal;T7178;Lillhaga;75;411
+21;Gävleborg;2161;Ljusdal;T7184;Ljusdal;735;7259
+23;Jämtland;2361;Härjedalen;T7904;Lillhärdal;232;403
+21;Gävleborg;2132;Nordanstig;T7136;Ilsbo;68;453
+21;Gävleborg;2161;Ljusdal;T7324;Tallåsen;160;586
+20;Dalarna;2039;Älvdalen;T6592;Idre;142;706
+21;Gävleborg;2132;Nordanstig;T7304;Strömsbruk;92;360
+21;Gävleborg;2184;Hudiksvall;T7056;Friggesund;78;530
+21;Gävleborg;2132;Nordanstig;T7292;Stocka;95;340
+21;Gävleborg;2132;Nordanstig;T7096;Harmånger;108;592
+21;Gävleborg;2132;Nordanstig;T7020;Bergsjö;186;1292
+21;Gävleborg;2132;Nordanstig;T7154;Jättendal;107;258
+23;Jämtland;2361;Härjedalen;T7996;Ulvkälla;74;420
+23;Jämtland;2361;Härjedalen;T7968;Sveg;296;2543
+21;Gävleborg;2132;Nordanstig;T7068;Gnarp;294;1199
+21;Gävleborg;2132;Nordanstig;T7172;Hassela;90;329
+23;Jämtland;2361;Härjedalen;T8012;Ytterhogdal;198;534
+22;Västernorrland;2281;Sundsvall;T7646;Vikarbodarna och Skatan;121;222
+22;Västernorrland;2281;Sundsvall;T7714;Viforsen och Tunbyn;74;216
+22;Västernorrland;2281;Sundsvall;T7560;Lucksta;159;637
+22;Västernorrland;2281;Sundsvall;T7532;Kvissleby;1062;8785
+22;Västernorrland;2281;Sundsvall;T7402;Klingsta och Allsta;172;547
+22;Västernorrland;2281;Sundsvall;T7670;Stockvik;142;2532
+22;Västernorrland;2281;Sundsvall;T7580;Matfors;465;3437
+22;Västernorrland;2281;Sundsvall;T7726;Vattjom;134;563
+22;Västernorrland;2281;Sundsvall;T7596;Nedansjö;96;310
+22;Västernorrland;2281;Sundsvall;T7408;Ankarsvik;208;986
+22;Västernorrland;2281;Sundsvall;T7462;Fanbyn;201;599
+23;Jämtland;2361;Härjedalen;T7868;Hede;267;837
+22;Västernorrland;2281;Sundsvall;T7486;Hartungviken och Spikarna;248;400
+22;Västernorrland;2281;Sundsvall;T7642;Selånger;111;324
+23;Jämtland;2361;Härjedalen;T7920;Norr-Hede;82;241
+22;Västernorrland;2281;Sundsvall;T7676;Stöde;197;704
+23;Jämtland;2361;Härjedalen;T8008;Vemdalen;356;549
+22;Västernorrland;2262;Timrå;T7544;Laggarberg;54;209
+23;Jämtland;2326;Berg;T7924;Rätan;83;213
+22;Västernorrland;2281;Sundsvall;T7404;Vi;629;5841
+22;Västernorrland;2281;Sundsvall;T7688;Sundsvall;4251;57606
+22;Västernorrland;2281;Sundsvall;T7520;Kovland;58;485
+22;Västernorrland;2260;Ånge;T7708;Torpshammar;214;477
+22;Västernorrland;2281;Sundsvall;T7492;Hovid;53;216
+22;Västernorrland;2260;Ånge;T7400;Alby;150;349
+22;Västernorrland;2260;Ånge;T7472;Ljungaverk och Fränsta;609;2062
+22;Västernorrland;2260;Ånge;T7736;Ånge;382;2889
+22;Västernorrland;2262;Timrå;T7704;Timrå;987;10495
+23;Jämtland;2326;Berg;T7886;Klövsjö;308;292
+22;Västernorrland;2262;Timrå;T7700;Söråker;529;2374
+22;Västernorrland;2262;Timrå;T7416;Bergeforsen;284;1787
+23;Jämtland;2361;Härjedalen;T7828;Funäsdalen;257;956
+22;Västernorrland;2262;Timrå;T7668;Stavreviken;21;222
+22;Västernorrland;2281;Sundsvall;T7504;Indal;244;949
+23;Jämtland;2326;Berg;T8032;Åsarna;61;280
+22;Västernorrland;2280;Härnösand;T7500;Härnösand;1121;18426
+22;Västernorrland;2281;Sundsvall;T7548;Liden;86;283
+22;Västernorrland;2280;Härnösand;T7740;Älandsbro;199;928
+23;Jämtland;2305;Bräcke;T7816;Bräcke;203;1559
+23;Jämtland;2326;Berg;T7976;Svenstavik;166;916
+23;Jämtland;2326;Berg;T7878;Hoverberg;151;206
+22;Västernorrland;2280;Härnösand;T7632;Ramvik;70;450
+22;Västernorrland;2282;Kramfors;T7568;Lunde;130;365
+23;Jämtland;2305;Bräcke;T7844;Gällö;119;757
+22;Västernorrland;2282;Kramfors;T7488;Herrskog;66;211
+23;Jämtland;2305;Bräcke;T7944;Pilgrimstad;78;402
+22;Västernorrland;2282;Kramfors;T7564;Lugnvik;117;332
+22;Västernorrland;2282;Kramfors;T7524;Kramfors;863;6582
+22;Västernorrland;2282;Kramfors;T7604;Nordingrå;64;282
+23;Jämtland;2305;Bräcke;T7896;Kälarne;140;435
+23;Jämtland;2380;Östersund;T7830;Fåker;39;241
+23;Jämtland;2326;Berg;T7912;Myrviken;101;295
+23;Jämtland;2380;Östersund;T7984;Tandsbyn;140;453
+23;Jämtland;2303;Ragunda;T7806;Östra Bispgården;125;249
+22;Västernorrland;2282;Kramfors;T7432;Bollstabruk;514;1883
+22;Västernorrland;2282;Kramfors;T7588;Mjällom;109;243
+23;Jämtland;2303;Ragunda;T7808;Västra Bispgården;116;496
+23;Jämtland;2380;Östersund;T7864;Hara;105;234
+22;Västernorrland;2282;Kramfors;T7616;Nyland;183;892
+22;Västernorrland;2282;Kramfors;T7636;Sandslån;142;313
+22;Västernorrland;2282;Kramfors;T7680;Ullånger;186;768
+23;Jämtland;2380;Östersund;T7906;Lunne;127;278
+22;Västernorrland;2282;Kramfors;T7448;Docksta;113;401
+23;Jämtland;2380;Östersund;T7938;Orrviken;73;289
+23;Jämtland;2303;Ragunda;T7856;Hammarstrand;290;1116
+23;Jämtland;2380;Östersund;T7910;Marieby;209;458
+23;Jämtland;2380;Östersund;T8042;Ängsmon;53;1368
+23;Jämtland;2380;Östersund;T7914;Målsta, Genvalla och Fillsta;69;207
+23;Jämtland;2303;Ragunda;T7964;Stugun;108;599
+23;Jämtland;2321;Åre;T7852;Hallen;90;220
+22;Västernorrland;2283;Sollefteå;T7662;Sollefteå norra;164;1387
+22;Västernorrland;2283;Sollefteå;T7572;Långsele;247;1642
+22;Västernorrland;2283;Sollefteå;T7660;Sollefteå;801;7399
+22;Västernorrland;2284;Örnsköldsvik;T7540;Köpmanholmen;231;1194
+23;Jämtland;2380;Östersund;T8044;Östersund;3484;49806
+22;Västernorrland;2284;Örnsköldsvik;T7732;Åmynnet;40;333
+23;Jämtland;2309;Krokom;T7814;Åssjöns norra strand;97;324
+23;Jämtland;2309;Krokom;T8028;Ås;292;1572
+22;Västernorrland;2284;Örnsköldsvik;T7424;Bjästa;240;1845
+23;Jämtland;2309;Krokom;T7824;Dvärsätt;131;745
+23;Jämtland;2321;Åre;T7916;Mörsil;133;781
+23;Jämtland;2380;Östersund;T7908;Lit;133;1117
+23;Jämtland;2309;Krokom;T7872;Hissmofors;110;308
+23;Jämtland;2321;Åre;T8000;Undersåker;148;573
+23;Jämtland;2309;Krokom;T7988;Trångsviken;56;272
+23;Jämtland;2309;Krokom;T8002;Vaplan;59;259
+22;Västernorrland;2284;Örnsköldsvik;T7644;Sidensjö;128;380
+23;Jämtland;2309;Krokom;T7932;Nälden;131;986
+23;Jämtland;2309;Krokom;T7800;Aspås;155;474
+23;Jämtland;2321;Åre;T7884;Järpen;234;1539
+22;Västernorrland;2284;Örnsköldsvik;T7420;Billsta;104;361
+22;Västernorrland;2284;Örnsköldsvik;T7744;Örnsköldsvik;3309;32493
+23;Jämtland;2380;Östersund;T7880;Häggenås;107;361
+23;Jämtland;2321;Åre;T7810;Björnänge;375;630
+22;Västernorrland;2284;Örnsköldsvik;T7496;Husum;394;1563
+23;Jämtland;2321;Åre;T8024;Åre;635;2768
+22;Västernorrland;2284;Örnsköldsvik;T7592;Moliden;67;300
+23;Jämtland;2309;Krokom;T8040;Änge;62;322
+22;Västernorrland;2283;Sollefteå;T7620;Näsåker;137;526
+22;Västernorrland;2284;Örnsköldsvik;T7584;Mellansel;191;825
+22;Västernorrland;2284;Örnsköldsvik;T7482;Gottne;56;212
+22;Västernorrland;2284;Örnsköldsvik;T7444;Bredbyn;193;1200
+22;Västernorrland;2284;Örnsköldsvik;T7476;Gideå;66;255
+22;Västernorrland;2283;Sollefteå;T7628;Ramsele;215;858
+23;Jämtland;2313;Strömsund;T7860;Hammerdal;359;1043
+22;Västernorrland;2284;Örnsköldsvik;T7428;Björna;73;430
+24;Västerbotten;2401;Nordmaling;T8296;Rundvik;171;810
+24;Västerbotten;2401;Nordmaling;T8236;Lögdeå;181;516
+24;Västerbotten;2401;Nordmaling;T8256;Nordmaling;297;2671
+23;Jämtland;2309;Krokom;T7836;Föllinge;176;511
+22;Västernorrland;2284;Örnsköldsvik;T7576;Långviksmon;60;220
+22;Västernorrland;2283;Sollefteå;T7512;Junsele;226;873
+24;Västerbotten;2480;Umeå;T8208;Hörnefors;236;2514
+24;Västerbotten;2480;Umeå;T8260;Norrmjöle;146;228
+24;Västerbotten;2480;Umeå;T8348;Sörmjöle;69;307
+24;Västerbotten;2480;Umeå;T8280;Obbola;229;2173
+23;Jämtland;2313;Strömsund;T7804;Backe;152;535
+24;Västerbotten;2480;Umeå;T8332;Stöcke;70;487
+23;Jämtland;2313;Strömsund;T7934;Näsviken;82;226
+23;Jämtland;2313;Strömsund;T7960;Strömsund;392;3690
+24;Västerbotten;2480;Umeå;T8334;Stöcksjö;110;394
+24;Västerbotten;2480;Umeå;T8394;Yttersjö;110;442
+24;Västerbotten;2480;Umeå;T8354;Tomtebo;38;741
+24;Västerbotten;2480;Umeå;T8304;Röbäck;252;2460
+24;Västerbotten;2480;Umeå;T8210;Innertavle;72;576
+23;Jämtland;2313;Strömsund;T7948;Rossön;186;344
+24;Västerbotten;2480;Umeå;T8412;Överboda;61;241
+24;Västerbotten;2480;Umeå;T8360;Täfteå;145;1305
+24;Västerbotten;2480;Umeå;T8344;Sörfors;114;460
+24;Västerbotten;2480;Umeå;T8140;Brännland;63;336
+24;Västerbotten;2480;Umeå;T8372;Umeå;3220;83249
+24;Västerbotten;2480;Umeå;T8368;Ersmark;149;1650
+24;Västerbotten;2460;Vännäs;T8384;Vännäs;409;4373
+24;Västerbotten;2403;Bjurholm;T8120;Bjurholm;164;1000
+24;Västerbotten;2460;Vännäs;T8388;Vännäsby;205;1581
+24;Västerbotten;2480;Umeå;T8336;Sävar;326;2968
+24;Västerbotten;2480;Umeå;T8196;Hissjön;107;471
+24;Västerbotten;2480;Umeå;T8174;Flurkmark;45;210
+23;Jämtland;2313;Strömsund;T7876;Hoting;116;648
+24;Västerbotten;2480;Umeå;T8352;Tavelsjö;76;461
+24;Västerbotten;2480;Umeå;T8142;Bullmark;44;329
+24;Västerbotten;2409;Robertsfors;T8152;Bygdeå;79;512
+24;Västerbotten;2404;Vindeln;T8356;Tvärålund;109;338
+24;Västerbotten;2463;Åsele;T8400;Åsele;231;1706
+24;Västerbotten;2404;Vindeln;T8380;Vindeln;272;2403
+24;Västerbotten;2409;Robertsfors;T8292;Robertsfors;213;2030
+24;Västerbotten;2404;Vindeln;T8188;Granö;74;211
+24;Västerbotten;2480;Umeå;T8136;Botsmark;39;201
+24;Västerbotten;2404;Vindeln;T8204;Hällnäs;81;230
+24;Västerbotten;2409;Robertsfors;T8396;Ånäset;138;603
+24;Västerbotten;2482;Skellefteå;T8156;Bygdsiljum;97;333
+24;Västerbotten;2482;Skellefteå;T8240;Lövånger;165;810
+23;Jämtland;2313;Strömsund;T7840;Gäddede;78;312
+24;Västerbotten;2481;Lycksele;T8194;Hedlunda;54;205
+24;Västerbotten;2482;Skellefteå;T8148;Burträsk;190;1573
+24;Västerbotten;2462;Vilhelmina;T8376;Vilhelmina;329;3572
+24;Västerbotten;2481;Lycksele;T8232;Lycksele;727;8545
+24;Västerbotten;2482;Skellefteå;T8144;Bureå;392;2533
+24;Västerbotten;2482;Skellefteå;T8408;Örviken;114;399
+24;Västerbotten;2482;Skellefteå;T8308;Skelleftehamn;251;3069
+24;Västerbotten;2482;Skellefteå;T8342;Södra Bergsbyn och Stackgrönnan;67;342
+24;Västerbotten;2482;Skellefteå;T8218;Klutmark;72;207
+24;Västerbotten;2482;Skellefteå;T8310;Ursviken;331;3913
+24;Västerbotten;2482;Skellefteå;T8248;Medle;153;543
+24;Västerbotten;2481;Lycksele;T8300;Rusksele;70;201
+24;Västerbotten;2482;Skellefteå;T8252;Myckle;106;416
+24;Västerbotten;2417;Norsjö;T8112;Bastuträsk;90;405
+24;Västerbotten;2482;Skellefteå;T8312;Skellefteå;2482;35516
+24;Västerbotten;2482;Skellefteå;T8228;Kåge;271;2376
+24;Västerbotten;2482;Skellefteå;T8172;Ersmark;130;875
+24;Västerbotten;2482;Skellefteå;T8132;Boliden;142;1661
+24;Västerbotten;2417;Norsjö;T8268;Norsjö;252;2057
+24;Västerbotten;2482;Skellefteå;T8224;Kusmark;121;448
+24;Västerbotten;2482;Skellefteå;T8284;Ostvik;139;537
+24;Västerbotten;2482;Skellefteå;T8340;Drängsmark;63;345
+24;Västerbotten;2421;Storuman;T8320;Stensele;107;500
+24;Västerbotten;2482;Skellefteå;T8160;Byske;326;1785
+24;Västerbotten;2421;Storuman;T8324;Storuman;259;2188
+24;Västerbotten;2482;Skellefteå;T8212;Jörn;176;777
+24;Västerbotten;2418;Malå;T8244;Malå;252;2043
+25;Norrbotten;2581;Piteå;T8648;Jävre;166;574
+25;Norrbotten;2505;Arvidsjaur;T8584;Glommersträsk;90;231
+25;Norrbotten;2581;Piteå;T8616;Hemmingsmark;85;366
+25;Norrbotten;2581;Piteå;T8540;Blåsmark;57;299
+25;Norrbotten;2581;Piteå;T8620;Hortlax;114;1128
+25;Norrbotten;2581;Piteå;T8876;Svensbyn;58;345
+25;Norrbotten;2581;Piteå;T8536;Bergsviken;209;2251
+25;Norrbotten;2581;Piteå;T8870;Svartudden;34;478
+25;Norrbotten;2581;Piteå;T8816;Roknäs;321;1259
+25;Norrbotten;2581;Piteå;T8792;Piteå;2352;23067
+25;Norrbotten;2581;Piteå;T8720;Lillpite;132;385
+25;Norrbotten;2581;Piteå;T8568;Böle;65;344
+25;Norrbotten;2581;Piteå;T8684;Kopparnäs;70;225
+24;Västerbotten;2422;Sorsele;T8316;Sorsele;192;1175
+25;Norrbotten;2581;Piteå;T8776;Norrfjärden;251;1562
+25;Norrbotten;2581;Piteå;T8824;Rosvik;319;1848
+25;Norrbotten;2581;Piteå;T8846;Sjulsmark;73;353
+25;Norrbotten;2505;Arvidsjaur;T8516;Arvidsjaur;427;4655
+25;Norrbotten;2580;Luleå;T8576;Ersnäs;133;478
+25;Norrbotten;2580;Luleå;T8658;Kallax;180;461
+25;Norrbotten;2580;Luleå;T8752;Måttsund;126;589
+25;Norrbotten;2580;Luleå;T8508;Antnäs;111;889
+24;Västerbotten;2421;Storuman;T8364;Tärnaby;159;492
+25;Norrbotten;2580;Luleå;T8504;Alvik;178;831
+25;Norrbotten;2580;Luleå;T8532;Bergnäset;294;3604
+25;Norrbotten;2580;Luleå;T8670;Karlsvik;33;255
+25;Norrbotten;2580;Luleå;T8680;Klöverträsk;66;241
+25;Norrbotten;2560;Älvsbyn;T8692;Korsträsk;56;317
+25;Norrbotten;2580;Luleå;T8538;Björkskatan;154;4388
+25;Norrbotten;2580;Luleå;T8564;Bälinge;61;308
+25;Norrbotten;2580;Luleå;T8724;Luleå;2706;43574
+25;Norrbotten;2580;Luleå;T8874;Hällbäcken och Sinksundet;64;253
+25;Norrbotten;2560;Älvsbyn;T8908;Vistträsk;49;251
+25;Norrbotten;2580;Luleå;T8580;Gammelstaden;551;4866
+25;Norrbotten;2580;Luleå;T8528;Bensbyn;128;602
+25;Norrbotten;2560;Älvsbyn;T8932;Älvsbyn;619;4976
+25;Norrbotten;2580;Luleå;T8880;Södra Sunderbyn;233;3162
+24;Västerbotten;2421;Storuman;T8198;Hemavan/Bierke;183;263
+25;Norrbotten;2580;Luleå;T8524;Avan;69;213
+25;Norrbotten;2580;Luleå;T8828;Rutvik;91;896
+25;Norrbotten;2582;Boden;T8902;Unbyn;93;449
+25;Norrbotten;2580;Luleå;T8558;Brändön;93;324
+25;Norrbotten;2580;Luleå;T8788;Persön;61;217
+25;Norrbotten;2582;Boden;T8878;Sävast;376;3093
+25;Norrbotten;2580;Luleå;T8934;Ängesbyn;77;209
+25;Norrbotten;2560;Älvsbyn;T8904;Vidsel;100;526
+25;Norrbotten;2580;Luleå;T8856;Sundom;89;219
+25;Norrbotten;2582;Boden;T8888;Trångforsen och Heden;279;1860
+25;Norrbotten;2583;Haparanda;T8840;Seskarö;100;411
+25;Norrbotten;2582;Boden;T8916;Vittjärv;130;498
+25;Norrbotten;2582;Boden;T8544;Boden;1402;16830
+25;Norrbotten;2514;Kalix;T8560;Båtskärsnäs;66;227
+25;Norrbotten;2514;Kalix;T8928;Nyborg;189;823
+25;Norrbotten;2514;Kalix;T8804;Påläng;73;224
+25;Norrbotten;2582;Boden;T8882;Södra Bredåker;65;203
+25;Norrbotten;2514;Kalix;T8812;Risögrund;84;594
+25;Norrbotten;2580;Luleå;T8832;Råneå;242;1966
+25;Norrbotten;2580;Luleå;T8644;Jämtön;78;203
+25;Norrbotten;2514;Kalix;T8556;Bredviken;57;373
+25;Norrbotten;2583;Haparanda;T8768;Nikkala;115;417
+25;Norrbotten;2514;Kalix;T8820;Rolfs;215;1001
+25;Norrbotten;2506;Arjeplog;T8512;Arjeplog;227;1822
+25;Norrbotten;2514;Kalix;T8656;Kalix;662;7495
+25;Norrbotten;2514;Kalix;T8578;Gammelgården;65;281
+25;Norrbotten;2514;Kalix;T8836;Sangis;222;543
+25;Norrbotten;2514;Kalix;T8896;Töre;218;1051
+25;Norrbotten;2583;Haparanda;T8604;Haparanda;593;6679
+25;Norrbotten;2582;Boden;T8608;Harads;117;496
+25;Norrbotten;2583;Haparanda;T8672;Karungi;61;209
+25;Norrbotten;2513;Överkalix;T8868;Svartbyn;130;265
+25;Norrbotten;2518;Övertorneå;T8612;Hedenäset;138;243
+25;Norrbotten;2513;Överkalix;T8940;Överkalix;124;1036
+25;Norrbotten;2510;Jokkmokk;T8920;Vuollerim;144;683
+25;Norrbotten;2513;Överkalix;T8884;Tallvik;106;497
+25;Norrbotten;2518;Övertorneå;T8944;Övertorneå;247;1906
+25;Norrbotten;2510;Jokkmokk;T8628;Jokkmokk;276;2794
+25;Norrbotten;2518;Övertorneå;T8640;Juoksengi;151;327
+25;Norrbotten;2510;Jokkmokk;T8796;Porjus;45;240
+25;Norrbotten;2523;Gällivare;T8600;Hakkas;128;374
+25;Norrbotten;2521;Pajala;T8688;Korpilombolo;111;539
+25;Norrbotten;2523;Gällivare;T8596;Gällivare;863;10362
+25;Norrbotten;2523;Gällivare;T8730;Malmberget östra;93;1625
+25;Norrbotten;2523;Gällivare;T8732;Malmberget västra;188;1757
+25;Norrbotten;2523;Gällivare;T8694;Koskullskulle;117;818
+25;Norrbotten;2523;Gällivare;T8886;Tjautjas/Cavccas;68;242
+25;Norrbotten;2521;Pajala;T8780;Pajala;312;2032
+25;Norrbotten;2521;Pajala;T8636;Junosuando;141;314
+25;Norrbotten;2521;Pajala;T8660;Kangos;146;245
+25;Norrbotten;2584;Kiruna;T8864;Svappavaara;114;400
+25;Norrbotten;2584;Kiruna;T8912;Vittangi;200;791
+25;Norrbotten;2584;Kiruna;T8890;Tuolluvaara / Duollovárri;68;979
+25;Norrbotten;2584;Kiruna;T8632;Jukkasjärvi;136;607
+25;Norrbotten;2584;Kiruna;T8676;Kiruna;903;17037
+25;Norrbotten;2584;Kiruna;T8704;Kuttainen;57;218
+25;Norrbotten;2584;Kiruna;T8664;Karesuando;74;280
+12;Skåne;1280;Malmö;T3604;Malmö;7706;301706
+7;Kronoberg;780;Växjö;T2024;Växjö;3541;65383
+12;Skåne;1291;Simrishamn;T2960;Kivik;192;895
+13;Halland;1384;Kungsbacka;T4300;Billdal;1874;14874
+14;Västra Götaland;1480;Göteborg;T4364;Nordöstra Göteborg;1059;45106
+14;Västra Götaland;1482;Kungälv;T4446;Kovikshamn och Åkerhög;220;494
+5;Östergötland;513;Kinda;T1100;Horn;93;543
+5;Östergötland;513;Kinda;T1132;Kisa;376;3776
+5;Östergötland;563;Valdemarsvik;T1076;Gryt;303;333
+5;Östergötland;586;Mjölby;T1280;Sya;36;308
+4;Södermanland;482;Flen;T0744;Flen;467;6594
+17;Värmland;1785;Säffle;T5868;Värmlandsbro;22;273
+1;Stockholm;186;Lidingö;T0228;Lidingö;1678;42466
+18;Örebro;1885;Lindesberg;T5940;Frövi;252;2480
+1;Stockholm;180;Stockholm;T0336;Stockholm;41401;1515017
+19;Västmanland;1980;Västerås;T6210;Enhagen-Ekbacken;76;1091
+18;Örebro;1885;Lindesberg;T6040;Lindesberg;810;9571
+3;Uppsala;380;Uppsala;T0662;Ytternäs och Vreta;153;775
+3;Uppsala;380;Uppsala;T0592;Länna;111;700
+17;Värmland;1783;Hagfors;T5688;Hagfors;634;4869
+20;Dalarna;2039;Älvdalen;T6896;Älvdalen;337;1863
+22;Västernorrland;2282;Kramfors;T7516;Klockestrand;111;327
+23;Jämtland;2326;Berg;T7848;Hackås;142;531
+23;Jämtland;2309;Krokom;T7888;Krokom;160;1953
+24;Västerbotten;2480;Umeå;T8138;Brännäset och Boviken;270;239
+24;Västerbotten;2480;Umeå;T8200;Holmsund;752;5962
+24;Västerbotten;2425;Dorotea;T8168;Dorotea;203;1491
+12;Skåne;1286;Ystad;T3808;Ystad;1102;18806
