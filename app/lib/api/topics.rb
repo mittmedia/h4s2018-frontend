@@ -1,10 +1,10 @@
 module Api
-  class Document
+  class Topic
     include HTTParty
     base_uri ENV['API_URL']
 
     def self.all
-      self.get('/documents')
+      self.get('/topics')
     end
   end
 end
