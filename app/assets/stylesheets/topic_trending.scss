@@ -8,6 +8,7 @@
 
   &__carousel {
     display: flex;
+    flex-direction: column;
   }
 
   &__title {
