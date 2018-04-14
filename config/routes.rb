@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  root 'topics#index'
+
   get '/municipalities.json', to: 'regions#municipalities'
   get '/cities.json', to: 'regions#cities'
   resources :topics, only: [:index, :show]
@@ -13,5 +15,4 @@ Rails.application.routes.draw do
 
     put 'register_notifications'
   end
-  root 'intro#show'
 end

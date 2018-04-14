@@ -1,7 +1,10 @@
 class TopicSubscription < ApplicationRecord
   belongs_to :user
 
-  # def trending
-  #   TopicSubscription.group(:story).order(count_subscribers asc).count('subscribers')
-  # end
+  def self.trending
+    trending = TopicSubscription.group(:topic_id)
+                                .order('count_topic_id desc')
+                                .count('topic_id')
+    trending.delete_if { |key, value| value < 2 }
+  end
 end

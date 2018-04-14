@@ -1,14 +1,4 @@
 class UsersController < ApplicationController
-  before_action :set_user, only: [
-    :destroy,
-    :subscribe,
-    :regions_subscribed_to,
-    :subscribe_to_region,
-    :unsubscribe_from_region,
-    :topics_subscribed_to,
-    :subscribe_to_topic,
-    :unsubscribe_from_topic
-  ]
   before_action :verify_region, only: [:subscribe_to_region, :unsubscribe_from_region]
   before_action :verify_topic, only: [:subscribe_to_topic, :unsubscribe_from_topic]
 
@@ -20,23 +10,6 @@ class UsersController < ApplicationController
     :subscribe_to_topic,
     :unsubscribe_from_topic,
   ]
-
-  # POST /users
-  # POST /users.json
-  def create
-    return redirect_to topics_path if cookies[:user_id].present?
-    @user = User.new(user_params)
-    respond_to do |format|
-      if @user.save
-        cookies[:user_id] = @user.id
-        format.html { redirect_to topics_path }
-        format.json { render :show, status: :created, location: @user }
-      else
-        format.html { render :new }
-        format.json { render json: @user.errors, status: :unprocessable_entity }
-      end
-    end
-  end
 
   # REGIONS
 
