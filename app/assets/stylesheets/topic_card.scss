@@ -9,6 +9,11 @@
   text-decoration: none;
   color: black;
 
+  &--shadowless {
+    border: 0;
+    box-shadow: none;
+  }
+
   &__pre-title {
     font-weight: 500;
     font-size: 10px;
