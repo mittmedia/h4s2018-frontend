@@ -10,7 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180414014902) do
+ActiveRecord::Schema.define(version: 20180414053902) do
+
+  create_table "regions", force: :cascade do |t|
+    t.string "name"
+    t.integer "lantmateriet_reference_id"
+    t.integer "parent_id"
+    t.integer "level"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["lantmateriet_reference_id"], name: "index_regions_on_lantmateriet_reference_id"
+    t.index ["level"], name: "index_regions_on_level"
+    t.index ["parent_id"], name: "index_regions_on_parent_id"
+  end
 
 # Could not dump table "users" because of following StandardError
 #   Unknown type 'jsonb' for column 'subscription'
