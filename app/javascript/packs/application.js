@@ -10,6 +10,7 @@
 import NotificationHelper from 'modules/notification';
 import PersonsonalizationBlock from 'modules/personalization_block';
 import FollowButton from 'modules/follow_button';
+import InterestButton from 'modules/interest_button';
 
 const publicKey = window._notification_public_key;
 if ('serviceWorker' in navigator) {
@@ -18,6 +19,7 @@ if ('serviceWorker' in navigator) {
       return NotificationHelper.new(swRegistration, publicKey);
     })
     .then(notificationHelper => {
+      // TODO: Move this to FollowButton and InterestButton
       if (window.location.pathname === '/topics') {
         return notificationHelper.subscribeUser();
       }
@@ -30,4 +32,5 @@ if ('serviceWorker' in navigator) {
 document.addEventListener('turbolinks:load', () => {
   new PersonsonalizationBlock();
   new FollowButton();
+  new InterestButton();
 });
