@@ -27,7 +27,7 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('turbolinks:load', () => {
   new PersonsonalizationBlock();
   new FollowButton();
 });
