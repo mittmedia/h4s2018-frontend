@@ -5,6 +5,6 @@ class TopicSubscription < ApplicationRecord
     trending = TopicSubscription.group(:topic_id)
                                 .order('count_topic_id desc')
                                 .count('topic_id')
-    trending.delete_if { |key, value| value < 2 }
+    trending.delete_if { |key, value| value < 2 }.keys
   end
 end
