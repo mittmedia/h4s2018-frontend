@@ -23,7 +23,7 @@ class User < ApplicationRecord
   # TOPICS
 
   def topics_subscribed_to
-    topics = TopicSubscription.where(user: self).pluck(&:topic_id)
+    topics = TopicSubscription.where(user: self).pluck(:topic_id)
     {
       topics: topics,
     }
