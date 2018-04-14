@@ -1,0 +1,8 @@
+<div class="topic_trending">
+  <div class="topic_trending__title">Trending topics</div>
+  <div class="topic_trending__carousel">
+    <% trending_topics.cards.each do |card| %>
+      <%= render partial: 'layouts/topic_card', locals: { topic: card } %>
+    <% end %>
+  </div>
+</div>

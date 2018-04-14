@@ -1,2 +1,9 @@
-<h1>Topic#index</h1>
-<p>Find me in app/views/topic/index.html.erb</p>
+<div class="topic_container">
+  <% @topics.each do |topic| %>
+    <% if topic.type == 'card' %>
+      <%= render partial: "layouts/topic_card", locals: { topic: topic } %>
+    <% elsif topic.type == 'trending' %>
+      <%= render partial: "layouts/topic_trending", locals: { trending_topics: topic } %>
+    <% end %>
+  <% end %>
+</div>

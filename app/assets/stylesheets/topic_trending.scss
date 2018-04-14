@@ -1,0 +1,16 @@
+.topic_trending {
+  background-color: #F457A8;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 11px;
+  margin-bottom: 20px;
+
+  &__title {
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 27px;
+    margin: 0 20px 10px;
+  }
+}

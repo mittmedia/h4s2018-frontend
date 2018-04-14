@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,500|Playfair+Display');
+
+body {
+  background-color: black;
+}
+
+.app_content {
+  display: flex;
+  background-color: white;
+  width: 375px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

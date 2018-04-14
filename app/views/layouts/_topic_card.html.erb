@@ -1,0 +1,14 @@
+<div class="topic_card">
+  <div class="topic_card__pre-title">
+    <%= topic.category.upcase %> | <%= topic.created_at %>
+  </div>
+  <div class="topic_card__title">
+    <%= topic.title %>
+  </div>
+  <div class="topic_card__actions">
+    <div class="topic_card__stage">
+      <%= topic.stage %>
+    </div>
+    <%= render partial: 'layouts/follow_button' %>
+  </div>
+</div>
