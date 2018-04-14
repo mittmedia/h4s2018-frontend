@@ -22,8 +22,7 @@ class UsersController < ApplicationController
   # POST /users/1/subscribe.json
   def subscribe
     respond_to do |format|
-      if @user.update(subscription: user_params.fetch(:subscription).to_s)
-        Notification.send(user_params.fetch(:subscription), 'Hallo!!')
+      if @user.update(subscription: user_params.fetch(:subscription).to_json)
         format.json { head :no_content }
       else
         format.json { render json: @user.errors, status: :unprocessable_entity }
