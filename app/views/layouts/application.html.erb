@@ -10,5 +10,11 @@
 
   <body>
     <%= yield %>
+    <%= javascript_tag do %>
+      window._notification_public_key = "<%= ENV['NOTIFICATION_PUBLIC_KEY'] %>";
+      window._sw_pack_path = "<%= asset_pack_path 'sw.js' %>";
+    <% end %>
+    <link rel="manifest" href="<%= asset_path 'manifest.json' %>">
+    <%= javascript_pack_tag 'application' %>
   </body>
 </html>

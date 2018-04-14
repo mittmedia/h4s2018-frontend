@@ -7,4 +7,20 @@
 // To reference this file, add <%= javascript_pack_tag 'application' %> to the appropriate
 // layout file, like app/views/layouts/application.html.erb
 
-console.log('Hello World from Webpacker')
+import NotificationHelper from 'modules/notification';
+
+const publicKey = window._notification_public_key;
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register(window._sw_pack_path)
+    .then(swRegistration => {
+      return NotificationHelper.new(swRegistration, publicKey);
+    })
+    .then(notificationHelper => {
+      if (window.location.pathname === '/topics') {
+        return notificationHelper.subscribeUser();
+      }
+    })
+    .catch(error => {
+      throw new Error(error);
+    });
+}

@@ -10,11 +10,9 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180413211109) do
+ActiveRecord::Schema.define(version: 20180414014902) do
 
-  create_table "users", force: :cascade do |t|
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
+# Could not dump table "users" because of following StandardError
+#   Unknown type 'jsonb' for column 'subscription'
 
 end

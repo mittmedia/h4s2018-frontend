@@ -2,7 +2,8 @@
   "name": "h4s2018-frontend",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "3.4"
+    "@rails/webpacker": "3.4",
+    "js-cookie": "^2.2.0"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
