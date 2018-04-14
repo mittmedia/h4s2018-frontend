@@ -5,6 +5,7 @@ class TopicsController < ApplicationController
       topic['stage'] = 'Stage 6: voting'
       OpenStruct.new(topic)
     end
+    # TODO: Do something with the trending topics design thing
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
   end
 

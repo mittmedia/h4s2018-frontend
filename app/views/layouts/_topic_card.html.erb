@@ -1,6 +1,6 @@
 <div class="topic_card">
   <div class="topic_card__pre-title">
-    <%= topic.topic.upcase %><%= " | #{topic.created_at}" if topic.created_at %>
+    <%= topic.topic.upcase %><%= " | #{topic.published_at}" if topic.published_at %>
   </div>
   <div class="topic_card__title">
     <%= topic.title %>
