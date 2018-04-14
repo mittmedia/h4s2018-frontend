@@ -4,7 +4,6 @@ class TopicsController < ApplicationController
   def index
     topics = get_all_topics
     @topics = insert_trending(topics)
-    # TODO: Do something with the trending topics design thing
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
   end
 
@@ -28,7 +27,6 @@ class TopicsController < ApplicationController
     topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
       topic['type'] = 'card'
       topic['stage'] = 'status: beslut'
-      topic['doc_id'].upcase!
       OpenStruct.new(topic)
     end.uniq(&:doc_id)
   end
@@ -68,7 +66,7 @@ class TopicsController < ApplicationController
   end
 
   def verify_topic
-    @topic_id = params[:id].upcase
+    @topic_id = params[:id]
     bad_request('Missing `topic_id` parameter') if @topic_id.blank?
   end
 end
