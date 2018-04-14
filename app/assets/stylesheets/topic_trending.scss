@@ -6,6 +6,10 @@
   padding: 11px;
   margin-bottom: 20px;
 
+  &__carousel {
+    display: flex;
+  }
+
   &__title {
     color: white;
     font-size: 22px;
