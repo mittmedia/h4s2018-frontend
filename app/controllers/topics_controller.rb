@@ -1,5 +1,5 @@
 class TopicsController < ApplicationController
-  before_action :verify_topic
+  before_action :verify_topic, only: :show
 
   def index
     @topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
