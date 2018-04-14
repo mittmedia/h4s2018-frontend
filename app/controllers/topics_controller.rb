@@ -1,4 +1,6 @@
 class TopicsController < ApplicationController
+  before_action :verify_topic
+
   def index
     @topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
       topic['type'] = 'card'
@@ -10,6 +12,12 @@ class TopicsController < ApplicationController
   end
 
   def show
-    @documents = Api::Document.all
+    @topic_id = params[:topic_id]
+    @documents = Api::Document.all(@topic_id)
+  end
+
+  def verify_topic
+    @topic_id = params[:id]
+    bad_request('Missing `topic_id` parameter') if @topic_id.blank?
   end
 end
