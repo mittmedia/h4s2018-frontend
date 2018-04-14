@@ -1,9 +1,9 @@
-<div class="topic_card">
+<%= link_to topic_path(topic.doc_id), class: 'topic_card' do %>
   <div class="topic_card__pre-title">
     <%= topic.topic.upcase %><%= " | #{topic.published_at}" if topic.published_at %>
   </div>
   <div class="topic_card__title">
-    <%= link_to topic.title, topic_path(topic.doc_id) %>
+    <%= topic.title %>
   </div>
   <div class="topic_card__actions">
     <div class="topic_card__stage">
@@ -11,4 +11,4 @@
     </div>
     <%= render partial: 'layouts/follow_button', locals: { topic_id: topic.doc_id, is_following: @user_topic_subscriptions.map(&:topic_id).include?(topic.doc_id) } %>
   </div>
-</div>
+<% end %>

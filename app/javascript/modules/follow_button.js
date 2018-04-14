@@ -16,7 +16,9 @@ export default class FollowButton {
     return followButton.getAttribute('data-topic-id');
   }
 
-  triggerFollow(followButton) {
+  triggerFollow(followButton, event) {
+    event.preventDefault();
+
     const topicId = this.getTopicId(followButton);
     const userId = Cookie.get('user_id');
     let path = `/users/${userId}/subscribe_to_topic.json?topic_id=${topicId}`;

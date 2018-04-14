@@ -1,11 +1,13 @@
 .topic_card {
   padding: 20px;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.07);
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.07);
 	background-color: #FFFFFF;
-  border: 0.8px solid rgba(151,151,151,0.2);
+  border: 0.8px solid rgba(151,151,151,.2);
   border-radius: 4px;
   margin-bottom: 20px;
   width: 350px;
+  text-decoration: none;
+  color: black;
 
   &__pre-title {
     font-weight: 500;
