@@ -3,5 +3,6 @@ class TopicsController < ApplicationController
   end
 
   def show
+    @documents = Api::Document.all
   end
 end
