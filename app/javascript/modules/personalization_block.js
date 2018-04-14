@@ -11,6 +11,6 @@ export default class PersonalizationBlock {
   }
 
   toggleContent(personalizationBlock) {
-    personalizationBlock.classList.toggle('expanded');
+    personalizationBlock.classList.toggle('personalization_block--expanded');
   }
 }

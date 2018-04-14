@@ -2,7 +2,7 @@ class TopicsController < ApplicationController
   def index
     @topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
       topic['type'] = 'card'
-      topic['stage'] = 'Stage 6: voting'
+      topic['stage'] = 'status: beslut'
       OpenStruct.new(topic)
     end
     # TODO: Do something with the trending topics design thing

@@ -1,0 +1,101 @@
+<% content_for :icon, flush: true do %>
+  <svg class="personalization_block__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 63.5">
+    <path class="personalization_block__icon-part" d="M47,29.5l10.09-9.32A6.76,6.76,0,0,0,59,15.67a6,6,0,1,0-12,0"/>
+    <path class="personalization_block__icon-part" d="M47,29.5,36.91,20.18A6.76,6.76,0,0,1,35,15.67a6,6,0,1,1,12,0"/>
+    <path class="personalization_block__icon-part" d="M45.19,38.77a4.08,4.08,0,0,1,2,5.27,3.82,3.82,0,0,1-5.08,2.11L28,41.5"/>
+    <path class="personalization_block__icon-part" d="M45.19,38.77,30.13,33.68S21.67,32.3,5,37.19L7.68,49.49s8.77-2,10.85-2,9.36,3,14,4.55S45.12,53.5,45.12,53.5l15.46-8.28A4.07,4.07,0,0,0,62.72,40a3.82,3.82,0,0,0-5-2.22"/>
+    <line class="personalization_block__icon-part" x1="57.68" y1="37.78" x2="47.53" y2="42.91"/>
+  </svg>
+<% end %>
+
+<%= render layout: "layouts/personalization_block", locals: { title: "välj dina intressen" } do %>
+  <%= render layout: "layouts/interest_button", locals: { label: 'sjukvård' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.25 61.75">
+      <polyline class="interest_button__icon-part" points="59.75 35.5 37.75 35.5 37.75 19.5 50.65 19.5"/>
+      <circle class="interest_button__icon-part" cx="16.75" cy="49.5" r="6"/>
+      <circle class="interest_button__icon-part" cx="46.75" cy="49.5" r="6"/>
+      <line class="interest_button__icon-part" x1="40.75" y1="48.5" x2="22.75" y2="48.5"/>
+      <polyline class="interest_button__icon-part" points="2.75 48.5 2.75 13.5 47.22 13.5 60.75 37.17 60.75 48.5"/>
+      <line class="interest_button__icon-part" x1="10.48" y1="48.5" x2="2.75" y2="48.5"/>
+      <line class="interest_button__icon-part" x1="60.75" y1="48.5" x2="53.02" y2="48.5"/>
+      <path class="interest_button__icon-part" d="M29.75,13.5v-4a4,4,0,0,1,8,0v4"/>
+      <line class="interest_button__icon-part" x1="22.75" y1="27.5" x2="10.75" y2="27.5"/>
+      <line class="interest_button__icon-part" x1="16.75" y1="33.5" x2="16.75" y2="21.5"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'ekonomi' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.83 62.33">
+      <path class="interest_button__icon-part" d="M31.55,39.17a4.5,4.5,0,0,1,0-9h4.5"/>
+      <path class="interest_button__icon-part" d="M31.55,39.17a4.5,4.5,0,1,1,0,9h-4.5"/>
+      <line class="interest_button__icon-part" x1="31.05" y1="27.17" x2="31.05" y2="30.17"/>
+      <line class="interest_button__icon-part" x1="31.05" y1="48.17" x2="31.05" y2="51.17"/>
+      <path class="interest_button__icon-part" d="M56.08,43.23c0,11.73-5.35,16.94-17,16.94H23.43C11.75,60.17,6,54.86,6,43.12H6c0-11.73,17-26,17-26h16s17,14.33,17,26.06Z"/>
+      <path class="interest_button__icon-part" d="M23.05,17.17s-9.1-12-4.87-14.83c1.6-1.08,4,3.9,5.9,3.9s2.75-4.06,6-4.06c3,0,4.09,3,6,3,3.42,0,3.64-3,7-3,3.86,0,2.4,9-4,15"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'säkerhet' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.51 63">
+      <path class="interest_button__icon-part" d="M32.75,60.5c23.18-8.52,23-36.73,23-36.73"/>
+      <path class="interest_button__icon-part" d="M55.75,23.78V11.5a1,1,0,0,0-1-1H50.12"/>
+      <path class="interest_button__icon-part" d="M32.75,60.5C9.57,52,9.79,23.76,9.79,23.76"/>
+      <path class="interest_button__icon-part" d="M9.75,23.78V11.5a1,1,0,0,1,1-1h4.63"/>
+      <path class="interest_button__icon-part" d="M15.44,10.5c12.57,0,17.25-8,17.25-8h.12s4.68,8,17.25,8"/>
+      <polygon class="interest_button__icon-part" points="32.75 21.49 35.84 28.07 42.75 29.13 37.75 34.25 38.93 41.49 32.75 38.07 26.57 41.49 27.75 34.25 22.75 29.13 29.66 28.07 32.75 21.49"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'teknik' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.34 62.83">
+      <ellipse class="interest_button__icon-part" cx="31.25" cy="31.42" rx="12" ry="29"/>
+      <path class="interest_button__icon-part" d="M37.28,41.33C51.81,33.7,60.89,23.08,57.56,17.6s-17.8-3.73-32.34,3.9S1.61,39.76,4.94,45.23,22.75,49,37.28,41.33Z"/>
+      <path class="interest_button__icon-part" d="M25.22,41.33C10.68,33.7,1.61,23.08,4.94,17.6s17.81-3.73,32.34,3.9S60.89,39.76,57.56,45.23,39.75,49,25.22,41.33Z"/>
+      <circle class="interest_button__icon-part" cx="31.25" cy="31.42" r="3"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'miljö' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 61.5">
+      <line class="interest_button__icon-part" x1="31.25" y1="23.14" x2="31.25" y2="13.14"/>
+      <line class="interest_button__icon-part" x1="22.25" y1="31.14" x2="42.25" y2="31.14"/>
+      <path class="interest_button__icon-part" d="M60.18,3.88C6.34-9.38,10.32,43.62,10.32,43.62,64.15,56.88,60.18,3.88,60.18,3.88h0"/>
+      <path class="interest_button__icon-part" d="M2.25,59.75s2.47-24,50-50"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'skola' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.5 62">
+      <polyline class="interest_button__icon-part" points="57 23.39 30 8.38 3 23.39 30 38.38 57 23.39"/>
+      <line class="interest_button__icon-part" x1="57" y1="23.5" x2="57" y2="41.5"/>
+      <circle class="interest_button__icon-part" cx="57" cy="43.38" r="2"/>
+      <line class="interest_button__icon-part" x1="45" y1="49.5" x2="45" y2="30.5"/>
+      <line class="interest_button__icon-part" x1="15" y1="30.5" x2="15" y2="49.5"/>
+      <path class="interest_button__icon-part" d="M15,49.59a30.51,30.51,0,0,0,15,3.79,30.51,30.51,0,0,0,15-3.79"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'trafik' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.26 62.75">
+      <line class="interest_button__icon-part" x1="18.72" y1="51.63" x2="11.25" y2="61.29"/>
+      <line class="interest_button__icon-part" x1="45.78" y1="51.63" x2="53.25" y2="61.29"/>
+      <path class="interest_button__icon-part" d="M15.07,51.25a3.84,3.84,0,0,1-3.82-3.84V10.09a3.84,3.84,0,0,1,3.82-3.84H49.43a3.84,3.84,0,0,1,3.82,3.84V47.41a3.84,3.84,0,0,1-3.82,3.84Z"/>
+      <rect class="interest_button__icon-part" x="16.25" y="13.25" width="32" height="18"/>
+      <circle class="interest_button__icon-part" cx="43.25" cy="40.25" r="2"/>
+      <circle class="interest_button__icon-part" cx="20.25" cy="40.25" r="2"/>
+      <line class="interest_button__icon-part" x1="23.25" y1="3.25" x2="23.25" y2="5.25"/>
+      <line class="interest_button__icon-part" x1="40.25" y1="3.25" x2="40.25" y2="5.25"/>
+    </svg>
+  <% end %>
+
+  <%= render layout: "layouts/interest_button", locals: { label: 'invandring' } do %>
+    <svg class="interest_button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.75 62.25">
+      <circle class="interest_button__icon-part" cx="51.75" cy="26.25" r="6"/>
+      <circle class="interest_button__icon-part" cx="30.75" cy="22.25" r="8"/>
+      <path class="interest_button__icon-part" d="M43.75,43.25v-2a8,8,0,0,1,8-8h0a8,8,0,0,1,8,8h0v2Z"/>
+      <circle class="interest_button__icon-part" cx="9.75" cy="26.25" r="6"/>
+      <path class="interest_button__icon-part" d="M1.75,43.25v-2a8,8,0,0,1,8-8h0a8,8,0,0,1,8,8h0v2Z"/>
+      <path class="interest_button__icon-part" d="M18.75,43.25a12,12,0,0,1,24,0v2h-24Z"/>
+    </svg>
+  <% end %>
+<% end %>

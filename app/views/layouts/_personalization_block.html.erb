@@ -1,6 +1,9 @@
 <div class="personalization_block">
   <div class="personalization_block__header">
-    <%= title %>
+    <div class="personalization_block__header-title">
+      <%= title %>
+    </div>
+    <%= yield :icon %>
   </div>
   <div class="personalization_block__content">
     <%= yield %>

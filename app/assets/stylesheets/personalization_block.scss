@@ -1,5 +1,5 @@
 .personalization_block {
-  height: 60px;
+  max-height: 60px;
   width: 350px;
   border: 0.8px solid rgba(151,151,151,0.2);
   border-radius: 4px;
@@ -8,12 +8,45 @@
   margin-bottom: 20px;
   padding: 0 20px;
   overflow: hidden;
+  cursor: pointer;
+  transition: max-height 300ms ease-in-out;
+
+  &--expanded {
+    height: auto;
+    max-height: 400px;
+    transition: max-height 300ms ease-in-out;
+  }
 
   &__header {
-    font-size: 10px;
-    font-weight: 500;
+    color: #0063CE;
+    font-size: 12px;
     letter-spacing: 1px;
     line-height: 60px;
     text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__header-title {
+    font-weight: 500;
+  }
+
+  &__icon {
+    height: 30px;
+  }
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  &__icon-part {
+    fill: none;
+    stroke: #0063CE;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2px;
   }
 }

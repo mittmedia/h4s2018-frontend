@@ -20,13 +20,8 @@
   </div>
 </div>
 <div class="topic_container">
-  <%= render layout: "layouts/personalization_block", locals: { title: "välj dina intressen" } do %>
-    Some content
-  <% end %>
-
-  <%= render layout: "layouts/personalization_block", locals: { title: "välj dina områden" } do %>
-    Some content
-  <% end %>
+  <%= render partial: "layouts/personalization_block-interests" %>
+  <%= render partial: "layouts/personalization_block-regions" %>
 
   <% @topics.each do |topic| %>
     <% if topic.type == 'card' %>

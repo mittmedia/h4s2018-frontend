@@ -1,0 +1,50 @@
+.interest_button {
+  background-color: transparent;
+  border: 0;
+
+  &--selected {
+    .interest_button__circle {
+      background-color: #0063CE;
+    }
+
+    .interest_button__icon-part {
+      stroke: #fff;
+    }
+  }
+
+  &__icon {
+    max-width: 30px;
+    max-height: 30px;
+    min-width: 30px;
+  }
+
+  &__icon-part {
+    fill: none;
+    stroke: #000;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2px;
+  }
+
+  &__circle {
+    height: 52px;
+    width: 52px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 50%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__label {
+    color: #4A4A4A;
+    font-size: 8px;
+    letter-spacing: 1px;
+    line-height: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+}
