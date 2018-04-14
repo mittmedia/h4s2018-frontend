@@ -50,6 +50,8 @@ GEM
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     hkdf (0.3.0)
+    httparty (0.16.2)
+      multi_xml (>= 0.5.2)
     i18n (1.0.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.7.0)
@@ -70,6 +72,7 @@ GEM
     mini_portile2 (2.3.0)
     minitest (5.11.3)
     multi_json (1.13.1)
+    multi_xml (0.6.0)
     nio4r (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
@@ -157,6 +160,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  httparty
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.7)
