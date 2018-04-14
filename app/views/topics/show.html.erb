@@ -1,3 +1,21 @@
 <%= render partial: "layouts/hero" %>
 
 <%= render partial: "layouts/topic_card", locals: { topic: @topic, shadowless: true } %>
+
+<div class="timeline">
+  <div class="timeline__header">vart är ärendet just nu?</div>
+  <div class="timeline__line"></div>
+  <div class="timeline__steps">
+    <% ['förslag', 'beredning', 'debatt', 'beslut'].each do |step| %>
+      <div class="timeline__step">
+        <div class="timeline__dot<%= " timeline__dot--active" if @doctypes.include? step %>"></div>
+        <div class="timeline__label"><%= step %></div>
+      </div>
+    <% end %>
+  </div>
+
+  <div class="summary__header">Samvattning</div>
+  <p class="summary__content">
+    <%= @topic.summary %>
+  </p>
+</div>
