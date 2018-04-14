@@ -12,7 +12,6 @@ class TopicsController < ApplicationController
   end
 
   def show
-    @topic_id = params[:topic_id]
     @documents = Api::Document.all(@topic_id)
   end
 
