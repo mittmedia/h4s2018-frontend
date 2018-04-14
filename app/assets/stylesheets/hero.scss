@@ -4,6 +4,13 @@
   position: relative;
   margin-bottom: 20px;
 
+  &__logo {
+    background-image: image-url('logo.png');
+    height: 30px;
+    width: 110px;
+    background-size: cover;
+  }
+
   &--big {
     height: 356px;
 
