@@ -77,7 +77,7 @@ export default class NotificationHelper {
 
   updateSubscriptionOnServer() {
     const userId = Cookie.get('user_id');
-    fetch(`/users/${userId}/subscribe`, {
+    fetch(`/users/${userId}/register_notifications`, {
       body: JSON.stringify({
         user: {
           subscription: this.subscription.toJSON(),
