@@ -2,17 +2,7 @@ class TopicsController < ApplicationController
   before_action :verify_topic, only: :show
 
   def index
-<<<<<<< HEAD
     @topics = get_all_topics
-=======
-    @topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
-      topic['type'] = 'card'
-      topic['stage'] = 'status: beslut'
-      OpenStruct.new(topic)
-    end.uniq!(&:doc_id)
-    # insert_trending!
-
->>>>>>> Fixes and trending work
     # TODO: Do something with the trending topics design thing
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
   end
@@ -38,7 +28,7 @@ class TopicsController < ApplicationController
       topic['type'] = 'card'
       topic['stage'] = 'status: beslut'
       OpenStruct.new(topic)
-    end.uniq!(&:doc_id)
+    end.uniq(&:doc_id)
   end
 
   private
