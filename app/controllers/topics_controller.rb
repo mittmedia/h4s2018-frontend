@@ -24,24 +24,47 @@ class TopicsController < ApplicationController
   end
 
   def get_all_topics
-    JSON.parse(Api::Topic.all)["topics"].map do |topic|
+    topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
       topic['type'] = 'card'
       topic['stage'] = 'status: beslut'
+      topic['doc_id'].upcase!
       OpenStruct.new(topic)
     end.uniq(&:doc_id)
+    insert_trending(topics)
   end
 
   private
 
-  def insert_trending!
-    trending = TopicSubscription.trending
-    trending.map!{ |trendy_id| @topics.delete_if { |topic| trending.include?(topic.id) } }
-    trending_container = OpenStruct.new({
+  def trending_topics(topics)
+    limit = 3
+    trending_dok_ids = TopicSubscription.trending
+    trending_topics = topics.select do |topic|
+      trending_dok_ids.include?(topic.doc_id)
+    end
+    trending_topics.take(limit)
+  end
+
+  def insert_trending(topics)
+    tt = trending_topics(topics)
+    return topics if tt.length == 0
+    trending_doc_ids = tt.pluck(:doc_id)
+    topics = filter_trending(topics, trending_doc_ids)
+    order_feed(topics, tt)
+  end
+
+  def filter_trending(topics, trending_doc_ids)
+    topics.reject { |topic| trending_doc_ids.include?(topic.doc_id) }
+  end
+
+  def order_feed(topics, tt)
+    topics.insert(1, wrap_trending_topics(tt))
+  end
+
+  def wrap_trending_topics(tt)
+    OpenStruct.new({
       type: 'trending',
-      cards: trending.flatten
+      cards: tt
     })
-    new_topics = [@topics.delete_at(0), trending_container]
-    @topics = new_topics << @topics
   end
 
   def verify_topic
