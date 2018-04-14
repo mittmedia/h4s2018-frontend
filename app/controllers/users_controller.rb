@@ -9,7 +9,8 @@ class UsersController < ApplicationController
     :subscribe_to_topic,
     :unsubscribe_from_topic
   ]
-  before_action :set_region, only: [:subscribe_to_region, :unsubscribe_from_region]
+  before_action :verify_region, only: [:subscribe_to_region, :unsubscribe_from_region]
+  before_action :verify_topic, only: [:subscribe_to_topic, :unsubscribe_from_topic]
 
   # TODO: This clearly can't be okay.
   skip_before_action :verify_authenticity_token, only: [
@@ -118,12 +119,21 @@ class UsersController < ApplicationController
       @user = User.find(cookies[:user_id] || params[:user_id])
     end
 
-    def set_region
-      @region = Region.find(params[:region_id])
+    def verify_region
+      @region = Region.find_by!(id: params[:region_id])
+    end
+
+    def verify_topic
+      @topic_id = params[:topic_id]
+      bad_request('Missing `topic_id` parameter') if @topic_id.blank?
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def user_params
       params.fetch(:user, {})
+    end
+
+    def bad_request(message)
+      raise ActionController::BadRequest.new(message)
     end
 end
