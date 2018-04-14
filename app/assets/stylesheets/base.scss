@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,500|Playfair+Display');
 
 body {
-  background-color: black;
+  background-color: grey;
 }
 
 .app_content {
@@ -10,6 +10,7 @@ body {
   width: 375px;
   margin: 0 auto;
   justify-content: center;
+  flex-direction: column;
 }
 
 *,

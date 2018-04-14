@@ -8,6 +8,7 @@
 // layout file, like app/views/layouts/application.html.erb
 
 import NotificationHelper from 'modules/notification';
+import PersonsonalizationBlock from 'modules/personalization_block';
 
 const publicKey = window._notification_public_key;
 if ('serviceWorker' in navigator) {
@@ -24,3 +25,7 @@ if ('serviceWorker' in navigator) {
       throw new Error(error);
     });
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  new PersonsonalizationBlock();
+});

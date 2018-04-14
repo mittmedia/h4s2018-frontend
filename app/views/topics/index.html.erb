@@ -1,4 +1,33 @@
+<div class="hero">
+  <div class="hero__background"></div>
+  <div class="hero__image">
+    <div class="hero__top-bar">
+      <div class="hero__logo">politikkollen</div>
+      <svg class="hero__icon hero__icon--user" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.27 63.75">
+        <circle class="hero__icon-part hero__icon-part--user" cx="32" cy="32" r="29"/>
+        <circle class="hero__icon-part hero__icon-part--user" cx="32" cy="27" r="12"/>
+        <path class="hero__icon-part hero__icon-part--user" d="M12.86,54A20.38,20.38,0,0,1,32,40,20.38,20.38,0,0,1,51.14,54"/>
+        <circle class="hero__icon-part hero__icon-part--notification" cx="54" cy="10" r="10"/>
+        <circle class="hero__icon-part hero__icon-part--white-notification" cx="54" cy="10" r="3"/>
+      </svg>
+    </div>
+    <div class="hero__text">
+      Få koll på politiska beslut som berör dig och dina intressen
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.26 62.75" class="hero__icon hero__icon--more">
+      <polyline class="hero__icon-part hero__icon-part--more" points="43.25 26.75 31.25 38.75 19.25 26.75"/>
+    </svg>
+  </div>
+</div>
 <div class="topic_container">
+  <%= render layout: "layouts/personalization_block", locals: { title: "välj dina intressen" } do %>
+    Some content
+  <% end %>
+
+  <%= render layout: "layouts/personalization_block", locals: { title: "välj dina områden" } do %>
+    Some content
+  <% end %>
+
   <% @topics.each do |topic| %>
     <% if topic.type == 'card' %>
       <%= render partial: "layouts/topic_card", locals: { topic: topic } %>
