@@ -7,13 +7,12 @@
 
 <%= render layout: "layouts/personalization_block", locals: { title: "välj dina områden" } do %>
   <select class="personalization_block__select personalization_block__select--counties">
-    <% counties_options = ['VÄLJ REGION…'].concat(counties.map { |county| [county.name, county.id] }) %>
+    <% counties_options = ['VÄLJ REGION…'].concat(counties.sort {|x,y| x.name <=> y.name }.map { |county| [county.name, county.id] }) %>
     <%= options_for_select(counties_options) %>
-    <%= options_from_collection_for_select(counties, :id, :name) %>
   </select>
 
   <select class="personalization_block__select personalization_block__select--municipalities">
-    <% municipalities_options = ['VÄLJ KOMMUN…'].concat(municipalities.map { |municipality| [municipality.name, municipality.id, { 'data-parent' => municipality.parent_id }] }) %>
+    <% municipalities_options = ['VÄLJ KOMMUN…'].concat(municipalities.sort {|x,y| x.name <=> y.name }.map { |municipality| [municipality.name, municipality.id, { 'data-parent' => municipality.parent_id }] }) %>
     <%= options_for_select(municipalities_options) %>
   </select>
 <% end %>
