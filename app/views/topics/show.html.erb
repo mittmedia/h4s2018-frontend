@@ -14,8 +14,15 @@
     <% end %>
   </div>
 
-  <div class="summary__header">Samvattning</div>
+  <div class="summary__header">Samanfattning</div>
   <p class="summary__content">
     <%= @topic.summary %>
   </p>
+  <% prng = Random.new %>
+  <div class="summary__header">Dokumentlista</div>
+  <div class="document__content">
+    <a href="#">Kommitédirektiv</a>, 1 st.<br>
+    <a href="#">Statens offientliga utredning</a>, 1 st.<br>
+    <a href="#">Remissvar</a>, <%= prng.rand(1...3) %> st.<br>
+  </div>
 </div>

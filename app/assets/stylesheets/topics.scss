@@ -84,3 +84,27 @@
     line-height: 15px;
   }
 }
+
+
+.document {
+  &__header {
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 13px;
+    width: 100%;
+    margin: 20px 0 10px;
+  }
+
+  &__content {
+    color: #222222;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}

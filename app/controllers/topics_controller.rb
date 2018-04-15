@@ -27,7 +27,7 @@ class TopicsController < ApplicationController
   def get_all_topics
     topics = JSON.parse(Api::Topic.all)["topics"].map do |topic|
       topic['type'] = 'card'
-      topic['stage'] = 'status: beslut'
+      topic['stage'] = 'status: beredning'
       OpenStruct.new(topic)
     end.uniq(&:doc_id).sort { |x,y| y.published_at <=> x.published_at }
   end
