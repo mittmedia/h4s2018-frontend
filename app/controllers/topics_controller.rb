@@ -30,7 +30,7 @@ class TopicsController < ApplicationController
       topic['type'] = 'card'
       topic['stage'] = 'status: beslut'
       OpenStruct.new(topic)
-    end.uniq(&:doc_id)
+    end.uniq(&:doc_id).sort { |x,y| y.published_at <=> x.published_at }
   end
 
   private
