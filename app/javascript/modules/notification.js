@@ -1,5 +1,7 @@
 import Cookie from 'js-cookie';
 
+let notificationHelperInstance;
+
 function urlB64ToUint8Array(base64String) {
   const padding = '='.repeat((4 - base64String.length % 4) % 4);
   const base64 = (base64String + padding)
@@ -35,10 +37,11 @@ export default class NotificationHelper {
     this.serverPublicKey = serverPublicKey;
     this.subscription = subscription;
     this.applicationServerKey = urlB64ToUint8Array(serverPublicKey);
+    notificationHelperInstance = this;
   }
 
   static new(swRegistration, serverPublicKey) {
-    return swRegistration.pushManager.getSubscription()
+    return notificationHelperInstance ? Promise.resolve(notificationHelperInstance) : swRegistration.pushManager.getSubscription()
       .then((subscription) => {
         return new NotificationHelper(
           swRegistration,
@@ -64,6 +67,7 @@ export default class NotificationHelper {
   }
 
   subscribeUser() {
+    // TODO: Consider if we want people to be able to subscribe to things if they denied push notifications
     if (this.hasRejected) return Promise.resolve();
     if (this.isSubscribed) return Promise.resolve(this.subscription);
 

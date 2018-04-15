@@ -1,3 +1,5 @@
+import Notification from 'modules/notification';
+
 export default class InterestButton {
   constructor () {
     this.buttons = document.querySelectorAll('.interest_button');
@@ -11,6 +13,14 @@ export default class InterestButton {
   }
 
   toggleActive (interestButton) {
-    interestButton.classList.toggle('interest_button--selected')
+    Notification.new()
+      .then((notificationHelper) => {
+        return notificationHelper.subscribeUser();
+      })
+      .then(() => {
+        interestButton.classList.toggle('interest_button--selected')
+      })
+      // TODO: Better error handling
+      .catch(console.error);
   }
 }

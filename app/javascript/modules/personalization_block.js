@@ -1,4 +1,5 @@
 import Cookie from 'js-cookie';
+import Notification from 'modules/notification';
 
 export default class PersonalizationBlock {
   constructor() {
@@ -27,21 +28,28 @@ export default class PersonalizationBlock {
   }
 
   onRegionChange(regionField) {
-    if (regionField.classList.contains('personalization_block__select--counties')) {
-      const municipalityOptions = document.querySelectorAll('.personalization_block__select--municipalities option');
-      municipalityOptions.forEach(municipalityOption => {
-        const parentId = municipalityOption.getAttribute('data-parent');
-        if (parentId && parentId !== regionField.value) {
-          municipalityOption.classList.add('personalization_block__option--disabled')
-        } else {
-          municipalityOption.classList.remove('personalization_block__option--disabled')
-        }
+    Notification.new()
+      .then((notificationHelper) => {
+        return notificationHelper.subscribeUser();
       })
-    }
+      .then(() => {
+        if (regionField.classList.contains('personalization_block__select--counties')) {
+          const municipalityOptions = document.querySelectorAll('.personalization_block__select--municipalities option');
+          municipalityOptions.forEach(municipalityOption => {
+            const parentId = municipalityOption.getAttribute('data-parent');
+            if (parentId && parentId !== regionField.value) {
+              municipalityOption.classList.add('personalization_block__option--disabled')
+            } else {
+              municipalityOption.classList.remove('personalization_block__option--disabled')
+            }
+          })
+        }
 
-    const userId = Cookie.get('user_id');
-    fetch(`/users/${userId}/subscribe_to_region.json?region_id=${regionField.value}`, {
-      method: 'PUT'
-    });
+        const userId = Cookie.get('user_id');
+        return fetch(`/users/${userId}/subscribe_to_region.json?region_id=${regionField.value}`, {
+          method: 'PUT'
+        });
+      })
+      .catch(console.error);
   }
 }

@@ -1,4 +1,5 @@
 import Cookie from 'js-cookie';
+import Notification from 'modules/notification';
 
 export default class FollowButton {
   constructor () {
@@ -19,16 +20,24 @@ export default class FollowButton {
   triggerFollow(followButton, event) {
     event.preventDefault();
 
-    const topicId = this.getTopicId(followButton);
-    const userId = Cookie.get('user_id');
-    let path = `/users/${userId}/subscribe_to_topic.json?topic_id=${topicId}`;
-    if (followButton.classList.contains('follow_button--active')) {
-      path = `/users/${userId}/unsubscribe_from_topic.json?topic_id=${topicId}`;
-    }
-    fetch(path, {
-      method: 'PUT'
-    }).then(() => {
-      location.reload();
-    });
+    Notification.new()
+      .then((notificationHelper) => {
+        return notificationHelper.subscribeUser();
+      })
+      .then(() => {
+        const topicId = this.getTopicId(followButton);
+        const userId = Cookie.get('user_id');
+        let path = `/users/${userId}/subscribe_to_topic.json?topic_id=${topicId}`;
+        if (followButton.classList.contains('follow_button--active')) {
+          path = `/users/${userId}/unsubscribe_from_topic.json?topic_id=${topicId}`;
+        }
+        fetch(path, {
+          method: 'PUT'
+        }).then(() => {
+          location.reload();
+        });
+      })
+      // TODO: Better error handling
+      .catch(console.error);
   }
 }

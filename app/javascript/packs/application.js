@@ -18,12 +18,6 @@ if ('serviceWorker' in navigator) {
     .then(swRegistration => {
       return NotificationHelper.new(swRegistration, publicKey);
     })
-    .then(notificationHelper => {
-      // TODO: Move this to FollowButton and InterestButton
-      if (window.location.pathname === '/topics') {
-        return notificationHelper.subscribeUser();
-      }
-    })
     .catch(error => {
       throw new Error(error);
     });
