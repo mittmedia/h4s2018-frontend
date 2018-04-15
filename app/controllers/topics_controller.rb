@@ -13,10 +13,9 @@ class TopicsController < ApplicationController
     topics = get_all_topics
     @topic = topics.select { |topic| topic.doc_id == @topic_id }.first
     @documents = JSON.parse(Api::Document.all(@topic_id))
-    doctypes = []
+    doctypes = ['förslag']
     @documents['documents'].each do |doc|
       doc_type = doc['document_type']
-      doctypes.push('förslag') if doc_type === 'sou'
       doctypes.push('beredning') if doc_type === 'prop'
       doctypes.push('debatt') if doc_type === 'mot'
       doctypes.push('beslut') if doc_type === 'vot'
