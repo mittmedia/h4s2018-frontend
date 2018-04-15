@@ -49,4 +49,12 @@
     stroke-linejoin: round;
     stroke-width: 2px;
   }
+
+  &__select {
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: white;
+    border: 0;
+    height: 32px;
+  }
 }

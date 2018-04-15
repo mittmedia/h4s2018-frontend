@@ -10,8 +10,7 @@ export default class InterestButton {
     });
   }
 
-  toggleActive (interestButton, event) {
-    event.stopPropagation();
+  toggleActive (interestButton) {
     interestButton.classList.toggle('interest_button--selected')
   }
 }

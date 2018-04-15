@@ -1,7 +1,7 @@
 <%= render partial: "layouts/hero", locals: { big: true } %>
 <div class="topic_container">
   <%= render partial: "layouts/personalization_block-interests" %>
-  <%= render partial: "layouts/personalization_block-regions" %>
+  <%= render partial: "layouts/personalization_block-regions", locals: { municipalities: @municipalities, counties: @counties } %>
 
   <% @topics.each do |topic| %>
     <% if topic.type == 'card' %>

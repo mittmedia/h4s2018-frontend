@@ -5,21 +5,23 @@ class TopicsController < ApplicationController
     topics = get_all_topics
     @topics = insert_trending(topics)
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
+    @counties = Region.where(level: 0)
+    @municipalities = Region.where(level: 1)
   end
 
   def show
     topics = get_all_topics
     @topic = topics.select { |topic| topic.doc_id == @topic_id }.first
     @documents = JSON.parse(Api::Document.all(@topic_id))
-    @doctypes = []
+    doctypes = []
     @documents['documents'].each do |doc|
       doc_type = doc['document_type']
-      @doctypes.push('förslag') if doc_type === 'sou'
-      @doctypes.push('beredning') if doc_type === 'prop'
-      @doctypes.push('debatt') if doc_type === 'mot'
-      @doctypes.push('beslut') if doc_type === 'vot'
+      doctypes.push('förslag') if doc_type === 'sou'
+      doctypes.push('beredning') if doc_type === 'prop'
+      doctypes.push('debatt') if doc_type === 'mot'
+      doctypes.push('beslut') if doc_type === 'vot'
     end
-    @doctypes = @doctypes.uniq
+    @doctypes = doctypes.uniq
     @user_topic_subscriptions = TopicSubscription.where(user_id: cookies[:user_id])
   end
 
